@@ -1,0 +1,1380 @@
+sentence1,sentence2,score
+"['girl', 'styling', 'hair']","['girl', 'brushing', 'hair']",2.5
+"['group', 'men', 'play', 'soccer', 'beach']","['group', 'boys', 'playing', 'soccer', 'beach']",3.6
+"['one', 'woman', 'measuring', 'another', 'womans', 'ankle']","['woman', 'measures', 'another', 'womans', 'ankle']",5.0
+"['man', 'cutting', 'cucumber']","['man', 'slicing', 'cucumber']",4.2
+"['man', 'playing', 'harp']","['man', 'playing', 'keyboard']",1.5
+"['woman', 'cutting', 'onions']","['woman', 'cutting', 'tofu']",1.8
+"['man', 'riding', 'electric', 'bicycle']","['man', 'riding', 'bicycle']",3.5
+"['man', 'playing', 'drums']","['man', 'playing', 'guitar']",2.2
+"['man', 'playing', 'guitar']","['lady', 'playing', 'guitar']",2.2
+"['man', 'playing', 'guitar']","['man', 'playing', 'trumpet']",1.714
+"['man', 'playing', 'guitar']","['man', 'playing', 'trumpet']",1.714
+"['man', 'cutting', 'onion']","['man', 'cuts', 'onion']",5.0
+"['man', 'cycling']","['man', 'talking']",0.6000000000000001
+"['man', 'slicing', 'open', 'fish']","['man', 'cutting', 'fish']",4.4
+"['man', 'slicing', 'tomato']","['man', 'slicing', 'bun']",2.0
+"['man', 'playing', 'guitar']","['man', 'playing', 'keyboard']",1.8
+"['baby', 'panda', 'goes', 'slide']","['panda', 'slides', 'slide']",4.4
+"['man', 'singing', 'playing', 'guitar']","['man', 'playing', 'guitar']",3.6
+"['man', 'attacks', 'woman']","['man', 'slaps', 'woman']",3.6
+"['man', 'driving', 'car']","['man', 'riding', 'horse']",1.2
+"['woman', 'cutting', 'tofu']","['woman', 'cutting', 'onion']",2.4
+"['woman', 'styling', 'hair']","['woman', 'slicing', 'herbs']",0.2
+"['two', 'zebras', 'play', 'open', 'field']","['two', 'zebras', 'playing', 'field']",4.2
+"['man', 'cutting', 'potato']","['man', 'slicing', 'potato']",4.4
+"['man', 'slicing', 'onion']","['woman', 'slicing', 'pumpkin']",2.25
+"['man', 'dancing']","['man', 'woman', 'dancing']",2.0
+"['man', 'riding', 'motorcycle']","['woman', 'riding', 'horse']",0.75
+"['woman', 'slicing', 'garlics']","['woman', 'slicing', 'onion']",2.2
+"['man', 'speaking']","['man', 'cooking']",0.8
+"['little', 'boy', 'singing', 'playing', 'guitar']","['man', 'singing', 'playing', 'guitar']",2.2
+"['turtle', 'swimming', 'water']","['turtle', 'walking', 'underwater']",3.2
+"['young', 'woman', 'putting', 'stickers', 'face']","['woman', 'applying', 'stickers', 'face']",4.8
+"['woman', 'wrapping', 'tofu']","['woman', 'balling', 'dough']",1.4
+"['cat', 'eating', 'corn']","['cat', 'eating', 'corn', 'cob']",4.25
+"['man', 'eating', 'food']","['man', 'eating', 'piece', 'bread']",3.4
+"['man', 'playing', 'guitar']","['man', 'eating', 'pasta']",0.533
+"['man', 'kicking', 'pots', 'water']","['man', 'picking', 'flowers']",0.4
+"['man', 'cutting', 'pipe', 'scissors']","['man', 'cutting', 'carpet', 'knife']",1.2
+"['woman', 'dancing', 'rain']","['woman', 'dances', 'rain', 'side']",5.0
+"['woman', 'taking', 'bath']","['woman', 'riding', 'horse']",0.538
+"['man', 'mixes', 'vegetables', 'pot']","['person', 'stirring', 'vegetables', 'pot']",3.75
+"['woman', 'talking', 'cell', 'phone']","['man', 'woman', 'talking', 'phone']",3.0
+"['man', 'playing', 'guitar']","['man', 'singing', 'playing', 'guitar']",3.6
+"['man', 'playing', 'guitar']","['man', 'driving', 'car']",0.5
+"['man', 'cutting', 'apple', 'hand']","['man', 'cutting', 'carpet', 'knife']",1.5
+"['man', 'opening', 'door']","['man', 'cutting', 'onion']",0.8
+"['man', 'slicing', 'tomato']","['man', 'riding', 'horse']",0.8
+"['man', 'cutting', 'paper', 'sword']","['woman', 'cutting', 'tomato']",0.6000000000000001
+"['boy', 'studies', 'calendar']","['boy', 'looking', 'calendar']",4.4
+"['ballerina', 'dancing']","['man', 'dancing']",1.75
+"['woman', 'dancing']","['woman', 'playing', 'violin']",0.4
+"['woman', 'slicing', 'tomatoes']","['woman', 'chopping', 'potato']",1.4
+"['woman', 'water', 'skiing']","['woman', 'slicing', 'fish']",0.4
+"['man', 'playing', 'flute']","['man', 'riding', 'scooter']",0.8
+"['man', 'playing', 'piano']","['man', 'played', 'guitar']",2.0
+"['woman', 'picking']","['man', 'playing', 'guitar']",0.133
+"['man', 'puts', 'three', 'pieces', 'meat', 'pan']","['man', 'putting', 'meat', 'pan']",4.0
+"['woman', 'cutting', 'onion']","['woman', 'cleaning', 'garden']",0.267
+"['men', 'sawing']","['men', 'sawing', 'logs']",3.4
+"['car', 'driven', 'road']","['girl', 'walking', 'road']",1.2
+"['man', 'kissing', 'hugging', 'woman']","['man', 'hugging', 'kissing', 'woman']",5.0
+"['train', 'moving']","['man', 'yoga']",0.0
+"['someone', 'slicing', 'onion']","['woman', 'cutting', 'onion']",3.8
+"['woman', 'playing', 'ocean']","['woman', 'preparing', 'shrimp', 'cook']",0.75
+"['person', 'playing', 'electronic', 'keyboard']","['kid', 'playing', 'keyboard']",3.4
+"['man', 'holding', 'leaf']","['monkey', 'fighting', 'man']",0.0
+"['woman', 'peeling', 'shrimp']","['man', 'squeezing', 'water']",0.2
+"['man', 'sitting', 'smoking']","['man', 'smoking', 'cigarette']",4.0
+"['man', 'playing', 'guitar']","['woman', 'riding', 'horse']",0.5
+"['man', 'standing', 'front', 'window', 'looking', 'outside']","['man', 'staring', 'window']",3.8
+"['skunk', 'looking']","['skunk', 'looks', 'camera']",2.4
+"['man', 'playing', 'guitar', 'singing']","['man', 'sings', 'guitar']",4.75
+"['woman', 'opens', 'window']","['man', 'crawling']",0.0
+"['people', 'dancing', 'outside']","['group', 'people', 'dancing']",3.75
+"['man', 'using', 'camera', 'hammer', 'nail']","['someone', 'banging', 'camera', 'lense', 'nail']",2.6
+"['woman', 'filing', 'nails']","['man', 'peeling', 'carrot']",0.0
+"['boy', 'crawling', 'dog', 'house']","['boy', 'playing', 'wooden', 'flute']",0.75
+"['woman', 'swimming', 'underwater']","['man', 'slicing', 'carrots']",0.0
+"['machine', 'sharpening', 'pencil']","['machine', 'shaved', 'end', 'pencil']",3.8
+"['monkey', 'playing', 'drums']","['gorilla', 'plays', 'drums']",2.8
+"['man', 'opening', 'box', 'taking', 'paper']","['woman', 'peeling', 'potato']",0.0
+"['woman', 'dancing']","['woman', 'plays', 'clarinet']",0.8
+"['person', 'drawing', 'large', 'touchscreen']","['man', 'drawing', 'digital', 'dry', 'erase', 'board']",3.0
+"['men', 'played', 'follow', 'leader', 'grass']","['rhino', 'grazed', 'grass']",1.0
+"['woman', 'cracking', 'eggs']","['man', 'talking', 'woman']",0.0
+"['woman', 'peels', 'garlic', 'hands']","['woman', 'slicing', 'herbs']",1.0
+"['polar', 'bears', 'fought', 'kill']","['polar', 'bears', 'fighting']",3.4
+"['man', 'trick', 'play', 'cards']","['man', 'performing', 'card', 'trick']",5.0
+"['cat', 'licking', 'bottle']","['cat', 'plays', 'small', 'bottle']",2.333
+"['person', 'slicing', 'onion']","['person', 'cuts', 'ginger']",1.4
+"['person', 'peeling', 'potato', 'potato', 'peeler']","['man', 'cutting', 'tomatoes', 'cleaver']",0.75
+"['two', 'women', 'dancing', 'singing', 'front', 'crowd']","['women', 'singing', 'dancing']",3.5380000000000003
+"['man', 'seasoning', 'carrots']","['woman', 'slicing', 'garlic']",0.8
+"['two', 'men', 'pushed', 'carts', 'woods']","['two', 'men', 'pushing', 'carts']",3.5
+"['man', 'playing', 'football']","['man', 'maneuvering', 'soccer', 'ball', 'feet']",2.0
+"['lady', 'peeled', 'potatoe']","['woman', 'peeling', 'potato']",4.75
+"['woman', 'slicing', 'tofu']","['woman', 'cutting', 'block', 'tofu', 'small', 'cubes']",4.0
+"['someone', 'typed', 'keyboard']","['someone', 'typing']",4.5
+"['three', 'young', 'men', 'run', 'jump', 'kick', 'coke', 'machine']","['three', 'men', 'jumping', 'wall']",1.5
+"['young', 'asian', 'girl', 'applying', 'eyeliner']","['girl', 'putting', 'eye', 'makeup']",2.4
+"['cat', 'walking', 'around', 'house']","['woman', 'peeling', 'potato']",0.0
+"['woman', 'talking', 'pet', 'bunny', 'fondles']","['woman', 'walks', 'dog', 'onto', 'astro', 'turf']",0.4
+"['monkey', 'playing', 'drums']","['someone', 'gorilla', 'costume', 'playing', 'set', 'drums']",2.5
+"['man', 'riding', 'white', 'horse', 'enclosed', 'ground']","['someone', 'riding', 'horse']",2.6
+"['oriental', 'lady', 'cutting', 'carrot', 'thin', 'pieces']","['woman', 'slicing', 'carrot']",3.6
+"['group', 'people', 'dancing']","['women', 'dancing', 'outside']",3.0
+"['man', 'playing', 'guitar']","['boy', 'talking', 'giant', 'dog']",0.0
+"['woman', 'mixes', 'vegetables']","['woman', 'adding', 'ingredients', 'skillet']",1.6
+"['woman', 'pours', 'mixture', 'bowl', 'mixes']","['woman', 'preparing', 'egg', 'skillet']",1.25
+"['man', 'cutting', 'pieces', 'butter', 'mixing', 'bowl']","['pieces', 'butter', 'added', 'stand', 'mixer']",3.6
+"['man', 'putting', 'garlic', 'bread', 'slices']","['man', 'sprinkling', 'seasoning', 'several', 'split', 'buttered', 'loaves', 'bread']",2.0
+"['panda', 'bear', 'lay', 'logs']","['panda', 'lying']",3.6
+"['five', 'men', 'jump', 'swimming', 'pool']","['group', 'swimmers', 'fall', 'pool']",2.8
+"['cheetah', 'running', 'behind', 'prey']","['cheetah', 'chases', 'prey', 'across', 'field']",4.4
+"['cat', 'playing', 'floor']","['man', 'slicing', 'garlic']",0.0
+"['boy', 'playing', 'violin', 'stage']","['person', 'mixing', 'pot']",0.0
+"['dog', 'barking', 'toy']","['little', 'dog', 'barked', 'electronic', 'toy']",3.75
+"['man', 'cycling']","['boy', 'riding', 'bicycle']",2.5
+"['woman', 'slicing', 'ginger']","['person', 'holding', 'two', 'baby', 'lorises']",0.0
+"['man', 'dragging', 'dead', 'deer']","['man', 'jumping', 'water', 'cliff']",0.8
+"['man', 'preparing', 'snake', 'cooking']","['man', 'dropping', 'sliced', 'cucumbers', 'water']",1.0
+"['woman', 'spreading', 'mustard', 'bread', 'roll']","['kitten', 'playing', 'womans', 'finger']",0.0
+"['someone', 'touched', 'kitten', 'chewing', 'string']","['someone', 'cutting', 'paper']",0.25
+"['meat', 'put', 'skillet']","['woman', 'putting', 'baby', 'trash']",0.4
+"['baby', 'elephant', 'eating', 'small', 'tree']","['little', 'girl', 'peddling', 'scooter']",0.0
+"['woman', 'man', 'dancing', 'rain']","['man', 'woman', 'dancing', 'rain']",5.0
+"['someone', 'drawing']","['someone', 'dancing']",0.30000000000000004
+"['man', 'playing', 'guitar']","['woman', 'playing', 'guitar']",2.75
+"['two', 'men', 'fistfighting', 'ring']","['two', 'men', 'fistfight', 'ring']",5.0
+"['person', 'wipes', 'butter', 'tray']","['person', 'buttering', 'tray']",4.25
+"['two', 'men', 'playing', 'football']","['two', 'men', 'practicing', 'football']",3.4
+"['man', 'playing', 'guitar']","['girl', 'playing', 'guitar']",1.6
+"['man', 'peeling', 'potato']","['man', 'slicing', 'potato']",2.6
+"['woman', 'stabbing', 'potato', 'fork']","['woman', 'puncturing', 'potato', 'fork']",5.0
+"['child', 'waking']","['girl', 'waking']",3.2
+"['boy', 'playing', 'keyboard']","['little', 'boy', 'playing', 'keyboard']",4.8
+"['woman', 'plays', 'flute']","['woman', 'playing', 'flute']",5.0
+"['woman', 'playing', 'electric', 'guitar']","['man', 'playing', 'acoustic', 'guitar']",2.4
+"['man', 'playing', 'flute']","['man', 'playing', 'guitar']",2.0
+"['group', 'people', 'sweeping', 'water', 'house']","['people', 'sweeping', 'water', 'house']",5.0
+"['man', 'plays', 'guitar']","['man', 'playing', 'guitar']",5.0
+"['man', 'woman', 'kissing']","['man', 'woman', 'hugging', 'kissing']",3.4
+"['woman', 'climbing', 'cliff']","['woman', 'climbing', 'rock', 'face']",4.5
+"['polar', 'bear', 'running', 'towards', 'group', 'walruses']","['polar', 'bear', 'chasing', 'group', 'walruses']",4.2
+"['woman', 'cutting', 'fish']","['woman', 'cutting', 'tofu']",2.2
+"['someone', 'playing', 'piano']","['someone', 'playing', 'guitar']",2.4
+"['man', 'pouring', 'rice', 'roni', 'pan']","['man', 'poured', 'ricaroni', 'pan']",3.8
+"['man', 'breaking', 'wooden', 'boards', 'hand']","['man', 'breaking', 'tiles', 'hands']",2.5
+"['girl', 'playing', 'guitar']","['girl', 'playing', 'piano']",2.0
+"['man', 'praying']","['man', 'dancing']",0.75
+"['man', 'playing', 'piano']","['man', 'playing', 'violin']",2.0
+"['woman', 'slicing', 'onion']","['woman', 'slicing', 'lemons']",2.2
+"['man', 'riding', 'horse', 'creek']","['man', 'riding', 'horse']",4.0
+"['man', 'playing', 'guitar']","['man', 'playing', 'guitar', 'singing']",3.2
+"['man', 'picking', 'tree']","['man', 'carrying', 'tree']",3.8
+"['person', 'peeling', 'potato']","['man', 'peeling', 'potato']",3.75
+"['person', 'playing', 'piano']","['person', 'slicing', 'potato']",0.5
+"['man', 'spitting']","['man', 'talking']",0.8
+"['man', 'playing', 'musical', 'keyboard']","['man', 'playing', 'keyboard', 'piano']",5.0
+"['man', 'dancing']","['man', 'thinking']",1.2
+"['man', 'plays', 'trumpet']","['man', 'playing', 'trumpet']",5.0
+"['woman', 'riding', 'horse']","['man', 'rides', 'horse']",2.8
+"['band', 'playing', 'stage']","['woman', 'dancing', 'stage']",1.2
+"['woman', 'playing', 'guitar', 'singing']","['woman', 'playing', 'guitar']",3.2
+"['man', 'eating']","['man', 'eating', 'food']",4.6
+"['little', 'boy', 'hits', 'golf', 'ball']","['little', 'boy', 'swung', 'golf', 'ball']",4.0
+"['guy', 'taking', 'sunglasses']","['boy', 'removing', 'sunglasses']",3.8
+"['someone', 'reading', 'email']","['man', 'reading', 'email']",3.4
+"['person', 'slicing', 'onions']","['someone', 'slicing', 'onion']",4.6
+"['girl', 'coming', 'car']","['girl', 'jumps', 'top', 'car']",2.6
+"['man', 'playing', 'drums']","['man', 'playing', 'guitar']",1.8
+"['someone', 'slicing', 'onion']","['someone', 'carrying', 'fish']",0.75
+"['woman', 'dicing', 'peeled', 'potatoes', 'cut', 'thick', 'strips']","['woman', 'chopping', 'peeled', 'potato', 'slices']",4.0
+"['little', 'girl', 'peddling', 'scooter']","['girl', 'riding', 'scooter']",2.75
+"['cat', 'cleans']","['cat', 'licking']",3.8
+"['man', 'kicking', 'soccer', 'ball']","['man', 'performing', 'tricks', 'soccer', 'ball']",2.6
+"['woman', 'opens', 'window']","['woman', 'looking', 'window']",2.0
+"['three', 'men', 'dance', 'street']","['three', 'shirtless', 'men', 'dancing', 'street']",3.8
+"['man', 'playing', 'guitar']","['man', 'peeling', 'potato']",0.583
+"['man', 'dancing']","['woman', 'exercising']",0.4
+"['woman', 'exercising']","['man', 'dancing']",0.25
+"['boy', 'playing', 'violin', 'onstage']","['boy', 'playing', 'instrument']",2.8
+"['woman', 'measuring', 'woman']","['lady', 'measured', 'womans', 'ankle']",3.2
+"['man', 'exercise']","['man', 'firing', 'rifle']",0.5
+"['dog', 'playing', 'toy']","['dog', 'eating', 'doll']",2.25
+"['man', 'playing', 'piano']","['guy', 'peeling', 'potato']",0.0
+"['man', 'bowling']","['kitten', 'walking']",0.0
+"['woman', 'dancing', 'near', 'fire']","['woman', 'cutting', 'tomatoe']",0.308
+"['man', 'making', 'bed']","['man', 'speaking', 'audience']",0.75
+"['person', 'riding', 'motorcyle']","['person', 'chopping', 'onion']",0.4
+"['man', 'pours', 'rice', 'pot']","['man', 'putting', 'rice', 'bowling', 'pot']",4.2
+"['person', 'slicing', 'garlic']","['person', 'dicing', 'clove', 'garlic', 'knife']",3.75
+"['woman', 'slicing', 'ginger']","['woman', 'cutting', 'potatoes']",1.6
+"['men', 'playing', 'soccer']","['two', 'teams', 'play', 'soccer']",3.0
+"['person', 'scrubbing', 'zucchini']","['woman', 'scrubbing', 'zucchini', 'vegetable', 'brush']",4.0
+"['panda', 'bear', 'chewing', 'stick']","['baby', 'panda', 'plays', 'stick']",3.0
+"['people', 'lifting', 'bags']","['several', 'people', 'carrying', 'large', 'bags']",3.75
+"['man', 'talking', 'phone']","['man', 'moonwalking', 'across', 'store']",0.4
+"['woman', 'braiding', 'hair']","['man', 'riding', 'motorcycle']",0.0
+"['man', 'throwing', 'knives', 'tree']","['man', 'throwing', 'blades', 'close', 'target', 'outside']",3.0
+"['woman', 'slicing', 'tofu']","['woman', 'putting', 'lipstick']",0.4
+"['woman', 'folding', 'paper']","['woman', 'applying', 'eye', 'shadow']",0.4
+"['someone', 'folding', 'piece', 'paper']","['person', 'slicing', 'small', 'pieces', 'ginger']",0.25
+"['man', 'lifting', 'weights']","['man', 'chopping', 'egg', 'plant']",0.25
+"['man', 'playing', 'cello']","['man', 'rapidly', 'lifting', 'small', 'weights']",0.4
+"['man', 'talking']","['man', 'walking', 'stairs']",0.4
+"['man', 'tries', 'feed', 'mouse', 'snake']","['man', 'teasing', 'snake', 'mouse']",3.2
+"['man', 'playing', 'drums']","['woman', 'slicing', 'leaves']",0.0
+"['man', 'playing', 'ukulele']","['man', 'sitting', 'playing', 'small', 'guitar']",2.2
+"['kitten', 'drinking', 'milk', 'bowl']","['small', 'child', 'drinking', 'water', 'cup']",0.8
+"['man', 'breaks', 'cinder', 'blocks', 'another', 'man']","['woman', 'breaks', 'egg', 'pan']",0.8
+"['man', 'hitting', 'boy', 'flower', 'vase']","['man', 'cutting', 'mat']",0.30000000000000004
+"['man', 'mixing', 'whipping', 'cream']","['man', 'holding', 'skunk']",0.0
+"['man', 'stirring', 'juice']","['man', 'peeling', 'onion']",0.75
+"['someone', 'slicing', 'two', 'uncooked', 'racks', 'ribs', 'apart']","['someone', 'cutting', 'piece', 'meat']",2.333
+"['man', 'kicking', 'pots', 'water']","['man', 'turning', 'foods']",1.333
+"['two', 'little', 'girls', 'talk', 'telephone']","['two', 'couple', 'talking']",1.2
+"['cat', 'gets', 'stuck', 'moving', 'ceiling', 'fan']","['cat', 'swinging', 'fan']",4.2
+"['cat', 'drinking', 'milk']","['white', 'cat', 'licking', 'drinking', 'milk', 'kept', 'plate']",3.8
+"['rocky', 'apollo', 'creed', 'running', 'beach']","['men', 'jogging', 'beach']",3.0
+"['man', 'singing', 'playing', 'guitar']","['man', 'stuffing', 'full', 'food']",0.5
+"['boat', 'sails', 'along', 'water']","['man', 'playing', 'guitar']",0.0
+"['okapi', 'eating', 'tree']","['moose', 'drinks', 'sprinkler']",0.333
+"['several', 'kids', 'jump', 'trampoline']","['man', 'back', 'flips', 'trampoline']",1.5
+"['woman', 'pouring', 'egg', 'frying', 'pan']","['man', 'petting', 'two', 'dogs']",0.167
+"['woman', 'frying', 'ground', 'meat']","['man', 'cutting', 'trunk', 'axe']",0.5
+"['three', 'boys', 'karate', 'costumes', 'fighting']","['three', 'men', 'practicing', 'karate', 'moves', 'field']",1.25
+"['swimmers', 'racing', 'lake']","['women', 'swimmers', 'diving', 'starting', 'platform']",1.6
+"['person', 'boiling', 'noodles']","['cat', 'licking', 'bottle']",0.0
+"['person', 'slicing', 'onions']","['woman', 'chopping', 'herbs']",1.0
+"['man', 'reels', 'fish']","['woman', 'pouring', 'oil', 'bowl']",0.0
+"['woman', 'cutting', 'onion']","['horse', 'standing']",0.0
+"['lady', 'mixed', 'meat', 'mixture', 'bowl']","['woman', 'stirring', 'meat', 'bowl']",4.0
+"['girl', 'applying', 'makeup', 'face']","['woman', 'putting', 'makeup']",2.75
+"['woman', 'puts', 'makeup']","['woman', 'putting', 'eyeshadow']",3.333
+"['cat', 'plays', 'water']","['cat', 'fished', 'straw', 'ouf', 'water', 'dish']",3.5
+"['person', 'adding', 'food', 'pan']","['man', 'dancing', 'street']",0.188
+"['man', 'smoking']","['baby', 'sucking', 'pacifier']",0.0
+"['person', 'putting', 'shredded', 'cheese', 'pot']","['hamster', 'eating', 'seeds']",0.25
+"['man', 'erasing', 'chalk', 'board']","['woman', 'dancing', 'singing']",0.364
+"['man', 'exercising']","['man', 'pullups']",3.2
+"['chimp', 'kicking', 'target']","['woman', 'putting', 'oil', 'skillet']",0.0
+"['man', 'exercise']","['baby', 'laughing']",0.0
+"['girl', 'carrying', 'baby']","['man', 'eating', 'food']",0.0
+"['several', 'swimmers', 'jump', 'water']","['swimmers', 'racing', 'lake']",1.75
+"['man', 'spins', 'surf', 'board']","['man', 'putting', 'barbecue', 'sauce', 'chicken']",0.0
+"['young', 'man', 'riding', 'skateboard', 'jumps', 'onto', 'sidewalk', 'another', 'curb']","['man', 'riding', 'skateboard']",2.75
+"['person', 'dices', 'orange', 'pepper']","['cook', 'slicing', 'bell', 'peppers']",1.8
+"['two', 'men', 'dancing', 'together']","['woman', 'opens', 'closet']",0.0
+"['man', 'reading', 'email']","['person', 'opening', 'banana']",0.0
+"['curious', 'boys', 'look', 'shed']","['two', 'small', 'boys', 'woody', 'area', 'looking', 'shed']",2.8
+"['moped', 'front', 'steps', 'ruins']","['moped', 'front', 'ruins']",4.4
+"['man', 'sleeps', 'baby', 'lap']","['man', 'asleep', 'chair', 'holding', 'baby']",4.0
+"['two', 'cats', 'looking', 'window']","['white', 'cat', 'looking', 'window']",2.6
+"['person', 'wearing', 'helmet', 'rides', 'bike', 'near', 'white', 'structure']","['girl', 'wearing', 'black', 'shorts', 'boots', 'standing', 'next', 'blue', 'motorcycle']",1.2
+"['man', 'bicycle', 'coffee', 'house']","['man', 'walking', 'bicycle', 'patio', 'coffee', 'shop']",3.2
+"['black', 'white', 'cat', 'high', 'tree', 'branches']","['black', 'white', 'lamb', 'tag', 'right', 'ear']",0.8
+"['young', 'blonde', 'girl', 'wearing', 'helmet', 'sits', 'red', 'bicycle', 'behind']","['young', 'girl', 'wearing', 'bike', 'helmet', 'bicycle', 'background']",3.4
+"['blue', 'couch', 'twin', 'bed', 'living', 'room']","['blue', 'couch', 'room', 'sun', 'shining']",2.0
+"['flock', 'sheep', 'spread', 'field']","['white', 'cat', 'stands', 'floor']",0.0
+"['two', 'dogs', 'one', 'cat', 'sitting', 'couch']","['two', 'dogs', 'cat', 'resting', 'couch']",4.6
+"['bicycle', 'parked', 'shop']","['bicycle', 'parked', 'outside', 'bookstore']",4.0
+"['orange', 'white', 'cat', 'laying', 'blanket', 'black', 'leather', 'chair']","['ginger', 'white', 'cat', 'curled', 'asleep', 'leather', 'chair']",3.8
+"['young', 'couple', 'sitting', 'black', 'couch']","['young', 'couple', 'sitting', 'couch']",4.0
+"['group', 'black', 'people', 'front', 'building', 'moped']","['group', 'people', 'outside', 'decrepit', 'building']",2.8
+"['elderly', 'woman', 'sitting', 'red', 'patterned', 'couch', 'arm', 'around', 'younger', 'woman']","['two', 'women', 'sitting', 'couch', 'posing', 'camera']",3.6
+"['man', 'riding', 'back', 'orange', 'suv']","['african', 'man', 'hanging', 'onto', 'back', 'full', 'yellow', 'van']",1.8
+"['red', 'white', 'bus', 'driving', 'road']","['bus', 'drives', 'busy', 'road']",3.6
+"['cat', 'laying', 'red', 'cushion', 'looking', 'camera']","['tan', 'dog', 'lying', 'moggie', 'bed', 'looking', 'camera']",1.2
+"['two', 'green', 'white', 'trains', 'sitting', 'tracks']","['two', 'green', 'white', 'trains', 'sitting', 'train', 'track']",5.0
+"['grey', 'cat', 'lying', 'wooden', 'table']","['grey', 'cat', 'laying', 'dining', 'table']",4.0
+"['man', 'sitting', 'back', 'yard', 'playing', 'guitar']","['man', 'riding', 'back', 'orange', 'suv']",0.0
+"['father', 'napping', 'chair', 'baby', 'lap']","['man', 'pink', 'shirt', 'sleeping', 'chair', 'infant']",3.4
+"['close', 'head', 'ostrich']","['close', 'ostrich', 'face']",4.4
+"['green', 'white', 'bird', 'perched', 'tree', 'branch']","['bird', 'green', 'head', 'white', 'chest', 'perched', 'tree', 'branch']",4.2
+"['man', 'top', 'hat', 'rides', 'white', 'horse']","['man', 'top', 'hat', 'riding', 'white', 'horse']",5.0
+"['woman', 'riding', 'brown', 'horse']","['woman', 'taking', 'photo']",0.2
+"['two', 'men', 'standing', 'grass', 'staring', 'car']","['woman', 'pink', 'top', 'posing', 'beer']",0.2
+"['two', 'indian', 'women', 'two', 'indian', 'girls', 'near', 'water']","['two', 'indian', 'woman', 'stand', 'two', 'indian', 'girls', 'beach']",4.0
+"['table', 'set', 'wine', 'dishes', 'two', 'people']","['wooden', 'table', 'set', 'candles', 'wine', 'purple', 'plastic', 'bowl']",2.6
+"['moped', 'front', 'ruins']","['white', 'bus', 'parked', 'grass', 'front', 'building']",0.6000000000000001
+"['person', 'driving', 'cart', 'pulled', 'bicycle']","['man', 'wearing', 'dust', 'mask', 'riding', 'three', 'wheeled', 'bicycle']",1.2
+"['dog', 'sniffing', 'bottom', 'door']","['black', 'white', 'dog', 'sniffing', 'closed', 'door']",3.8
+"['small', 'bird', 'sitting', 'branch', 'winter']","['small', 'bird', 'perched', 'icy', 'branch']",4.2
+"['yellow', 'bird', 'eating', 'fruit', 'wire', 'grate']","['yellow', 'bird', 'eating', 'fruit', 'bird', 'feeder']",2.8
+"['brown', 'duck', 'white', 'duck', 'stand', 'grass']","['brown', 'white', 'ducks', 'walking', 'green', 'grass']",4.2
+"['black', 'white', 'cat', 'dog', 'striped', 'couch']","['black', 'white', 'cat', 'standing', 'front', 'window']",2.4
+"['man', 'wearing', 'black', 'formal', 'wear', 'black', 'top', 'hat', 'riding', 'white', 'show', 'horse']","['man', 'top', 'hat', 'riding', 'white', 'horse']",3.6
+"['small', 'brown', 'birds', 'eating', 'bird', 'feeder', 'hanging', 'tree']","['small', 'bird', 'perches', 'bird', 'feeder', 'hanging', 'tree']",3.8
+"['picture', 'countryside', 'large', 'city', 'background']","['black', 'cattle', 'grassy', 'plain', 'large', 'tree', 'background']",0.6000000000000001
+"['blue', 'red', 'plane', 'midair', 'flight']","['blue', 'red', 'airplane', 'flight']",4.8
+"['three', 'men', 'posing', 'tent']","['three', 'men', 'eating', 'kitchen']",1.2
+"['closeup', 'gray', 'cat', 'green', 'eyes']","['closeup', 'cat', 'cream', 'sofa']",2.4
+"['train', 'train', 'station']","['train', 'sits', 'train', 'station']",4.2
+"['train', 'heads', 'tracks', 'along', 'hedge']","['dog', 'floor', 'patio', 'looks', 'cat', 'fence']",0.0
+"['little', 'girl', 'laughing', 'camera']","['white', 'cow', 'big', 'ears', 'looking', 'camera']",0.2
+"['three', 'young', 'women', 'standing', 'room', 'together']","['three', 'dark', 'haired', 'young', 'women', 'white', 'red', 'black', 'sweaters']",3.4
+"['white', 'bird', 'long', 'orange', 'legs', 'standing', 'lake']","['large', 'white', 'bird', 'long', 'orange', 'beak', 'standing', 'shoreline']",3.0
+"['red', 'train', 'driving', 'snow', 'covered', 'city']","['train', 'riding', 'tracks', 'snow']",3.2
+"['three', 'bicyclists', 'crossing', 'bridge', 'city']","['bicyclists', 'crossing', 'bridge', 'rain']",3.0
+"['red', 'white', 'bus', 'drives', 'england', 'street']","['red', 'white', 'england', 'bus', 'drives', 'street']",4.4
+"['birds', 'swimming', 'water']","['birds', 'fly', 'low', 'water']",1.8
+"['black', 'dog', 'looking', 'camera']","['black', 'white', 'bull', 'looking', 'camera']",2.0
+"['group', 'horses', 'grazing', 'field']","['group', 'horses', 'grazing', 'grassy', 'field']",4.8
+"['several', 'people', 'motorcycles', 'market', 'square']","['people', 'motorbikes', 'city', 'street']",4.0
+"['three', 'sheep', 'dirt', 'road', 'viewed', 'passenger', 'vehicle']","['three', 'sheep', 'dirt', 'road', 'shot', 'car']",2.2
+"['group', 'people', 'posing', 'two', 'men', 'dressed', 'elvis']","['group', 'people', 'standing', 'two', 'people', 'dressed', 'elvis']",4.2
+"['parrot', 'pushing', 'small', 'shopping', 'cart']","['white', 'bird', 'steering', 'shopping', 'cart']",3.4
+"['man', 'yellow', 'canoe', 'paddling', 'water']","['man', 'paddling', 'yellow', 'canoe', 'towards', 'shore']",4.2
+"['beer', 'bottles', 'lrb', 'harp', 'lager', 'rrb', 'lined', 'floor']","['row', 'beer', 'bottles', 'floor']",3.4
+"['two', 'women', 'sitting', 'outside', 'laughing']","['two', 'women', 'standing', 'outside', 'bus']",2.4
+"['steam', 'engine', 'train', 'moving', 'toward', 'camera']","['white', 'sheep', 'hillside', 'looking', 'camera']",1.0
+"['brown', 'white', 'cow', 'field', 'looking', 'camera']","['black', 'white', 'cat', 'looking', 'camera']",1.6
+"['black', 'white', 'cow', 'standing', 'near', 'pile', 'snow']","['black', 'white', 'cow', 'standing', 'field']",3.2
+"['home', 'office', 'space', 'bright', 'green', 'walls', 'artwork']","['office', 'multiple', 'desks', 'green', 'walls']",3.4
+"['black', 'white', 'photo', 'man', 'driving', 'car', 'someone', 'motorcycle']","['black', 'white', 'photo', 'man', 'classic', 'car', 'man', 'classic', 'motorcycle']",4.0
+"['three', 'people', 'water', 'yellow', 'canoes']","['three', 'people', 'preparing', 'canoe']",3.0
+"['girl', 'riding', 'hat', 'horse']","['girl', 'riding', 'tan', 'horse']",3.8
+"['man', 'dressed', 'pale', 'scarf', 'stick']","['runner', 'resting', 'shade', 'bottle', 'soda']",0.0
+"['retro', 'living', 'room', 'television']","['grey', 'cat', 'lying', 'wooden', 'table']",0.0
+"['girl', 'riding', 'hat', 'horse']","['girl', 'riding', 'brown', 'horse']",2.6
+"['car', 'pulling', 'side', 'road', 'onto', 'street']","['silver', 'car', 'parked', 'side', 'road', 'front', 'hills']",2.6
+"['man', 'sitting', 'cross', 'legged', 'wearing', 'cloak', 'holding', 'stick']","['man', 'sitting', 'cross', 'legged', 'wearing', 'brown', 'cloth', 'holding', 'wooden', 'stick']",3.8
+"['two', 'black', 'white', 'dogs', 'bottom', 'stairs']","['dog', 'lying', 'bottom', 'staircase', 'next', 'another', 'standing', 'dog']",2.6
+"['old', 'fashioned', 'wooden', 'sailing', 'ship', 'ocean']","['old', 'fashioned', 'wooden', 'sailing', 'ship', 'parked', 'pier']",2.8
+"['man', 'sitting', 'cross', 'legged', 'grass', 'tree', 'background']","['ocean', 'liner', 'close', 'coast', 'houses', 'background']",0.0
+"['two', 'cats', 'sitting', 'couch', 'looking', 'window']","['cat', 'looking', 'window']",2.6
+"['three', 'goats', 'rounded', 'dog']","['three', 'goats', 'chased', 'dog']",4.6
+"['tan', 'puppy', 'carpeted', 'floor']","['tan', 'puppy', 'lying', 'white', 'carpeting']",3.8
+"['black', 'dog', 'standing', 'grassy', 'area']","['longhaired', 'dog', 'stands', 'grassy', 'wooded', 'area']",3.4
+"['train', 'station']","['train', 'station']",5.0
+"['blue', 'bird', 'standing', 'lawn']","['blue', 'bird', 'standing', 'green', 'grass']",4.6
+"['empty', 'office', 'cubicle']","['empty', 'office', 'chair', 'cubicle']",3.0
+"['man', 'woman', 'sit', 'table', 'restaurant']","['four', 'women', 'two', 'men', 'sit', 'long', 'table', 'restaurant']",2.2
+"['young', 'man', 'wearing', 'striped', 'shirt', 'holding', 'two', 'bicycles']","['young', 'redheaded', 'man', 'holding', 'two', 'bicycles', 'near', 'beach']",3.8
+"['television', 'upholstered', 'chair', 'coffee', 'stable', 'bright', 'room']","['leather', 'couch', 'wooden', 'table', 'living', 'room']",2.2
+"['two', 'cats', 'sitting', 'couch', 'looking', 'window']","['two', 'cats', 'looking', 'window']",3.6
+"['small', 'dog', 'wearing', 'sweater', 'looking', 'camera']","['small', 'white', 'dog', 'wearing', 'jacket', 'looks', 'camera']",4.0
+"['two', 'men', 'standing', 'grass', 'staring', 'car']","['two', 'women', 'sitting', 'chairs', 'shop']",0.4
+"['woman', 'stands', 'front', 'building', 'snow']","['two', 'women', 'baby', 'pose', 'front', 'dining', 'room']",0.0
+"['home', 'office', 'space', 'bright', 'green', 'walls', 'artwork']","['small', 'office', 'space', 'bright', 'green', 'walls']",3.8
+"['green', 'car', 'parked', 'saloon']","['green', 'car', 'parked', 'outside', 'saloon']",5.0
+"['group', 'people', 'sitting', 'around', 'restaurant', 'dining', 'table']","['group', 'people', 'sitting', 'restaurant', 'table']",4.8
+"['two', 'ducks', 'standing', 'water']","['birds', 'swimming', 'water']",2.4
+"['black', 'white', 'cow', 'pen', 'hay']","['black', 'white', 'cows', 'behind', 'fence']",2.8
+"['man', 'woman', 'posing', 'camera']","['cat', 'sitting', 'sand', 'looking', 'camera']",1.4
+"['green', 'white', 'cargo', 'plane', 'taking', 'airport']","['white', 'green', 'commercial', 'airliner', 'taking', 'runway']",3.6
+"['yellow', 'school', 'bus', 'parked', 'field']","['brown', 'horse', 'green', 'field']",0.0
+"['elderly', 'man', 'works', 'laptop', 'home']","['older', 'gentleman', 'sitting', 'couch', 'laptop']",4.2
+"['cat', 'sitting', 'bag', 'cat', 'food']","['two', 'eagles', 'sitting', 'long', 'branch']",0.4
+"['large', 'pile', 'wooden', 'items', 'piled', 'high']","['large', 'pile', 'scrap', 'wood']",3.8
+"['woman', 'riding', 'brown', 'horse']","['girl', 'riding', 'brown', 'horse']",4.0
+"['black', 'white', 'photo', 'girl', 'sofa']","['black', 'white', 'photo', 'cow', 'tree']",1.2
+"['black', 'dog', 'stands', 'next', 'materials', 'construction', 'site']","['black', 'dog', 'stands', 'middle', 'construction', 'site']",4.0
+"['two', 'women', 'sitting', 'chairs', 'shop']","['two', 'women', 'sitting', 'cafe']",3.0
+"['women', 'painting', 'chair', 'dining', 'room', 'background']","['man', 'boy', 'walking', 'along', 'beach', 'sea', 'background']",0.0
+"['cat', 'sleeping', 'coach', 'pillow', 'behind']","['cat', 'laying', 'animal', 'print', 'blanket']",2.4
+"['two', 'motorbikes', 'racing', 'dirt', 'course']","['two', 'motorbikes', 'dirt', 'track']",3.4
+"['young', 'woman', 'riding', 'bay', 'hose', 'dirt', 'ridingring']","['man', 'staring', 'horse', 'white', 'mane']",0.8
+"['gray', 'cat', 'laying', 'brown', 'table']","['grey', 'cat', 'lying', 'wooden', 'table']",4.2
+"['motorcycle', 'parked', 'next', 'car', 'outside']","['motorcycle', 'parked', 'next', 'car']",4.4
+"['pile', 'used', 'wooden', 'building', 'materials', 'chair', 'top']","['pile', 'wooden', 'debris', 'chair', 'top']",4.0
+"['passenger', 'train', 'waiting', 'city', 'train', 'station']","['passenger', 'train', 'yellow', 'engine']",1.8
+"['black', 'train', 'moves', 'tracks']","['long', 'train', 'train', 'tracks']",2.8
+"['philips', 'flatscreen', 'tv', 'shown', 'two', 'remote', 'controls']","['phillips', 'flat', 'screen', 'tv', 'two', 'remote', 'controls']",5.0
+"['cruise', 'ship', 'front', 'docking', 'area']","['calico', 'cat', 'sitting', 'step', 'front', 'door']",0.0
+"['black', 'white', 'cow', 'standing', 'hay', 'looks', 'back', 'camera']","['black', 'white', 'sheep', 'standing', 'grass']",0.2
+"['four', 'people', 'rowing', 'river']","['four', 'people', 'row', 'canoe', 'water']",4.0
+"['dark', 'brown', 'horse', 'standing', 'field']","['brown', 'horse', 'green', 'field']",3.8
+"['two', 'men', 'talking', 'front', 'plane']","['two', 'men', 'talking', 'front', 'small', 'plane']",4.4
+"['two', 'cats', 'one', 'brown', 'one', 'white', 'laying', 'bed', 'blue', 'blanket']","['two', 'cats', 'one', 'ginger', 'white', 'laying', 'bed']",3.2
+"['train', 'sits', 'train', 'station']","['train', 'parked', 'train', 'station']",4.6
+"['two', 'animals', 'sitting', 'rock']","['brown', 'train', 'sitting', 'railroad', 'tracks']",0.0
+"['black', 'white', 'cow', 'looking', 'fence']","['black', 'white', 'dog', 'looking', 'camera']",1.0
+"['two', 'women', 'clothing', 'store']","['two', 'women', 'sailboat']",0.8
+"['older', 'gentleman', 'looking', 'red', 'motorcycle']","['man', 'looking', 'red', 'motorcycle']",4.0
+"['black', 'white', 'cows', 'grazing', 'pen']","['two', 'black', 'white', 'cows', 'drinking', 'pond']",1.6
+"['small', 'camouflaged', 'airplane', 'parked', 'grass']","['small', 'dog', 'wearing', 'pink', 'shirt', 'tied', 'railing']",0.0
+"['black', 'white', 'photo', 'love', 'seat']","['black', 'white', 'photo', 'couch', 'purse', 'one', 'end']",3.4
+"['black', 'bird', 'standing', 'concrete']","['blue', 'bird', 'standing', 'green', 'grass']",1.0
+"['crowd', 'people', 'walking', 'past', 'giant', 'mushroom']","['group', 'four', 'people', 'walking', 'past', 'giant', 'mushroom']",4.0
+"['sheep', 'beside', 'road', 'lake']","['sheep', 'edge', 'road', 'lake', 'mountain', 'background']",3.0
+"['group', 'people', 'sit', 'table', 'italian', 'restaurant']","['group', 'six', 'people', 'sitting', 'table', 'salad', 'served']",3.0
+"['tan', 'cows', 'look', 'closely', 'camera']","['white', 'grey', 'cat', 'bathroom', 'sink', 'looking', 'camera']",0.75
+"['older', 'woman', 'holding', 'newborn', 'baby']","['woman', 'sitting', 'sofa', 'holding', 'baby']",3.4
+"['two', 'dogs', 'play', 'grass']","['two', 'dogs', 'playing', 'snow']",2.8
+"['three', 'people', 'sit', 'picnic', 'table', 'outside', 'building', 'painted', 'like', 'union', 'jack']","['three', 'people', 'sit', 'outdoor', 'table', 'front', 'building', 'painted', 'like', 'union', 'jack']",4.8
+"['dog', 'swims', 'water']","['dog', 'wearing', 'cape', 'running', 'snow']",1.4
+"['young', 'laughing', 'girl', 'boy', 'playing', 'big', 'drum']","['baby', 'girl', 'little', 'boy', 'standing', 'next', 'guitar', 'drum']",2.4
+"['brown', 'dog', 'runs', 'snow', 'white', 'ball', 'mouth']","['four', 'dogs', 'play', 'snow', 'city', 'skyline', 'behind']",1.8
+"['bird', 'flies', 'across', 'water']","['bird', 'flies', 'water']",4.8
+"['dog', 'running', 'pond']","['pale', 'dog', 'running', 'along', 'dirt', 'path']",1.4
+"['man', 'woman', 'watch', 'two', 'dogs']","['man', 'maroon', 'bathing', 'suit', 'swings', 'rope', 'lake']",0.4
+"['man', 'sits', 'dock', 'looking', 'water']","['man', 'jumps', 'rock', 'water']",1.33
+"['brown', 'white', 'dog', 'running', 'snow']","['brown', 'white', 'dog', 'running', 'grass']",2.4
+"['man', 'woman', 'standing', 'front', 'building']","['two', 'girls', 'sitting', 'atv', 'sand', 'front', 'bridge']",0.4
+"['three', 'dolphins', 'jumping', 'pool', 'front', 'crowd', 'people']","['man', 'giving', 'presentation', 'front', 'lot', 'people']",0.6000000000000001
+"['dog', 'running', 'field']","['dog', 'runs', 'field']",4.8
+"['black', 'white', 'dog', 'jumping', 'water']","['white', 'dog', 'runs', 'across', 'water']",2.8
+"['tan', 'white', 'dog', 'retrieving', 'ball', 'gravel', 'path']","['large', 'dog', 'walks', 'along', 'gravel', 'path', 'woods']",2.0
+"['brown', 'white', 'dog', 'walking', 'snowy', 'steps']","['black', 'white', 'dog', 'frolics', 'snow']",2.6
+"['woman', 'black', 'orange', 'jacket', 'throws', 'stick', 'brown', 'black', 'dog', 'fetch']","['man', 'blue', 'jacket', 'standing', 'crowd']",0.0
+"['dog', 'running', 'across', 'snow', 'snowball', 'mouth']","['tan', 'dog', 'running', 'grass', 'yellow', 'toy', 'mouth']",2.4
+"['small', 'boy', 'building', 'wooden', 'blocks']","['small', 'boy', 'wearing', 'blue', 'shirt', 'stacks', 'wooden', 'blocks']",4.0
+"['man', 'woman', 'walk', 'white', 'dog', 'leash']","['man', 'woman', 'dog', 'walk', 'paved', 'road']",4.0
+"['young', 'boy', 'wearing', 'red', 'winter', 'coat', 'eating', 'holding', 'candy', 'bar']","['young', 'boy', 'wearing', 'red', 'coat', 'eats', 'chocolate', 'bar']",4.0
+"['two', 'racing', 'dogs', 'run', 'mud']","['man', 'going', 'water']",0.0
+"['young', 'boy', 'jumping', 'pool', 'says', 'diving']","['boy', 'jumps', 'pool', 'lifeguards', 'watch']",3.2
+"['three', 'dogs', 'running', 'dirt']","['yellow', 'dog', 'running', 'dirt', 'road']",1.4
+"['four', 'children', 'stools', 'diner']","['four', 'children', 'sit', 'tall', 'bar', 'stools', 'yellow', 'grey', 'bar']",3.6
+"['boy', 'white', 'dog', 'running', 'grassy', 'field']","['boy', 'dog', 'running', 'grass']",4.4
+"['two', 'boys', 'playing', 'game', 'flag', 'football']","['two', 'boys', 'playing', 'flag', 'football']",5.0
+"['black', 'white', 'dog', 'mouth', 'wide', 'open']","['black', 'white', 'dog', 'jumps', 'snow']",1.8
+"['one', 'white', 'boy', 'one', 'black', 'boy', 'stand', 'arms', 'around']","['two', 'young', 'boys', 'one', 'white', 'one', 'black', 'standing', 'arms', 'around']",4.8
+"['girl', 'playing', 'puddle', 'bare', 'feet']","['child', 'playing', 'two', 'white', 'black', 'geese']",0.6000000000000001
+"['two', 'children', 'splashing', 'water']","['two', 'dolphins', 'jumping', 'water']",1.4
+"['man', 'suit', 'dances', 'young', 'girl', 'front', 'audience']","['women', 'dangles', 'blue', 'fabric', 'connected', 'tree']",0.2
+"['three', 'children', 'playing', 'floor', 'toys']","['three', 'children', 'sitting', 'floor', 'playing', 'several', 'toys']",4.2
+"['two', 'dogs', 'playing', 'yard']","['two', 'dogs', 'playing', 'grass']",4.6
+"['num', 'greyhound', 'dog', 'running', 'around', 'track']","['muzzled', 'greyhound', 'dog', 'running', 'around', 'track']",4.0
+"['four', 'children', 'playing', 'trampoline']","['four', 'kids', 'jumping', 'trampoline']",4.6
+"['black', 'tan', 'dog', 'standing', 'field', 'near', 'trees']","['white', 'dog', 'standing', 'river', 'shaking', 'dry']",1.8
+"['black', 'dog', 'running', 'water']","['black', 'dog', 'running', 'water']",4.6
+"['man', 'woman', 'walking', 'past', 'record', 'shop']","['man', 'woman', 'kissing', 'front', 'crowd', 'people']",0.2
+"['two', 'dogs', 'play', 'grass']","['two', 'tan', 'dogs', 'play', 'snow']",2.6
+"['three', 'children', 'wrestle', 'floral', 'carpet']","['three', 'children', 'playing', 'floor']",3.8
+"['boy', 'red', 'jumping', 'sandbox']","['dog', 'swimming', 'pond']",0.0
+"['dog', 'jumps', 'water']","['dog', 'jumping', 'water']",5.0
+"['wet', 'blond', 'dog', 'carries', 'stick', 'shore']","['wet', 'brown', 'dog', 'stick', 'mouth', 'running', 'sand', 'next', 'water']",3.6
+"['man', 'dog', 'rocks', 'beach']","['man', 'dog', 'rocky', 'seashore']",4.6
+"['large', 'group', 'people', 'standing', 'outside', 'building']","['group', 'people', 'ice', 'skating', 'big', 'city']",2.0
+"['two', 'dogs', 'running', 'field']","['two', 'dogs', 'running', 'field']",5.0
+"['two', 'people', 'bed']","['two', 'boxers', 'ring']",0.0
+"['light', 'brown', 'dog', 'runs', 'path', 'happily']","['pale', 'dog', 'runs', 'path']",3.4
+"['red', 'haired', 'women', 'black', 'posing', 'man', 'resting', 'tree']","['man', 'black', 'shirt', 'holding', 'child', 'wearing', 'sunglasses']",0.0
+"['two', 'black', 'dogs', 'jumping', 'playing', 'yellow', 'tennis', 'ball', 'snow']","['brown', 'dog', 'black', 'dog', 'playing', 'yellow', 'soccer', 'ball']",2.0
+"['black', 'white', 'dog', 'jumping', 'hurdle']","['white', 'dog', 'running', 'bridge']",2.0
+"['two', 'brown', 'dogs', 'runs', 'water']","['two', 'brown', 'dogs', 'running', 'water']",4.6
+"['black', 'dog', 'jumping', 'water']","['black', 'dog', 'shaking', 'water']",3.0
+"['man', 'climbing', 'rockface']","['man', 'climbing', 'rock', 'wall']",4.6
+"['woman', 'playing', 'tennis', 'hitting', 'ball']","['woman', 'playing', 'volley', 'ball']",2.0
+"['young', 'boy', 'hair', 'standing', 'sliding', 'blue', 'slide']","['kid', 'orange', 'shirt', 'sliding', 'teal', 'slide']",2.6
+"['dog', 'standing', 'water']","['girl', 'playing', 'parachute']",0.4
+"['surfer', 'riding', 'breaking', 'wave']","['group', 'surfers', 'catching', 'wave']",2.6
+"['two', 'dogs', 'running', 'grass', 'near', 'house', 'trees']","['two', 'dogs', 'running', 'green', 'yard']",4.2
+"['brown', 'white', 'dog', 'running', 'across', 'brown', 'field']","['person', 'hanging', 'rocky', 'cliff']",0.0
+"['black', 'dog', 'standing', 'grass', 'near', 'volleyball']","['brown', 'black', 'blue', 'collar', 'near', 'soccer', 'ball', 'grassy', 'field']",2.2
+"['white', 'dog', 'light', 'brown', 'markings', 'stick', 'mouth', 'paws', 'snow']","['white', 'dog', 'holds', 'stick', 'mouth', 'runs', 'snow']",4.0
+"['man', 'wet', 'suit', 'throwing', 'baby', 'wearing', 'wet', 'suit', 'air']","['man', 'white', 'print', 'shirt', 'woman', 'black', 'dress', 'dancing']",0.0
+"['black', 'white', 'dog', 'running', 'grass']","['tan', 'dog', 'walking', 'snow']",2.0
+"['harnessed', 'dog', 'leaps', 'log', 'another', 'dog', 'follows', 'behind']","['brown', 'white', 'dog', 'leaping', 'log', 'field', 'another', 'dog', 'follows', 'behind']",3.0
+"['dog', 'running', 'grass']","['two', 'dogs', 'running', 'grass']",2.6
+"['many', 'football', 'players', 'sitting', 'ground']","['dog', 'rolls', 'ground']",0.0
+"['little', 'boy', 'little', 'girl', 'playing', 'together', 'outside']","['woman', 'wearing', 'white', 'shirt', 'stands', 'street']",0.0
+"['surfer', 'flip', 'wave']","['surfer', 'flip', 'wave']",4.8
+"['female', 'dj', 'holds', 'michael', 'jackson', 'album']","['girl', 'holding', 'picture', 'michael', 'jackson', 'smiling']",3.0
+"['two', 'white', 'standard', 'poodles', 'play', 'toy', 'snow']","['two', 'dogs', 'fighting', 'snow']",2.2
+"['boy', 'lies', 'stomach', 'grass']","['small', 'boy', 'lying', 'stomach', 'grass']",4.4
+"['white', 'dog', 'runs', 'along', 'rocky', 'shoreline']","['dog', 'jumps', 'hurdle']",0.8
+"['black', 'white', 'dog', 'jumping', 'air', 'catch', 'frisbee']","['black', 'white', 'dog', 'jumping', 'yard']",3.4
+"['woman', 'holding', 'harness', 'brown', 'white', 'dog', 'wearing']","['man', 'woman', 'looking', 'artwork', 'easels', 'clipped', 'fencing', 'wall']",0.0
+"['girl', 'jumping']","['boy', 'rock', 'climbing']",0.6000000000000001
+"['young', 'pitcher', 'throwing', 'baseball']","['brown', 'dog', 'walking', 'grass', 'beside', 'fence']",0.0
+"['three', 'children', 'playing', 'snow']","['three', 'children', 'playing', 'hay']",2.4
+"['two', 'people', 'ride', 'bikes', 'dirt', 'road']","['two', 'people', 'riding', 'bikes', 'hill']",3.4
+"['brown', 'dog', 'running', 'field']","['brown', 'dog', 'tongue', 'wagging', 'runs', 'field']",4.0
+"['dog', 'standing', 'sand']","['tan', 'dog', 'standing', 'front', 'plants']",2.0
+"['four', 'girls', 'swimsuits', 'playing', 'volleyball', 'beach']","['four', 'ladies', 'swimsuits', 'play', 'sand', 'volleyball', 'beach']",4.0
+"['blonde', 'haired', 'toddler', 'swinging', 'tire', 'swing']","['blonde', 'haired', 'child', 'swinging', 'tire', 'swing']",4.8
+"['child', 'wearing', 'blue', 'white', 'shorts', 'jumping', 'surf']","['girl', 'wearing', 'green', 'twists', 'something', 'hands']",0.6000000000000001
+"['two', 'dogs', 'running', 'shore']","['white', 'dog', 'running', 'beach']",2.4
+"['yellow', 'car', 'speeds', 'along', 'snowy', 'field']","['yellow', 'car', 'drives', 'quickly', 'snow']",4.4
+"['two', 'dogs', 'playing', 'snow']","['two', 'dogs', 'playing', 'grass']",2.4
+"['one', 'boy', 'pushing', 'another', 'boy', 'swing']","['boy', 'pushing', 'another', 'boy', 'swings']",4.8
+"['pitcher', 'mound', 'throws', 'baseball']","['boy', 'middle', 'pitch', 'baseball', 'game']",3.4
+"['little', 'girl', 'riding', 'toy', 'tricycle', 'springs']","['little', 'girl', 'playing', 'toy', 'outdoors']",2.8
+"['woman', 'sitting', 'water']","['woman', 'skating', 'park']",0.8
+"['tan', 'girl', 'floral', 'bikini', 'swimming', 'dark', 'blue', 'waters']","['little', 'girl', 'flowered', 'bathingsuit', 'runs', 'sand', 'beach']",2.2
+"['grey', 'dog', 'swimming', 'river', 'stick', 'mouth']","['dog', 'swimming', 'water', 'carrying', 'stick', 'mouth']",3.8
+"['woman', 'blue', 'bathing', 'suit', 'jumping', 'dock', 'lake']","['boy', 'blue', 'shirt', 'blue', 'jeans', 'runs', 'across', 'playground']",0.4
+"['two', 'black', 'dogs', 'playing', 'grass']","['two', 'black', 'dogs', 'playing', 'grassy', 'plain']",4.6
+"['two', 'puppies', 'playing', 'plastic', 'bag']","['two', 'dogs', 'playing', 'yard']",3.0
+"['man', 'black', 'suit', 'surfing', 'along', 'crashing', 'wave']","['surfer', 'wearing', 'black', 'wet', 'suit', 'riding', 'white', 'wave', 'ocean']",4.6
+"['three', 'little', 'girls', 'sitting', 'grass']","['two', 'poodles', 'running', 'snow']",0.8
+"['brown', 'dog', 'runs', 'towards', 'camera', 'dirt', 'trail', 'mountains', 'background']","['brown', 'dog', 'runs', 'toward', 'camera', 'rocky', 'trail', 'brush', 'mountains', 'background']",4.0
+"['dog', 'jumping', 'ramp']","['girls', 'jumping', 'sand']",1.2
+"['dog', 'plays', 'park']","['dog', 'leaps', 'fence', 'park']",3.2
+"['four', 'dogs', 'stand', 'snow']","['four', 'dogs', 'playing', 'snow']",3.6
+"['brown', 'black', 'dogs', 'snow', 'showing', 'teeth', 'barking']","['black', 'dog', 'fighting', 'brown', 'dog', 'snow']",3.4
+"['man', 'running', 'track']","['man', 'running', 'track']",5.0
+"['lightcolored', 'dog', 'runs', 'grass']","['dog', 'runs', 'grass']",4.0
+"['child', 'holding', 'object', 'fire']","['child', 'pink', 'holds', 'object', 'appears', 'fire']",4.0
+"['small', 'white', 'dog', 'climbs', 'log']","['small', 'dog', 'steps', 'onto', 'log']",2.8
+"['dogs', 'play', 'snow', 'hind', 'legs']","['two', 'dogs', 'play', 'snow']",3.8
+"['boy', 'skateboards', 'railing', 'graffiti', 'stairs']","['skateboarder', 'slides', 'handrail', 'feet']",2.6
+"['black', 'white', 'dog', 'runs', 'water']","['black', 'brown', 'dog', 'runs', 'field']",2.0
+"['girl', 'running', 'desert', 'path']","['young', 'girl', 'talking', 'cell', 'phone']",0.8
+"['man', 'steers', 'blue', 'boat', 'past', 'brightly', 'colored', 'houses']","['man', 'driving', 'blue', 'boat', 'passes', 'colorful', 'houses']",5.0
+"['woman', 'wearing', 'large', 'sunglasses', 'holds', 'newspapers', 'hands']","['fat', 'woman', 'wearing', 'faint', 'blue', 'top', 'blowing', 'soap', 'bubble']",1.0
+"['deer', 'jumps', 'fence']","['deer', 'jumping', 'fence']",5.0
+"['person', 'baseball', 'team']","['person', 'playing', 'basketball', 'team']",2.4
+"['bike', 'next', 'couple', 'women']","['child', 'next', 'bike']",2.0
+"['group', 'eating', 'taking', 'breathtaking', 'view']","['group', 'people', 'take', 'look', 'unusual', 'tree']",2.2
+"['boy', 'raising', 'hand']","['man', 'raising', 'hand']",3.4
+"['man', 'gray', 'beard', 'shaved', 'front', 'lecture', 'hall']","['man', 'beard', 'sitting', 'grass']",0.8
+"['young', 'person', 'deep', 'thought']","['young', 'man', 'deep', 'thought']",4.6
+"['man', 'performing', 'labor']","['man', 'performing', 'today']",2.8
+"['two', 'men', 'wearing', 'traditional', 'clothing', 'standing', 'outside']","['three', 'women', 'wearing', 'black', 'vests', 'gray', 'shirts', 'talking', 'outside', 'building']",2.0
+"['man', 'wearing', 'gray', 'hat', 'fishing', 'fishing', 'boat']","['man', 'wearing', 'straw', 'hat', 'fishing', 'vest', 'stream']",2.6
+"['little', 'girl', 'orange', 'striped', 'outfit', 'airborne', 'whilst', 'bouncing', 'bed']","['dog', 'red', 'shirt', 'chasing', 'squirrel', 'glass']",0.2
+"['person', 'watching', 'people', 'ski', 'hill']","['woman', 'jumping', 'long', 'distance', 'people', 'watch']",1.4
+"['yard', 'dog']","['dog', 'running', 'another', 'dog']",1.6
+"['three', 'women', 'cook']","['two', 'women', 'cooking']",3.2
+"['woman', 'kneeling', 'next', 'cat']","['girl', 'standing', 'next', 'man']",0.2
+"['three', 'guys', 'playing', 'pro', 'game', 'basketball']","['two', 'guys', 'playing', 'game', 'baseball']",2.4
+"['boys', 'earning', 'next', 'belt', 'karate']","['five', 'girls', 'one', 'boy', 'swimsuits', 'middle', 'jumping', 'pool']",0.2
+"['woman', 'digging', 'sand']","['man', 'buried', 'sand']",1.4
+"['woman', 'drives', 'golf', 'cart']","['man', 'riding', 'cart']",1.8
+"['person', 'filming', 'outdoors']","['couple', 'outdoors']",1.6
+"['human', 'riding', 'skateboard']","['child', 'riding', 'skateboard']",3.8
+"['woman', 'plaid', 'outfit', 'looking', 'bag', 'produce']","['picture', 'woman', 'flowered', 'dress', 'toting', 'something', 'bucket']",1.0
+"['tennis', 'player', 'hit', 'ball', 'outer', 'space', 'broke', 'death', 'star']","['female', 'tennis', 'player', 'leaping', 'air', 'hit', 'ball']",1.2
+"['boy', 'climbs', 'forest', 'hill']","['boy', 'climbing', 'hill']",4.0
+"['blond', 'boy', 'jumping', 'onto', 'deck']","['boy', 'jumping', 'wet', 'inflatable', 'slide']",2.0
+"['man', 'uses', 'chainsaw', 'sculpt', 'phallic', 'ice', 'sculpture']","['man', 'using', 'chainsaw', 'carve', 'wooden', 'sculpture']",2.6
+"['group', 'male', 'construction', 'workers', 'repair', 'railroad', 'tracks', 'cloudy', 'day']","['crew', 'workers', 'working', 'railroad', 'track']",3.8
+"['girl', 'something', 'head']","['woman', 'something']",2.6
+"['people', 'making', 'structure', 'cards']","['two', 'people', 'together', 'one', 'using', 'piece', 'clothing', 'different', 'way', 'intended']",0.2
+"['four', 'people', 'outside']","['five', 'people', 'outside']",3.0
+"['girls', 'holding', 'hands', 'blue', 'clothes']","['young', 'people', 'wearing', 'jeans', 'red', 'green', 'shirts']",1.8
+"['man', 'demonstrating', 'work', 'clay', 'least', 'two', 'people', 'observe']","['least', 'one', 'three', 'women', 'talking', 'others']",0.6000000000000001
+"['dog', 'sweater']","['man', 'suit', 'jacket', 'sitting', 'red', 'couch', 'cat']",0.6000000000000001
+"['sculptor', 'applying', 'concrete', 'large', 'statue', 'human', 'figure', 'standing', 'head']","['person', 'standing', 'front', 'building', 'holding', 'aloft', 'plywood']",0.2
+"['boy', 'dark', 'hair', 'water', 'looking']","['man', 'short', 'hair']",0.6000000000000001
+"['pole', 'behind', 'person', 'playing', 'peekaboo', 'child']","['child', 'ball']",0.2
+"['woman', 'paint']","['boy', 'take', 'picture']",1.0
+"['man', 'working', 'steel', 'mill']","['man', 'working', 'foundry']",3.4
+"['young', 'woman', 'flirting', 'young', 'boy']","['girl', 'young', 'cheery']",1.4
+"['men', 'score', 'water', 'polo', 'tournament']","['two', 'men', 'compete', 'match']",2.0
+"['man', 'eats', 'popcorn', 'watching', 'cartoons', 'late', 'one', 'night']","['man', 'girl', 'watching', 'cartoons', 'home']",2.8
+"['three', 'men', 'sit', 'bench']","['two', 'men', 'sit', 'bench']",3.2
+"['road', 'long']","['nothing', 'side', 'road']",0.8
+"['young', 'man', 'wearing', 'white', 'tshirt', 'green', 'black', 'shorts', 'standing', 'stump']","['man', 'wearing', 'white', 'shirt', 'red', 'black', 'shorts', 'running', 'sidewalk']",1.8
+"['dog', 'stairs']","['dog', 'resting', 'stairs']",2.2
+"['two', 'women', 'give', 'demonstration', 'renaissance', 'fair']","['two', 'people', 'demonstration', 'renaissance', 'fair']",4.2
+"['guy', 'sitting', 'couch', 'watching', 'television']","['guy', 'sitting', 'couch', 'watching', 'tv']",5.0
+"['woman', 'posing', 'christmas', 'card']","['girl', 'taking', 'photo']",1.2
+"['man', 'working', 'farm']","['old', 'guy', 'working', 'farm', 'cow', 'kicks']",2.8
+"['girl', 'talking', 'dad', 'cellphone']","['girl', 'talking', 'phone']",4.4
+"['one', 'person', 'wields', 'umbrella']","['one', 'person', 'holding', 'umbrella']",4.4
+"['group', 'teenagers', 'jumping', 'good', 'time']","['group', 'kids', 'good', 'time']",3.6
+"['man', 'playing', 'guitar', 'joes', 'cafe']","['man', 'playing', 'drums', 'mom']",1.2
+"['someone', 'blanket']","['person', 'making', 'blanket']",1.4
+"['man', 'orange', 'shirt']","['woman', 'orange', 'shirt']",3.4
+"['two', 'kids', 'look', 'products', 'sold', 'inside', 'subway', 'shop']","['kids', 'stealing', 'store']",0.8
+"['baby', 'boy', 'wants', 'mother']","['baby', 'boy', 'happy', 'see', 'mother']",2.8
+"['boy', 'close', 'girl']","['girl', 'close', 'boy', 'whose', 'face', 'shown']",3.2
+"['six', 'children', 'cleaning', 'room']","['two', 'male', 'children', 'cleaning', 'leaves', 'parking', 'lot']",1.6
+"['cook', 'preparing', 'food']","['cook', 'making', 'food']",5.0
+"['two', 'men', 'helping', 'boy']","['two', 'men', 'young', 'child']",3.6
+"['two', 'skiing', 'people', 'cross', 'country', 'skiing']","['people', 'skiing', 'cross', 'country']",3.6
+"['dog', 'taking', 'poop', 'street']","['man', 'making', 'balloon', 'animals', 'two', 'children', 'street', 'corner']",0.4
+"['kid', 'talking', 'class']","['girl', 'going', 'class']",1.8
+"['women', 'trying', 'sell', 'something', 'individual']","['men', 'trying', 'make', 'money']",1.2
+"['people', 'waiting', 'fireworks', 'start']","['three', 'people', 'waiting', 'rain', 'stop']",1.2
+"['dog', 'prepares', 'herd', 'three', 'sheep', 'horns']","['dog', 'sheep', 'run', 'together']",2.2
+"['people', 'gathered', 'room']","['people', 'gathered', 'together', 'room']",5.0
+"['woman', 'overalls', 'paints', 'picture', 'wall']","['woman', 'painting', 'wall', 'white']",2.6
+"['adding', 'aspirin', 'water', 'could', 'kill', 'plant']","['men', 'trying', 'remove', 'oil', 'body', 'water']",0.0
+"['woman', 'wearing', 'yellow']","['woman', 'wearing', 'red']",2.8
+"['man', 'stunt', 'bicycle']","['man', 'wheelie', 'motorcycle']",3.2
+"['ten', 'people', 'riding', 'atvs']","['num', 'people', 'riding', 'bikes']",1.6
+"['yellow', 'vested', 'person', 'road', 'work']","['person', 'well', 'skateboard']",0.2
+"['two', 'workers', 'sitting', 'next', 'pipes', 'eating', 'lunch']","['construction', 'workers', 'sitting', 'eat', 'lunch']",3.8
+"['group', 'people', 'living', 'desert']","['group', 'people', 'middle', 'desert']",4.0
+"['two', 'kids', 'swimming']","['six', 'kids', 'going', 'swimming']",2.8
+"['people', 'getting', 'dirty', 'clothes', 'cleaned']","['people', 'getting', 'clothes', 'cleaned']",5.0
+"['children', 'holding', 'musical', 'instruments']","['group', 'children', 'singing', 'playing', 'instruments']",3.4
+"['group', 'people', 'wearing', 'police', 'uniforms', 'conducting', 'arrest']","['group', 'police', 'officers', 'wearing', 'protection']",2.8
+"['man', 'planning', 'shoot', 'wedding']","['woman', 'going', 'wedding']",1.4
+"['childs', 'bike', 'got', 'wet']","['putting', 'away', 'bike']",1.2
+"['soldier', 'walks', 'dog']","['man', 'walks', 'dog']",3.2
+"['shirtless', 'woman', 'operating', 'lawn', 'mower']","['girl', 'mowing', 'grass', 'lawn', 'mower']",3.0
+"['two', 'officers', 'driving']","['two', 'officers', 'horses']",2.2
+"['lady', 'looks', 'sad', 'one', 'buying', 'wares']","['lady', 'selling', 'things']",2.0
+"['flock', 'birds', 'hovered', 'sandy', 'beach']","['birds', 'flying', 'beach']",3.8
+"['people', 'walk', 'home']","['people', 'waiting']",1.6
+"['man', 'laughing', 'woman']","['man', 'woman', 'laughing']",4.8
+"['run', 'boat']","['man', 'getting', 'boat', 'clean', 'take', 'water']",1.2
+"['num', 'cows', 'field']","['two', 'sheep', 'field']",2.4
+"['wet', 'child', 'enjoys', 'summer']","['woman', 'enjoying', 'summer', 'weather']",1.8
+"['girl', 'drivers', 'license']","['man', 'drivers', 'license']",2.6
+"['people', 'motorcycles', 'wearing', 'racing', 'gear', 'ride', 'around', 'racetrack']","['people', 'motorcycles', 'ride', 'around', 'racetrack']",3.8
+"['man', 'standing', 'ground', 'paintbrush']","['man', 'crutch', 'lying', 'ground']",1.2
+"['kids', 'theater', 'watching', 'movie']","['picture', 'day', 'boys']",0.2
+"['two', 'women', 'walk', 'sidewalk', 'store']","['two', 'women', 'walk', 'sidewalk', 'afternoon']",3.8
+"['man', 'son', 'back']","['man', 'spent', 'time', 'son']",2.4
+"['group', 'darkskinned', 'people', 'walking', 'past', 'barbed', 'wire']","['two', 'women', 'gossiping', 'fence']",0.4
+"['zombies', 'parading', 'around', 'eating', 'brains']","['zombies', 'eating', 'flesh', 'together']",3.4
+"['group', 'people', 'sitting', 'beach', 'towels', 'watching', 'blue', 'angels']","['group', 'people', 'sitting', 'beach', 'watching', 'blue', 'angels']",4.2
+"['three', 'people', 'meeting', 'coffee']","['two', 'people', 'make', 'coffee']",2.4
+"['young', 'girl', 'dirt', 'face', 'red', 'childs', 'bike', 'background']","['old', 'woman', 'shorts', 'white', 'tshirt', 'standing', 'path', 'watching', 'children', 'play']",0.8
+"['line', 'scooters', 'parking', 'middle', 'street']","['line', 'motor', 'bikes', 'parked', 'middle', 'street']",4.4
+"['man', 'holding', 'cat']","['man', 'holding', 'dog']",3.0
+"['cats', 'running', 'grass']","['dogs', 'running', 'park']",2.0
+"['two', 'boys', 'playing', 'kick', 'ball', 'back', 'forth']","['players', 'kicking', 'attempting', 'kick', 'ball']",3.0
+"['two', 'girls', 'running']","['three', 'boys', 'running']",2.2
+"['little', 'girl', 'white', 'blouse', 'blue', 'pants', 'frolics', 'grass']","['woman', 'green', 'shirt', 'white', 'pants', 'golfs', 'green']",1.8
+"['man', 'white', 'shirt', 'hat', 'playing', 'guitar']","['man', 'green', 'shirt', 'black', 'hat', 'playing', 'guitar', 'stage']",2.8
+"['black', 'hooded', 'man', 'using', 'large', 'magnifying', 'glass', 'look', 'booklet']","['white', 'hooded', 'woman', 'using', 'magnifying', 'glass', 'look', 'booklet']",2.8
+"['people', 'running', 'marathon']","['people', 'running', 'marathon']",5.0
+"['group', 'people', 'nervous', 'crossing', 'water']","['group', 'people', 'water']",2.2
+"['group', 'kids', 'jumping', 'contest']","['group', 'kids', 'sleepover']",1.2
+"['person', 'wearing', 'fedora']","['man', 'wearing', 'uniform']",1.6
+"['woman', 'man', 'embrace', 'watching', 'horror', 'movie']","['man', 'woman', 'watch', 'movie', 'together']",2.8
+"['man', 'blue', 'dress', 'shirt']","['man', 'white', 'shirt', 'blue', 'pants', 'talking', 'woman', 'pink', 'shirt']",1.8
+"['couple', 'playing', 'game', 'life']","['family', 'playing', 'game', 'together']",2.6
+"['head', 'child', 'dark', 'glasses', 'focus']","['woman', 'full', 'head', 'hair']",0.2
+"['maintenance', 'guy', 'repairing', 'net', 'tennis', 'court']","['man', 'removing', 'tennis', 'net']",2.4
+"['kid', 'sits', 'soccer', 'ball', 'outside']","['kid', 'sitting', 'soccer', 'ball', 'park']",4.2
+"['man', 'brown', 'coat', 'rubs', 'nose']","['bald', 'man', 'red', 'beard', 'holds', 'hand', 'near', 'mouth']",2.2
+"['dog', 'chasing', 'geese']","['one', 'dog', 'chasing']",1.6
+"['small', 'child', 'playing', 'letter', 'p']","['num', 'young', 'girls', 'sitting', 'front', 'bookcase', 'num', 'reading', 'book']",0.8
+"['brown', 'dog', 'jumping']","['brown', 'dog', 'jumping']",5.0
+"['group', 'teenagers', 'red', 'shirts', 'smiling']","['group', 'people', 'wearing', 'orange', 'shirts']",1.2
+"['remained', 'banyan', 'tree', 'exhausted', 'daily', 'ritual', 'dragooning', 'men', 'every', 'two', 'hours']","['remained', 'banyan', 'tree', 'exhausted', 'daily', 'ritual', 'herding', 'cats', 'every', 'two', 'hours']",3.0
+"['us', 'depend', 'school']","['really', 'depends', 'school', 'program']",3.0
+"['theres', 'also', 'string', 'made']","['also', 'youtubeversion', 'film']",0.0
+"['also', 'imply', 'may', 'paid', 'cannot', 'place', 'client']","['might', 'professor']",0.0
+"['one', 'time', 'well']","['habit', 'well']",2.0
+"['base', 'answer', 'know', 'want']","['may', 'want', 'process', 'given', 'work', 'within']",0.0
+"['need', 'worry']","['dont', 'worry']",5.0
+[],['says'],3.0
+"['ask', 'boss', 'wants']","['listen', 'boss', 'youre', 'paid', 'tell', 'boss']",2.0
+"['need', 'read', 'lot', 'know', 'like', 'dont']","['decide', 'much', 'want', 'demand', 'unmet', 'demands', 'live']",0.0
+"['depends', 'want', 'tank']","['think', 'depends', 'want']",2.0
+[],['yes'],5.0
+[],[],1.0
+"['decide', 'want', 'get']","['know', 'want']",4.0
+['suggestions'],"['two', 'suggestions']",4.0
+"['want', 'start', 'room', 'largest', 'make', 'sure', 'straightest', 'start']","['start', 'clinic', 'maybe', 'move', 'insurance', 'company']",1.0
+"['dont', 'want', 'derail', 'meeting', 'key', 'speak']","['key', 'thing', 'need', 'meeting', 'listen']",1.0
+"['unfortunately', 'answer', 'question', 'simply', 'know']","['answer', 'question', 'probably']",1.0
+"['soon', 'possible']","['start', 'early', 'possible']",4.0
+"['base', 'answer', 'know', 'want']","['depends', 'want', 'next', 'want']",1.0
+"['answer', 'questions', 'yes']","['answer', 'questions', 'yes']",5.0
+"['give', 'answer']","['ill', 'answer', 'question']",4.0
+"['unfortunately', 'answer', 'question', 'simply', 'know']","['sorry', 'dont', 'know', 'answer', 'question']",4.0
+"['rule', 'doubt', 'throw']","['always', 'go', 'rule', 'doubt', 'throw']",4.0
+"['good', 'idea']","['sound', 'like', 'bad', 'idea']",4.0
+"['yes', 'probably', 'good', 'idea', 'renew', 'passport']","['good', 'idea']",3.0
+"['probably', 'depends', 'cut', 'meat']","['depends', 'meat', 'cut']",4.0
+"['good', 'idea']","['good', 'question']",0.0
+"['pretty', 'much']","['much', 'better', 'ask']",0.0
+"['yes', 'reason']","['yes', 'exactly', 'means']",1.0
+"['tried', 'asking', 'employees']","['tried', 'asking']",4.0
+"['guys', 'making', 'waaaaay', 'complicated']","['making', 'complicated']",5.0
+"['dont', 'know']","['need', 'anything']",2.0
+"['two', 'things', 'consider']","['two', 'possible', 'causes']",4.0
+"['work', 'slowly']","['seems', 'work']",0.0
+"['buy', 'amazon', 'num']","['buy', 'ebay', 'num']",2.0
+"['coffee', 'simply', 'picks', 'aluminum', 'pot', 'coffee', 'acidic']","['one', 'idea', 'cleaning', 'coffee', 'residue', 'coffee', 'pot']",1.0
+"['two', 'ways', 'start', 'plunging', 'dripping']","['two', 'traditional', 'ways', 'bend', 'wood']",0.0
+"['might', 'try', 'variety', 'find', 'one', 'clicks']","['advice', 'would', 'try', 'variety', 'coffees', 'afford', 'find', 'one', 'like']",2.0
+"['good', 'idea']","['good', 'idea']",5.0
+"['base', 'answer', 'know', 'want']","['way', 'depends', 'available']",1.0
+"['yes', 'mention', 'experience']","['yes', 'mention']",3.0
+['understand'],[],2.0
+"['take', 'look']","['take', 'look']",5.0
+"['id', 'say', 'primarily', 'depends', 'two', 'things']","['id', 'say', 'depends', 'ultimate', 'outcome', 'want']",2.0
+[],"['much', 'besides']",1.0
+"['good', 'idea']","['good', 'idea']",5.0
+"['answers', 'far', 'already', 'good', 'id', 'like', 'add', 'map', 'switzerland']","['lot', 'answers', 'already', 'id', 'like', 'add', 'curries', 'another', 'solutions']",0.0
+"['similar', 'situation']","['similar', 'situation']",5.0
+"['ive', 'problem']",['problem'],5.0
+['maximum'],"['quarantine', 'period']",0.0
+"['sure', 'right', 'site', 'question']","['sure', 'question', 'would', 'made', 'much', 'sense', 'romans']",2.0
+"['depends', 'want', 'next', 'want']","['words', 'depends', 'go']",4.0
+"['need', 'read', 'lot', 'know', 'like', 'dont']","['yes', 'create', 'portfolio', 'site', 'showcase', 'youve', 'done']",0.0
+"['disclosing', 'key', 'info']",[],2.0
+"['depends', 'want', 'next', 'want']","['guess', 'depends', 'youre', 'going']",3.0
+"['base', 'answer', 'know', 'want']","['job', 'see', 'need', 'job']",0.0
+"['depends', 'want', 'next', 'want']","['depends', 'want', 'achieve']",3.0
+"['problem', 'professor', 'deal']","['big', 'problem']",1.0
+"['unusual', 'request']","['sounds', 'bit', 'unusual']",3.0
+"['much', 'depends', 'grant', 'question']","['think', 'depends', 'much', 'area']",2.0
+['thing'],['problem'],4.0
+"['affect', 'ratings']",[],0.0
+"['answer', 'question', 'probably']","['think', 'short', 'answer', 'question']",4.0
+"['dont', 'think', 'makes', 'tremendous', 'difference']","['dont', 'think', 'makes', 'much', 'difference']",4.0
+['depends'],"['depends', 'evaluating']",2.0
+"['theres', 'lot']","['theres', 'much', 'sourdough', 'starter']",2.0
+"['answered', 'question']","['answered', 'question']",5.0
+"['base', 'answer', 'know', 'want']","['th', 'answer', 'problem', 'dont', 'actually', 'know', 'youre', 'getting']",2.0
+"['good', 'idea']","['probably', 'good', 'idea', 'suggest', 'anyhow']",2.0
+"['best', 'thing', 'know', 'stuff']","['recommendation', 'say', 'anything', 'best']",0.0
+"['id', 'say', 'primarily', 'depends', 'two', 'things']","['id', 'say', 'depends', 'conditions']",2.0
+"['dont', 'know']","['dont', 'anything', 'season']",0.0
+['thing'],"['situation', 'traveled', 'extensively']",2.0
+"['good', 'idea']","['think', 'good', 'idea']",4.0
+"['right', 'path']","['right', 'mark']",4.0
+"['doesnt', 'answer', 'question']","['part', 'answer', 'question']",1.0
+['proceed'],[],4.0
+"['page', 'answer', 'question']","['answer', 'questions']",4.0
+['use'],"['still', 'use', 'practice']",2.0
+"['really', 'depends', 'employer', 'documents']","['depends', 'youre', 'stating']",2.0
+"['ive', 'problem']","['ive', 'problem', 'working', 'pubs']",2.0
+"['need', 'read', 'lot', 'know', 'like', 'dont']","['tell', 'good', 'story', 'sometimes', 'tweak', 'realityhistory']",0.0
+"['depends', 'want', 'next', 'want']","['depends', 'want', 'able']",3.0
+"['yes', 'file', 'tax', 'return', 'canada']","['required', 'file', 'tax', 'return', 'canada', 'taxable', 'income']",1.0
+"['dont', 'see', 'problem', 'whatsoever']","['dont', 'see', 'problem']",5.0
+"['hope', 'looking']","['looking', 'much', 'higher', 'get', 'picture']",1.0
+"['best', 'thing', 'know', 'stuff']","['best', 'thing', 'overcome', 'fussiness']",0.0
+"['depends', 'dish', 'amenable', 'stage', 'make', 'mistake']","['depends', 'sauce', 'result', 'want']",2.0
+"['base', 'answer', 'know', 'want']",['right'],2.0
+"['probably', 'dont', 'chance', 'moment']","['saying', 'thanks', 'dont', 'questions', 'moment']",0.0
+"['really', 'doesnt', 'matter']","['doesnt', 'matter', 'unless', 'really', 'far']",3.0
+"['dont', 'need', 'know', 'everything']","['dont', 'know']",3.0
+"['think', 'youre', 'looking', 'mikey', 'num']","['think', 'youre', 'looking', 'movie']",3.0
+"['makes', 'absolutely', 'difference']","['makes', 'difference']",5.0
+"['think', 'fine', 'ask', 'question']","['think', 'okay', 'ask', 'question']",5.0
+"['im', 'going', 'direct']","['im', 'going', 'blunt', 'dont']",4.0
+"['base', 'answer', 'know', 'want']","['yes', 'exactly', 'want']",1.0
+[],"['prime', 'first']",0.0
+"['theres', 'lot']","['im', 'afraid', 'theres', 'really', 'lot']",5.0
+"['kind', 'insulation']","['kind', 'floors']",0.0
+"['depends', 'entirely', 'company', 'contract']","['guess', 'depends', 'nature', 'contract']",4.0
+"['answered', 'question']","['youve', 'answered', 'question', 'already']",5.0
+"['dont', 'think', 'theres']","['dont', 'think', 'universal', 'term']",3.0
+['things'],"['minimallyeffective', 'things', 'personal', 'level']",3.0
+"['tip', 'find', 'useful']","['something', 'like', 'useful']",3.0
+"['thats', 'believe']","['yes', 'believe', 'good', 'idea']",2.0
+"['sure', 'dont']","['dont', 'spend', 'time', 'something', 'like']",1.0
+['head'],['adhesion'],0.0
+"['sure', 'dont']","['strong', 'scientific', 'reason', 'dont']",2.0
+"['need', 'read', 'lot', 'know', 'like', 'dont']","['know', 'want']",0.0
+"['would', 'say', 'wouldnt', 'advised']","['personally', 'would', 'say', 'unless', 'suits']",2.0
+[],[],5.0
+"['sure', 'ive', 'done', 'trip']","['ive', 'done', 'many', 'dozens', 'times']",3.0
+['use'],[],3.0
+[],[],5.0
+"['ive', 'located', 'article', 'might', 'help', 'httpwwwdsattorneycomqapseudonymsincontracts']","['found', 'link', 'might', 'help']",3.0
+"['would', 'say', 'wouldnt', 'advised']","['would', 'say', 'impossible', 'know', 'dont', 'risk']",2.0
+"['unfortunately', 'answer', 'question', 'simply', 'know']","['answer', 'question', 'really']",1.0
+"['sure', 'dont']","['dont', 'work']",1.0
+"['also', 'matter', 'taste']","['definitely', 'matter', 'preference']",5.0
+"['good', 'idea']","['good', 'idea']",1.0
+"['answer', 'based', 'experience', 'teaching', 'undergraduate', 'math', 'us']","['answer', 'based', 'experience', 'researched', 'references']",2.0
+"['things', 'think']","['quite', 'things', 'would', 'need']",4.0
+"['want', 'clean', 'area', 'first']","['also', 'want', 'remove', 'seeds']",0.0
+"['depends', 'want', 'tank']","['depends', 'want', 'achieve']",2.0
+"['couple', 'options', 'could', 'consider']","['lot', 'ways', 'could', 'go', 'poorly']",1.0
+"['dont', 'worry']","['since', 'one', 'ticket', 'dont', 'worry']",3.0
+"['vietnamese', 'citizens', 'need', 'visa', 'visit', 'usa']","['nepalese', 'citizens', 'require', 'visa', 'visit', 'uk']",1.0
+"['depends', 'used']","['depends', 'long']",1.0
+"['dont', 'see', 'problem', 'whatsoever']","['dont', 'see', 'could', 'problem']",5.0
+"['theres', 'lot']","['really', 'think', 'much']",5.0
+"['got', 'right']","['yes', 'got']",5.0
+"['base', 'answer', 'know', 'want']","['remember', 'degree', 'talking', 'want']",0.0
+[],[],4.0
+"['similar', 'situation']","['similar', 'situation']",4.0
+"['lid', 'made']",['paper'],0.0
+"['dont', 'need', 'visa']","['dont', 'need', 'sauce']",0.0
+"['problem', 'supervisors']","['work', 'supervisor', 'team', 'solve', 'problem']",2.0
+"['depends', 'want', 'next', 'want']","['want', 'next']",4.0
+"['two', 'things', 'consider']","['couple', 'things', 'consider']",5.0
+"['depends', 'entirely', 'company', 'contract']","['depends', 'company']",3.0
+"['wood', 'probably', 'isnt', 'rotten', 'worn']","['worn', 'safe']",3.0
+"['well', 'wouldnt', 'put', 'cv']","['wouldnt', 'put', 'job', 'resume']",4.0
+"['great', 'one']","['difficult', 'one']",1.0
+"['answer', 'questions', 'yes']","['directly', 'answer', 'two', 'questions', 'title']",0.0
+"['yes', 'reason', 'propose']","['valid', 'reasons', 'feel', 'way', 'reason', 'resign']",2.0
+"['think', 'depends', 'program']","['depends', 'term', 'used', 'think']",2.0
+[],[],5.0
+"['think', 'isnt', 'general', 'answer']","['dont', 'think', 'answer']",4.0
+['things'],"['couple', 'things', 'try']",5.0
+"['key', 'find', 'something', 'works', 'goals']","['may', 'want', 'process', 'given', 'work', 'within']",1.0
+"['dont', 'know']","['dont', 'equipmentsfacilities', 'research', 'b']",0.0
+"['think', 'youve', 'pretty', 'much', 'done', 'review']","['youve', 'pretty', 'much', 'answered', 'question']",2.0
+"['things', 'think']","['things', 'dont', 'understand']",0.0
+"['burn', 'calories', 'digesting', 'protein', 'carbohydrates', 'fat']","['sweat', 'faster', 'burn', 'calories', 'fat']",2.0
+"['depends', 'want', 'next', 'want']","['depends', 'want', 'sayimply']",1.0
+"['got', 'right']","['youve', 'got', 'right']",5.0
+"['answered', 'question']","['pretty', 'much', 'answered', 'question']",5.0
+['thing'],['problem'],3.0
+"['yes', 'chemical', 'difference']","['yes', 'reason']",0.0
+"['level', 'bit', 'flat', 'important']","['yes', 'although', 'bit', 'sour']",0.0
+"['would', 'look', 'us']","['would', 'look', 'way']",2.0
+"['right', 'path']","['youre', 'right', 'path']",5.0
+['havent'],['dont'],1.0
+"['yes', 'common']","['simple', 'answer', 'yes']",3.0
+"['dont', 'think', 'theres']","['dont', 'think', 'benefits']",3.0
+"['looks', 'set', 'want']","['whether', 'want']",2.0
+"['problem', 'system', 'doesnt', 'account', 'people', 'could', 'care', 'less', 'money', 'title']","['joker', 'doesnt', 'care', 'money']",1.0
+"['first', 'case', 'think', 'dont', 'need']","['dont', 'think', 'need', 'put', 'cover']",1.0
+"['impossible', 'answer', 'question', 'without', 'form', 'check']","['difficult', 'impossible', 'give', 'complete', 'answer', 'question']",2.0
+"['need', 'add', 'resume', 'position']","['gives', 'opportunity', 'make', 'case', 'really', 'expertise', 'xxx']",2.0
+"['work', 'slowly']","['work', 'slowly']",4.0
+"['need', 'bread', 'machine']","['need', 'worry']",0.0
+"['yes', 'possible', 'publish', 'paper', 'model', 'analysis']","['yes', 'hard', 'publish', 'peer', 'reviewed', 'journal']",1.0
+"['base', 'answer', 'know', 'want']","['thats', 'need', 'really', 'explicit']",1.0
+"['yes', 'mention', 'experience']","['yes', 'make', 'résumé']",2.0
+"['think', 'great', 'test', 'conducted']","['think', 'thats', 'great', 'plan']",2.0
+"['dont', 'know']","['dont', 'tax', 'issue']",0.0
+"['yes', 'rule']","['theres', 'rule']",1.0
+['goals'],['goals'],5.0
+"['im', 'going', 'go', 'limb']","['im', 'going', 'direct']",2.0
+"['long', 'stay', 'visa', 'switzerland', 'valid', 'need', 'transit', 'visa']","['need', 'transit', 'visa', 'enter', 'zurich', 'need', 'visa']",2.0
+"['point', 'think']","['things', 'think']",5.0
+"['dont', 'perfect', 'every', 'answer']","['dont', 'know']",2.0
+"['im', 'afraid', 'luck', 'one']","['think', 'one', 'things', 'luck']",5.0
+"['deciding', 'get', 'others']","['point', 'know', 'want', 'dont', 'afraid', 'ask']",0.0
+"['varies', 'situation']","['varies', 'institution']",4.0
+['thing'],['problem'],4.0
+['thing'],"['exact', 'problem']",4.0
+"['right', 'path']","['youre', 'right', 'sample', 'definition']",0.0
+"['primerpaint', 'work']","['nope', 'work']",2.0
+"['best', 'thing', 'know', 'stuff']","['best', 'thing', 'find', 'something', 'else', 'interesting', 'wait', 'hold']",2.0
+"['also', 'matter', 'taste']","['mostly', 'matter', 'taste']",5.0
+"['similar', 'situation']","['personally', 'similar', 'situation', 'sent', 'couple', 'card', 'gift']",2.0
+['use'],['yes'],3.0
+"['decide', 'want', 'get']","['find', 'works']",4.0
+['depends'],"['depends', 'used']",1.0
+['problem'],['problem'],5.0
+"['sometime', 'really', 'want', 'might', 'need', 'pay', 'agency', 'get', 'place']","['could', 'probably', 'get', 'tour', 'agency', 'would', 'cost']",2.0
+"['dont', 'need', 'know', 'everything']","['dont', 'want', 'know']",1.0
+"['also', 'useful', 'keep', 'consistency', 'story']","['important', 'keep', 'story', 'scope', 'limit']",2.0
+"['think', 'habit']","['think', 'bad', 'idea']",1.0
+"['good', 'idea']","['good', 'thing']",4.0
+"['im', 'thinking', 'bad', 'idea']","['think', 'bad', 'idea']",5.0
+"['depends', 'want', 'next', 'want']","['need', 'pick', 'want', 'place', 'foot']",1.0
+['problem'],"['big', 'problem']",4.0
+"['unfortunately', 'answer', 'question', 'simply', 'know']","['conversation', 'work', 'know', 'answer', 'question']",2.0
+"['unfortunately', 'question', 'cannot', 'answered', 'full', 'generality']","['cannot', 'answered', 'general']",4.0
+"['would', 'personally', 'beware', 'motley', 'fool']","['would', 'recommend', 'looking', 'motley', 'fool']",2.0
+"['think', 'isnt', 'general', 'answer']","['dont', 'think', 'single', 'definition']",4.0
+"['good', 'idea']","['good', 'idea']",5.0
+"['dont', 'need', 'visa']","['dont', 'worry']",0.0
+"['decide', 'want', 'get']","['youre', 'probably', 'going', 'read', 'various', 'blogs', 'get', 'information', 'want']",0.0
+['problem'],"['exactly', 'problem']",5.0
+"['answer', 'question', 'probably']","['answer', 'question', 'really']",4.0
+[],['never'],1.0
+['problem'],['issue'],4.0
+"['hope', 'looking']","['kind', 'thing', 'youre', 'looking']",4.0
+"['two', 'things', 'consider']","['think', 'two', 'important', 'things', 'consider']",5.0
+"['pretty', 'much']",[],5.0
+['things'],"['things', 'need', 'consider']",4.0
+"['answer', 'similar', 'questions', 'two', 'stages']","['answer', 'questions', 'yes']",1.0
+"['impossible', 'answer', 'question', 'without', 'form', 'check']","['part', 'answer', 'question']",0.0
+['things'],"['things', 'think']",3.0
+"['depends', 'want', 'next', 'want']","['depends', 'going']",4.0
+"['possible', 'reasons']","['reasons', 'paint', 'wrinkles']",3.0
+"['three', 'options']","['three', 'options']",5.0
+"['think', 'way']","['think', 'way']",5.0
+"['maybe', 'could', 'work']","['maybe', 'work']",5.0
+"['depends', 'want', 'next', 'want']","['way', 'depends', 'available']",1.0
+"['microwave', 'would', 'best', 'bet']","['best', 'bet', 'research']",0.0
+"['us', 'depend', 'school']","['depend', 'university']",4.0
+"['good', 'idea']","['good', 'idea', 'excellent', 'idea']",1.0
+"['things', 'think']","['minimallyeffective', 'things', 'personal', 'level']",4.0
+"['ive', 'problem']",['situation'],3.0
+"['good', 'idea']","['good', 'idea']",5.0
+"['realized', 'already', 'accepted', 'answer', 'figure', 'would', 'add', 'num', 'cents']","['know', 'old', 'question', 'feel', 'add', 'num', 'cents']",5.0
+"['yes', 'reason', 'propose']","['yes', 'chemical', 'difference']",0.0
+"['yes', 'least', 'one', 'knowledge']","['knowledge', 'theres', 'time', 'requirement']",1.0
+"['dont', 'worry']","['dont', 'anything', 'season']",0.0
+"['test', 'tell', 'sealed']","['code', 'telling', 'cannot']",0.0
+"['yes', 'make', 'résumé']","['yes', 'talk', 'professor']",0.0
+"['shouldnt', 'feel', 'obligation']","['dont', 'need', 'sauce']",0.0
+"['ive', 'problem']",['problem'],4.0
+"['may', 'experiment', 'find', 'like']","['find', 'works']",5.0
+"['answer', 'question', 'probably']","['part', 'answer', 'question']",1.0
+"['key', 'thing', 'realize', 'job', 'make', 'people', 'work']","['really', 'isnt', 'problem', 'going', 'find', 'qualified', 'person', 'job']",1.0
+"['direct', 'answer', 'question', 'something', 'consider']","['real', 'answer', 'question', 'maybe', 'helps']",4.0
+"['two', 'possible', 'causes']","['two', 'options']",1.0
+"['agree', 'comments']","['agree', 'previous', 'comments']",5.0
+"['answer', 'questions', 'yes']","['answer', 'questions', 'yes', 'phd', 'may', 'worthwhile']",3.0
+"['rather', 'depends', 'country', 'youre']","['depends', 'country']",5.0
+"['terrible', 'idea']","['bad', 'idea']",5.0
+"['vivendi', 'shares', 'closed', 'num', 'percent', 'num', 'euros', 'paris', 'falling', 'num', 'percent', 'monday']","['new', 'york', 'vivendi', 'shares', 'num', 'percent', 'num']",1.4
+"['bremer', 'said', 'one', 'initiative', 'launch', 'usnum', 'million', 'nationwide', 'program', 'next', 'two', 'weeks', 'clean', 'neighborhoods', 'build', 'community', 'projects']","['bremer', 'said', 'would', 'launch', 'nummillion', 'program', 'next', 'two', 'weeks', 'clean', 'neighborhoods', 'across', 'iraq', 'build', 'community', 'projects', 'gave', 'details']",3.6
+"['governor', 'gray', 'davis', 'estimated', 'yesterday', 'fires', 'could', 'cost', 'nearly', 'num', 'billion']","['state', 'officials', 'estimated', 'cost', 'nearly', 'num', 'billion']",3.5
+"['american', 'express', 'corp', 'pledged', 'least', 'num', 'million', 'num', 'million', 'needed']","['city', 'requested', 'federal', 'funds', 'withdrew', 'request', 'american', 'express', 'pledged', 'least', 'num', 'million']",3.2
+"['claudette', 'first', 'hurricane', 'atlantic', 'storm', 'season', 'hit', 'midtexas', 'coast', 'july', 'num', 'nummph', 'wind']","['claudette', 'first', 'hurricane', 'atlantic', 'storm', 'season', 'hit', 'midtexas', 'coast', 'july', 'num', 'classified', 'category', 'num', 'hurricane', 'maximum', 'sustained', 'winds', 'num', 'mph']",4.0
+"['results', 'num', 'us', 'soft', 'drink', 'maker', 'pepsico', 'inc', 'nyse', 'pep', 'news', 'people', 'likely', 'spotlight']","['wall', 'street', 'also', 'waiting', 'aluminum', 'maker', 'alcoa', 'inc', 'nyse', 'pep', 'news', 'people', 'report', 'earnings', 'close']",2.0
+"['taylors', 'aides', 'warn', 'abrupt', 'departure', 'could', 'trigger', 'chaos', 'view', 'shared', 'many', 'liberia', 'private', 'even', 'mediators']","['aides', 'warn', 'abrupt', 'departure', 'could', 'trigger', 'bloodshed', 'view', 'shared', 'many', 'liberia']",3.6
+"['odette', 'first', 'form', 'caribbean', 'sea', 'december', 'center', 'said']","['first', 'named', 'storm', 'develop', 'caribbean', 'december']",4.2
+"['aflcio', 'waiting', 'october', 'decide', 'endorse', 'candidate']","['aflcio', 'announced', 'wednesday', 'decide', 'october', 'whether', 'endorse', 'candidate', 'primaries']",4.0
+"['developed', 'consultation', 'num', 'leaders', 'academia', 'industry', 'government', 'public']","['plan', 'called', 'nih', 'roadmap', 'developed', 'num', 'months', 'help', 'num', 'consultants', 'industry', 'academia']",3.25
+"['local', 'police', 'authorities', 'treating', 'explosion', 'criminal', 'matter', 'nothing', 'ruled']","['acting', 'new', 'police', 'chief', 'francisco', 'ortiz', 'said', 'police', 'treating', 'explosion', 'criminal', 'matter']",3.4
+"['chiron', 'already', 'nearly', 'num', 'percent', 'acceptances', 'powderjects', 'shareholders']","['chiron', 'acceptances', 'holders', 'nearly', 'num', 'percent', 'powderject', 'shares']",3.667
+"['believe', 'fully', 'prepared', 'roll', 'touchscreen', 'machines', 'num', 'presidential', 'primary', 'said', 'gilles', 'w', 'burger', 'state', 'board', 'elections', 'chairman']","['believe', 'fully', 'prepared', 'roll', 'revised', 'diebold', 'machines', 'said', 'gilles', 'w', 'burger', 'chairman', 'maryland', 'state', 'board', 'elections']",3.75
+"['analysts', 'expected', 'earnings', 'num', 'cents', 'share', 'revenue', 'num', 'billion', 'thomson', 'first', 'call', 'says']","['hewlettpackard', 'putting', 'secondquarter', 'profit', 'num', 'million', 'num', 'cents', 'share', 'revenue', 'num', 'billion']",1.2
+"['another', 'serious', 'condition', 'northwest', 'medical', 'center', 'springdale']","['northwest', 'medical', 'center', 'washington', 'county', 'springdale', 'one', 'child', 'serious', 'condition']",3.8
+"['sean', 'harrigan', 'president', 'california', 'public', 'employees', 'retirement', 'system', 'also', 'suggested', 'paring', 'nyses', 'nummember', 'board', 'changing', 'composition', 'making', 'accountable']","['sean', 'harrigan', 'president', 'california', 'public', 'employees', 'retirement', 'system', 'also', 'suggested', 'paring', 'nyses', 'nummember', 'board', 'allotting', 'seats', 'investors', 'outside', 'securities', 'industry']",3.4
+"['swedish', 'central', 'bank', 'also', 'meeting', 'wednesday', 'widely', 'expected', 'announce', 'cut', 'thursday']","['swedish', 'central', 'bank', 'also', 'meeting', 'wednesday', 'widely', 'expected', 'announce', 'cut', 'thursday', 'much', 'half', 'percentage', 'point']",3.2
+"['num', 'chevrolet', 'tahoe', 'found', 'abandoned', 'virginia', 'beach', 'va', 'parking', 'lot', 'june', 'num']","['sport', 'utility', 'vehicle', 'found', 'june', 'num', 'abandoned', 'without', 'license', 'plates', 'virginia', 'beach', 'va']",3.6
+"['heatley', 'sixth', 'league', 'goals', 'last', 'season', 'num', 'ninth', 'points', 'num']","['heatley', 'led', 'atlanta', 'scoring', 'last', 'season', 'teamrecord', 'num', 'goals', 'num', 'assists']",3.0
+"['tonys', 'feeling', 'well', 'spurs', 'coach', 'gregg', 'popovich', 'said']","['thrilled', 'num', 'coach', 'gregg', 'popovich', 'said', 'wednesday']",1.6
+"['electronic', 'data', 'systems', 'corp', 'thursday', 'said', 'securities', 'exchange', 'commission', 'asked', 'company', 'documents', 'related', 'large', 'contract', 'us', 'navy']","['regulatory', 'filing', 'eds', 'said', 'sec', 'asked', 'information', 'related', 'troubled', 'outsourcing', 'contract', 'us', 'navy']",3.2
+"['well', 'dolphin', 'scheme', 'chaos', 'allowed', 'foreign', 'companies', 'engage', 'damaging', 'logging', 'fishing', 'operations', 'without', 'proper', 'monitoring', 'export', 'controls']","['internal', 'chaos', 'allowed', 'foreign', 'companies', 'set', 'damaging', 'commercial', 'logging', 'fishing', 'operations', 'without', 'proper', 'monitoring', 'export', 'controls']",3.8
+"['next', 'court', 'session', 'threejudge', 'tribunal', 'announces', 'verdict', 'midfebruary']","['courts', 'threejudge', 'tribunal', 'expected', 'give', 'verdict', 'next', 'february']",4.2
+"['consensus', 'among', 'wall', 'street', 'analysts', 'loss', 'num', 'cents', 'share']","['analysts', 'surveyed', 'first', 'call', 'expecting', 'sales', 'num', 'million', 'loss', 'num', 'cents', 'share']",3.0
+"['civilian', 'unemployment', 'rate', 'improved', 'marginally', 'last', 'month', 'slipping', 'num', 'percent', 'even', 'companies', 'slashed', 'payrolls', 'num']","['civilian', 'unemployment', 'rate', 'improved', 'marginally', 'last', 'month', '_', 'sliding', 'num', 'percent', '_', 'companies', 'slashed', 'payrolls', 'num', 'amid', 'continuing', 'mixed', 'signals', 'nations', 'economic', 'health']",4.0
+"['moffitt', 'said', 'results', 'need', 'replicated', 'another', 'study', 'testing', 'individuals', 'presence', 'long', 'short', 'versions', 'gene', 'pursued']","['professor', 'moffitt', 'said', 'results', 'needed', 'replicated', 'pursuing', 'testing', 'individuals', 'presence', 'long', 'short', 'versions', 'gene']",4.75
+"['compensation', 'committee', 'prohibit', 'securities', 'industry', 'directors', 'sitting']","['exchange', 'also', 'said', 'fiveperson', 'compensation', 'committee', 'consist', 'directors', 'outside', 'securities', 'industry']",3.533
+"['q', 'buy', 'coverage', 'prescription', 'drugs', 'right', 'away']","['congress', 'added', 'new', 'benefit', 'option', 'buy', 'insurance', 'coverage', 'prescription', 'drugs']",1.25
+"['shares', 'mandalay', 'closed', 'eight', 'cents', 'num', 'earnings', 'announced']","['shares', 'mandalay', 'closed', 'num', 'cents', 'num', 'thursday']",4.0
+"['num', 'buildings', 'owners', 'port', 'authority', 'new', 'york', 'new', 'jersey', 'issued', 'guidelines', 'upgrade', 'fireproofing', 'thickness', 'num', 'inches']","['nist', 'discovered', 'num', 'port', 'authority', 'issued', 'guidelines', 'upgrade', 'fireproofing', 'thickness', 'num', 'num', 'inches']",3.0
+"['dollar', 'last', 'num', 'euro', 'close', 'strongest', 'level', 'since', 'april', 'num']","['dollar', 'pushed', 'high', 'num', 'euro', 'early', 'trade', 'extending', 'tuesdays', 'one', 'percent', 'rally', 'hit', 'strongest', 'level', 'since', 'april', 'num']",2.6
+"['single', 'currency', 'rose', 'far', 'num', 'yen', 'matching', 'record', 'high', 'hit', 'shortly', 'euros', 'launch', 'january', 'num']","['single', 'currency', 'rose', 'far', 'num', 'yen', 'highest', 'level', 'since', 'introduction', 'single', 'currency', 'january', 'num']",3.5
+"['new', 'castle', 'county', 'woman', 'become', 'first', 'delaware', 'patient', 'contract', 'west', 'nile', 'virus', 'year', 'states', 'department', 'health', 'reported']","['numyearold', 'west', 'babylon', 'man', 'contracted', 'west', 'nile', 'virus', 'first', 'human', 'case', 'suffolk', 'county', 'year', 'according', 'county', 'health', 'department']",1.5
+"['also', 'reaffirmed', 'wish', 'resolve', 'north', 'korean', 'nuclear', 'crisis', 'peacefully']","['north', 'korean', 'nuclear', 'crisis', 'dominated', 'time', 'office']",2.0
+"['rebel', 'captured', 'said', 'num', 'insurgents', 'involved', 'attack']","['captured', 'rebel', 'said', 'num', 'combatants', 'involved', 'offensive']",3.5
+"['kyi', 'un', 'envoy', 'says', 'japan', 'adds', 'growing', 'international', 'pressure', 'saying', 'halt', 'hefty', 'economic', 'aid', 'unless', 'suu', 'kyi', 'freed']","['japan', 'added', 'growing', 'international', 'pressure', 'burma', 'yesterday', 'threatening', 'halt', 'hefty', 'economic', 'aid', 'unless', 'military', 'government', 'released', 'prodemocracy', 'leader', 'aung', 'san', 'suu', 'kyi']",3.0
+"['walmart', 'kohls', 'corp', 'family', 'dollar', 'stores', 'inc', 'big', 'lots', 'inc', 'among', 'merchants', 'posting', 'may', 'sales', 'fell', 'wall', 'streets', 'modest', 'expectations']","['wal', 'mart', 'kohls', 'corp', 'family', 'dollar', 'stores', 'inc', 'big', 'lots', 'inc', 'posted', 'may', 'sales', 'fell', 'wall', 'streets', 'modest', 'expectations']",4.75
+"['mr', 'eddington', 'warned', 'yesterday', 'future', 'airline', 'hands', 'negotiators']","['future', 'ba', 'hands', 'negotiators', 'eddington', 'told', 'british', 'broadcasting', 'corp', 'television', 'sunday']",3.4
+"['kids', 'wonderful', 'physical', 'condition', 'right', 'said', 'press', 'briefing', 'hospital']","['kids', 'wonderful', 'physical', 'condition', 'right', 'said', 'goodrich', 'also', 'director', 'pediatric', 'neurosurgery', 'childrens', 'hospital', 'montefiore']",3.4
+"['cells', 'surface', 'foreign', 'components', 'recognised', 'cells', 'realise', 'infected', 'kill']","['foreign', 'bits', 'recognized', 'cells', 'realize', 'infected', 'kill']",4.25
+"['trading', 'loral', 'halted', 'yesterday', 'shares', 'closed', 'monday', 'num']","['new', 'york', 'stock', 'exchange', 'suspended', 'trading', 'yesterday', 'loral', 'closed', 'num', 'friday']",3.8
+"['knox', 'county', 'health', 'department', 'following', 'national', 'centers', 'disease', 'control', 'prevention', 'protocol', 'contain', 'infection']","['health', 'department', 'spokesperson', 'added', 'department', 'following', 'centers', 'disease', 'control', 'protocol']",3.0
+"['schools', 'chancellor', 'joel', 'klein', 'said', 'push', 'higher', 'standards', 'accountability', 'showing', 'results']","['schools', 'chancellor', 'joel', 'klein', 'said', 'pleased', 'results']",3.0
+"['one', 'witness', 'told', 'anatolian', 'saw', 'plane', 'fire', 'still', 'air']","['one', 'witness', 'told', 'anatolian', 'news', 'agency', 'saw', 'plane', 'fire', 'midair']",4.6
+"['proposed', 'system', 'would', 'take', 'fewer', 'fewer', 'votes', 'overcome', 'filibuster']","['frist', 'proposed', 'process', 'would', 'take', 'gradually', 'fewer', 'votes', 'overcome', 'filibusters', 'preventing', 'final', 'votes', 'judicial', 'confirmations']",3.0
+"['hormone', 'replacement', 'therapy', 'combines', 'estrogen', 'progestin', 'doubles', 'womans', 'risk', 'breast', 'cancer', 'british', 'study', 'million', 'women', 'found']","['major', 'british', 'study', 'added', 'evidence', 'hormone', 'replacement', 'therapy', 'increases', 'risk', 'breast', 'cancer', 'especially', 'women', 'receive', 'combination', 'estrogen', 'progestin']",4.25
+"['barbinis', 'comments', 'came', 'tuesday', 'second', 'day', 'ministerial', 'conference', 'expo', 'agricultural', 'science', 'technology']","['us', 'agriculture', 'secretary', 'ann', 'veneman', 'kicks', 'threeday', 'ministerial', 'conference', 'expo', 'agricultural', 'science', 'technology', 'monday']",1.8
+"['yesterday', 'shares', 'closed', 'num', 'cents', 'num', 'percent', 'num']","['amazons', 'shares', 'yesterday', 'closed', 'num', 'nasdaq', 'stock', 'market', 'num', 'cents']",2.8
+"['lawtey', 'first', 'faithbased', 'program', 'floridas', 'prison', 'system']","['lawtey', 'first', 'entire', 'prison', 'take', 'path']",1.25
+"['transaction', 'grant', 'handspring', 'stockholders', 'num', 'share', 'palmand', 'shares', 'palmsourcefor', 'share', 'handspring', 'common', 'stock']","['proposed', 'terms', 'transaction', 'following', 'spinoff', 'palmsource', 'palm', 'exchange', 'num', 'shares', 'share', 'handspring']",3.75
+"['giant', 'rock', 'first', 'observed', 'august', 'num', 'lincoln', 'nearearth', 'asteroid', 'research', 'program', 'based', 'socorro', 'new', 'mexico']","['rock', 'first', 'observed', 'lincoln', 'near', 'earth', 'asteroid', 'research', 'program', 'also', 'known', 'linear']",3.75
+"['need', 'change', 'old', 'habits', 'seriously', 'rethink', 'businessasusual']","['urged', 'employees', 'avoid', 'complacency', 'change', 'old', 'habits', 'seriously', 'rethink', 'businessasusual']",3.75
+"['despicable', 'acts', 'committed', 'killers', 'whose', 'faith', 'hate', 'bush', 'said', 'adding', 'united', 'states', 'find', 'killers']","['despicable', 'acts', 'committed', 'killers', 'whose', 'faith', 'hate', 'united', 'states', 'find', 'killers', 'learn', 'meaning', 'american', 'justice']",3.5
+"['total', 'num', 'women', 'enrolled', 'academy', 'report', 'said']","['num', 'women', 'enrolled', 'academy', 'time', 'survey']",4.6
+"['national', 'concern', 'touch', 'virtually', 'every', 'american', 'abraham', 'said']","['impact', 'naturalgas', 'shortages', 'touch', 'virtually', 'every', 'american', 'energy', 'secretary', 'spencer', 'abraham', 'warned', 'yesterday']",3.25
+"['united', 'states', 'num', 'percent', 'women', 'smoke']","['nevada', 'women', 'smoke', 'num', 'percent']",1.333
+"['margin', 'error', 'plus', 'minus', 'num', 'percentage', 'points']","['poll', 'num', 'likely', 'voters', 'sampling', 'error', 'plus', 'minus', 'num', 'percentage', 'points']",2.5
+"['shares', 'mony', 'gaining', 'num', 'num', 'num', 'afterhours', 'trading', 'instinet']","['mony', 'shares', 'rose', 'num', 'per', 'cent', 'num', 'afterhours', 'trading', 'new', 'york']",3.25
+"['diana', 'lowest', 'ebb', 'wrote', 'letter', 'paul', 'burrell', 'claiming', 'plot', 'kill']","['burrell', 'said', 'diana', 'wrote', 'letter', 'october', 'num', 'claiming', 'plot', 'kill', 'smash', 'gave', 'keep', 'insurance']",3.0
+"['gillespie', 'sent', 'letter', 'cbs', 'president', 'leslie', 'moonves', 'asking', 'historical', 'review', 'disclaimer']","['republican', 'national', 'committee', 'chairman', 'ed', 'gillespie', 'issued', 'letter', 'friday', 'cbs', 'television', 'president', 'leslie', 'moonves']",3.6
+"['lets', 'show', 'wont', 'let', 'said', 'marc', 'blondel', 'leader', 'force', 'ouvriere', 'union']","['movement', 'defend', 'pensions', 'gaining', 'momentum', 'wont', 'give', 'said', 'marc', 'blondel', 'leader', 'force', 'ouvriere', 'union']",2.2
+"['contrary', 'peoplesoft', 'management', 'would', 'believe', 'oracle', 'intends', 'fully', 'support', 'peoplesoft', 'customers', 'products', 'many', 'years', 'come']","['ellison', 'said', 'contrary', 'contentions', 'peoplesoft', 'management', 'oracle', 'intends', 'fully', 'support', 'peoplesoft', 'customers', 'products', 'many', 'years', 'come']",4.8
+"['mexican', 'law', 'bounty', 'hunting', 'considered', 'form', 'kidnapping']","['bounty', 'hunting', 'illegal', 'mexico', 'bounty', 'hunter', 'charged', 'kidnapping']",4.0
+"['announcements', 'made', 'international', 'broadcasting', 'convention', 'ibc', 'amsterdam']","['submission', 'monday', 'announcement', 'made', 'friday', 'international', 'broadcasting', 'convention', 'amsterdam']",3.4
+"['keywords', 'supported', 'chinese', 'language', 'web', 'portals']","['chinese', 'language', 'web', 'portals', 'also', 'support', 'num', 'keywords', 'web', 'site', 'said']",3.2
+"['consensus', 'estimate', 'analysts', 'polled', 'thomson', 'first', 'call', 'called', 'profit', 'num', 'per', 'share']","['analysts', 'polled', 'reuters', 'research', 'unit', 'reuters', 'group', 'plc', 'average', 'forecast', 'profit', 'num', 'per', 'share']",2.5
+"['initial', 'autopsy', 'reports', 'show', 'died', 'dehydration', 'hyperthermia', 'suffocation']","['two', 'died', 'later', 'initial', 'autopsy', 'reports', 'show', 'succumbed', 'dehydration', 'hypothermia', 'suffocation']",3.25
+"['authorities', 'appealed', 'public', 'friday', 'come', 'forward', 'provide', 'could', 'key', 'solving', 'sniperstyle', 'shootings', 'killed', 'three', 'people', 'outside', 'area', 'convenience', 'stores']","['authorities', 'looked', 'public', 'yesterday', 'help', 'solving', 'deadly', 'sniperstyle', 'shootings', 'three', 'people', 'outside', 'charlestonarea', 'convenience', 'stores']",3.8
+"['second', 'comes', 'hp', 'num', 'percent', 'num', 'billion', 'num', 'percent']","['hp', 'fell', 'second', 'place', 'server', 'sales', 'growing', 'num', 'percent', 'num', 'billion']",4.4
+"['us', 'forces', 'recently', 'apprehended', 'num', 'suspected', 'foreign', 'militants', 'near', 'syrian', 'border', 'interrogating']","['third', 'armored', 'cavalry', 'regiment', 'recently', 'apprehended', 'num', 'suspected', 'fighters', 'near', 'syrian', 'border', 'officials', 'said']",3.5
+"['compares', 'profit', 'num', 'million', 'breakeven', 'num', 'billion', 'revenue', 'period', 'last', 'year']","['total', 'revenue', 'second', 'quarter', 'num', 'billion', 'num', 'num', 'billion', 'period', 'last', 'year']",1.5
+"['bolivias', 'army', 'fought', 'stop', 'columns', 'protesters', 'streaming', 'foodstarved', 'capital', 'wednesday', 'popular', 'uprising', 'president', 'spread']","['bolivias', 'army', 'fought', 'stop', 'column', 'dynamitewielding', 'miners', 'streaming', 'besieged', 'capital', 'wednesday', 'leaving', 'two', 'dead', 'popular', 'uprising', 'president', 'spread']",2.8
+"['anum', 'comes', 'printer', 'scanner', 'copier', 'num']","['dells', 'personal', 'allinone', 'anum', 'entrylevel', 'device', 'combines', 'printer', 'scanner', 'copier', 'functions', 'num']",3.6
+"['first', 'num', 'seconds', 'young', 'entered', 'ring', 'family', 'knew', 'uneven', 'match', 'meyers', 'said']","['first', 'num', 'seconds', 'bout', 'family', 'members', 'knew', 'uneven', 'match', 'jodie', 'meyers', 'stacy', 'youngs', 'sister', 'said']",4.2
+"['singapore', 'reported', 'suspected', 'sars', 'cases', 'wednesday', 'officials', 'quarantined', 'num', 'people', 'contact', 'taiwanese', 'patient']","['still', 'singapore', 'quarantined', 'num', 'people', 'close', 'contact', 'scientist']",3.0
+"['downstream', 'mount', 'vernon', 'skagit', 'river', 'expected', 'crest', 'num', 'feet', 'num', 'feet', 'flood', 'stage', 'tonight', 'burke', 'said']","['skagit', 'expected', 'crest', 'night', 'num', 'feet', 'mount', 'vernon', 'num', 'feet', 'flood', 'stage', 'national', 'weather', 'service', 'said']",3.0
+"['monday', 'dow', 'declined', 'num', 'num', 'percent', 'num', 'shed', 'num', 'percent', 'last', 'week']","['early', 'trading', 'dow', 'jones', 'industrial', 'average', 'num', 'num', 'percent', 'num', 'slipped', 'num', 'points', 'monday']",1.6
+"['injured', 'taken', 'hospitals', 'jefferson', 'city', 'columbia', 'college', 'town', 'num', 'miles', 'north']","['injured', 'taken', 'hospitals', 'jefferson', 'city', 'columbia', 'numkm', 'north', 'conditions', 'immediately', 'available']",4.0
+"['dollar', 'num', 'yen', 'japanese', 'currency', 'num', 'percent']","['swiss', 'franc', 'dollar', 'num', 'francs', 'num', 'percent', 'day']",1.333
+"['addition', 'oconnor', 'rehnquists', 'majority', 'opinion', 'joined', 'justices', 'david', 'souter', 'ruth', 'bader', 'ginsburg', 'stephen', 'breyer']","['joining', 'majority', 'opinion', 'justices', 'sandra', 'day', 'oconnor', 'david', 'h', 'souter', 'ruth', 'bader', 'ginsburg', 'stephen', 'g', 'breyer']",3.6
+"['martin', 'num', 'freed', 'today', 'serving', 'two', 'thirds', 'fiveyear', 'sentence', 'manslaughter', 'numyearold', 'fred', 'barras']","['martin', 'served', 'two', 'thirds', 'fiveyear', 'sentence', 'manslaughter', 'barras', 'wounding', 'fearon']",3.0
+"['idec', 'shareholders', 'would', 'num', 'percent', 'stock', 'combined', 'company', 'biogen', 'shareholders', 'remaining', 'num', 'percent']","['companies', 'said', 'idec', 'holders', 'would', 'num', 'percent', 'stock', 'combined', 'company']",3.0
+"['nonetheless', 'opensource', 'guru', 'insisted', 'attack', 'wrong', 'dangerous', 'goals']","['attack', 'wrong', 'dangerous', 'goals', 'raymond', 'said']",3.5
+"['frank', 'quattrone', 'former', 'credit', 'suisse', 'first', 'boston', 'technology', 'investmentbanking', 'guru', 'reportedly', 'pleaded', 'guilty', 'tuesday', 'charges', 'obstruction', 'justice', 'witness', 'tampering']","['new', 'york', 'dow', 'jones', 'former', 'star', 'investment', 'banker', 'frank', 'quattrone', 'pleaded', 'guilty', 'tuesday', 'criminal', 'charges', 'obstruction', 'justice', 'witness', 'tampering']",4.0
+"['bluechip', 'dow', 'jones', 'industrial', 'average', 'dji', 'fell', 'num', 'points', 'num', 'percent', 'num', 'giving', 'num', 'percent', 'earlier']","['dow', 'jones', 'industrial', 'average', 'dji', 'fell', 'num', 'points', 'num', 'percent', 'num', 'friday']",2.2
+"['dow', 'jones', 'industrial', 'average', 'ended', 'day', 'num', 'num', 'advancing', 'num', 'wednesday']","['dow', 'jones', 'industrial', 'average', 'fell', 'num', 'points', 'num', 'percent', 'num']",3.4
+"['perry', 'since', 'called', 'two', 'special', 'legislative', 'sessions', 'try', 'force', 'redistricting', 'plan']","['since', 'texas', 'gov', 'rick', 'perry', 'called', 'two', 'special', 'sessions', 'trying', 'push', 'measure']",3.5
+"['agency', 'consider', 'timely', 'tax', 'returns', 'payments', 'due', 'aug', 'num', 'submitted', 'aug', 'num']","['agency', 'said', 'would', 'consider', 'timely', 'tax', 'returns', 'payments', 'due', 'friday', 'aug', 'num', 'completed', 'aug', 'num']",4.25
+"['democrats', 'currently', 'hold', 'num', 'advantage', 'states', 'congressional', 'delegation']","['texas', 'congressional', 'delegation', 'num', 'democratic']",2.6
+"['chaudhry', 'released', 'num', 'days', 'later', 'fiji', 'military', 'installed', 'allindigenous', 'government', 'led', 'qarase', 'democratic', 'elections', 'september', 'num']","['fijian', 'military', 'installed', 'allindigenous', 'government', 'led', 'mr', 'qarase', 'democratic', 'elections', 'september', 'num']",3.0
+"['new', 'legit', 'download', 'service', 'launches', 'pc', 'users', 'mind']","['buymusic', 'first', 'subscriptionfree', 'paid', 'download', 'music', 'service', 'pc', 'users']",2.4
+"['numyear', 'bond', 'usnumytrr', 'rose', 'num', 'yield', 'num', 'percent', 'versus', 'num', 'percent', 'wednesdays', 'close']","['numyear', 'bond', 'usnumytrr', 'grew', 'num', 'yield', 'num', 'percent', 'num', 'percent', 'late', 'wednesday']",3.8
+"['last', 'week', 'lawyers', 'asked', 'gov', 'mark', 'r', 'warner', 'grant', 'clemency', 'governor', 'declined', 'intervene']","['last', 'week', 'lawyers', 'asked', 'warner', 'grant', 'clemency', 'certain', 'conditions', 'would', 'lead', 'new', 'sentencing', 'hearing']",3.0
+"['gov', 'linda', 'lingle', 'members', 'staff', 'navy', 'base', 'watched', 'launch']","['gov', 'linda', 'lingle', 'dignitaries', 'scheduled', 'base', 'watch', 'launch']",3.5
+"['best', 'investigators', 'nitpick', 'process', 'substance', 'isolated', 'business', 'decisions', 'question', 'competence', 'manager']","['ebbers', 'lawyer', 'reid', 'weingarten', 'said', 'despite', 'thorough', 'investigation', 'best', 'investigators', 'nitpick', 'process', 'substance', 'isolated', 'business', 'decisions']",3.5
+"['justice', 'department', 'filed', 'suit', 'thursday', 'state', 'mississippi', 'failing', 'end', 'federal', 'officials', 'call', 'disturbing', 'abuse', 'juveniles', 'unconscionable', 'conditions', 'two', 'staterun', 'facilities']","['justice', 'department', 'filed', 'civil', 'rights', 'lawsuit', 'thursday', 'state', 'mississippi', 'alleging', 'abuse', 'juvenile', 'offenders', 'two', 'staterun', 'facilities']",3.75
+"['chelsea', 'defender', 'marcel', 'desailly', 'latest', 'speak']","['marcel', 'desailly', 'france', 'captain', 'chelsea', 'defender', 'believes', 'latter', 'true']",2.25
+"['woman', 'unit', 'member', 'teamsters', 'local', 'num']","['woman', 'employed', 'warehouse', 'worker', 'heavy', 'equipment', 'operator', 'woman', 'teamsters', 'local']",3.25
+"['special', 'police', 'detained', 'khodorkovsky', 'early', 'saturday', 'siberian', 'city', 'novosibirsk', 'plane', 'made', 'refuelling', 'stop']","['police', 'detained', 'khodorkovsky', 'early', 'saturday', 'jet', 'made', 'refueling', 'stop', 'siberian', 'city', 'novosibirsk']",4.8
+"['sony', 'ericsson', 'also', 'said', 'would', 'shut', 'gsmumts', 'rd', 'center', 'munich', 'germany', 'increase', 'profitability']","['sony', 'ericsson', 'also', 'said', 'plans', 'close', 'rd', 'site', 'munich', 'germany', 'gsm', 'umts', 'handsets']",3.8
+"['country', 'scrambling', 'prevent', 'spreading', 'vast', 'countryside', 'num', 'billion', 'people', 'live']","['china', 'scrambling', 'stop', 'disease', 'spreading', 'countryside', 'num', 'billion', 'people', 'live']",3.4
+"['kansas', 'department', 'health', 'environment', 'records', 'show', 'num', 'abortions', 'performed', 'girls', 'age', 'num', 'younger', 'last', 'year']","['statistics', 'kansas', 'department', 'health', 'environment', 'show', 'num', 'abortions', 'performed', 'state', 'last', 'year']",2.0
+"['discovery', 'map', 'bug', 'present', 'vast', 'majority', 'crohns', 'sufferers', 'means', 'almost', 'certainly', 'causing', 'intestinal', 'inflammation', 'said', 'statement']","['researchers', 'say', 'fact', 'map', 'bug', 'present', 'vast', 'majority', 'crohns', 'sufferers', 'means', 'almost', 'certainly', 'causing', 'intestinal', 'inflammation']",4.6
+"['life', 'expectancy', 'boys', 'born', 'num', 'num', 'years', 'two', 'years', 'since', 'num']","['according', 'report', 'average', 'life', 'expectancy', 'increased', 'nearly', 'two', 'years', 'since', 'num']",3.5
+"['full', 'nummonth', 'period', 'highspeed', 'cable', 'modem', 'connections', 'increased', 'num', 'percent']","['full', 'year', 'period', 'ending', 'june', 'num', 'num', 'highspeed', 'lines', 'increased', 'num', 'percent']",3.333
+"['believe', 'report', 'fully', 'consistent', 'courts', 'ruled', 'departments', 'actions', 'fully', 'within', 'law']","['comstock', 'said', 'several', 'federal', 'courts', 'ruled', 'detentions', 'fully', 'within', 'law']",2.667
+"['indeed', 'mr', 'weill', 'selfdescribed', 'workaholic', 'said', 'planned', 'remain', 'involved', 'company']","['still', 'mr', 'weill', 'remain', 'much', 'power', 'company']",3.2
+"['gregory', 'parseghian', 'former', 'investment', 'banker', 'appointed', 'chief', 'executive']","['greg', 'parseghian', 'appointed', 'new', 'chief', 'executive']",3.8
+"['report', 'cites', 'marriage', 'alleged', 'operational', 'commander', 'bali', 'bombings', 'mukhlas', 'farida', 'highly', 'cosmopolitan', 'welleducated', 'young', 'woman']","['report', 'cites', 'marriage', 'alleged', 'operational', 'commander', 'bali', 'bombings', 'mukhlas', 'example', 'ji', 'uses', 'marriage', 'grow']",3.4
+"['cradle', 'liberty', 'council', 'isnt', 'first', 'one', 'buck', 'national', 'groups', 'stance']","['philadelphias', 'council', 'first', 'defy', 'national', 'policy']",3.4
+"['absurd', 'funny', 'cides', 'trainer', 'barclay', 'tagg', 'said']","['meanwhile', 'funny', 'cides', 'trainer', 'barclay', 'tagg', 'called', 'allegations', 'ridiculous']",3.6
+"['last', 'year', 'cuban', 'officials', 'said', 'none', 'nearly', 'two', 'dozen', 'nominated', 'cuban', 'musicians', 'received', 'us', 'visas', 'time', 'attend', 'grammys', 'los', 'angeles']","['cuban', 'officials', 'said', 'last', 'year', 'none', 'two', 'dozen', 'nominated', 'cuban', 'musicians', 'received', 'us', 'visas', 'time', 'attend', 'latin', 'grammys']",3.8
+"['american', 'conservatives', 'clearly', 'minority', 'within', 'episcopal', 'church']","['letter', 'indicates', 'vaticans', 'interest', 'bolstering', 'conservatives', 'within', 'episcopal', 'church']",1.8
+"['new', 'york', 'senators', 'new', 'book', 'living', 'history', 'appears', 'certain', 'bestseller']","['hillary', 'clinton', 'new', 'york', 'senator', 'former', 'first', 'lady', 'book', 'monday', 'titled', 'living', 'history']",3.2
+"['canada', 'small', 'country', 'needs', 'companies', 'like', 'deals', 'like']","['passionate', 'nationalist', 'mr', 'dalessandro', 'said', 'canada', 'small', 'country', 'need', 'companies', 'like']",3.0
+"['police', 'official', 'sk', 'tonapi', 'told', 'reuters', 'least', 'num', 'people', 'killed', 'num', 'wounded']","['state', 'interior', 'ministry', 'spokesman', 'vasant', 'pitke', 'told', 'reuters', 'least', 'num', 'people', 'killed', 'num', 'injured']",1.8
+"['jeremys', 'good', 'guy', 'barber', 'said', 'adding', 'jeremy', 'living', 'dream', 'life', 'new', 'york', 'athlete']","['also', 'said', 'shockey', 'living', 'dream', 'life', 'new', 'york', 'athlete']",2.75
+"['mitsubishi', 'tokyo', 'financial', 'jpnum', 'news', 'chart', 'profile', 'declined', 'num', 'yen', 'num', 'percent', 'num', 'yen']","['sumitomo', 'mitsui', 'financial', 'jpnum', 'news', 'chart', 'profile', 'num', 'percent', 'num', 'yen']",1.6
+"['num', 'genes', 'chromosome', 'num', 'thought', 'functional']","['remaining', 'num', 'genes', 'believed', 'functional']",2.75
+"['second', 'quarter', 'anadarko', 'expects', 'volume', 'num', 'million', 'boe', 'num', 'million', 'boe']","['production', 'second', 'quarter', 'cut', 'num', 'million', 'barrels', 'num', 'million', 'barrels']",3.25
+"['us', 'troops', 'encountered', 'resistance', 'fivehour', 'sweep', 'near', 'tikrit', 'saddam', 'husseins', 'hometown', 'center', 'region', 'baath', 'party', 'supporters']","['tikrit', 'saddam', 'husseins', 'hometown', 'region', 'around', 'known', 'hotbed', 'baath', 'party', 'supporters', 'former', 'highranking', 'iraqi', 'military', 'officials']",2.25
+"['miodrag', 'zivkovic', 'liberal', 'alliance', 'montenegro', 'num', 'percent', 'vote', 'independent', 'dragan', 'hajdukovic', 'got', 'four', 'percent']","['miodrag', 'zivkovic', 'leader', 'proindependence', 'opposition', 'liberal', 'alliance', 'came', 'second', 'num', 'percent', 'vote']",3.0
+"['yearago', 'period', 'pearson', 'posted', 'num', 'million', 'pretax', 'profit']","['year', 'ago', 'firm', 'posted', 'profit', 'num', 'million', 'pounds']",3.182
+"['thursday', 'oracle', 'said', 'num', 'million', 'peoplesoft', 'shares', 'tendered']","['num', 'million', 'shares', 'tendered', 'oracle', 'said', 'statement']",3.75
+"['yucaipa', 'owned', 'dominicks', 'selling', 'chain', 'safeway', 'num', 'num', 'billion']","['yucaipa', 'bought', 'dominicks', 'num', 'num', 'million', 'sold', 'safeway', 'num', 'billion', 'num']",2.6
+"['graves', 'reported', 'albuquerque', 'villafranca', 'austin', 'ratcliffe', 'laredo']","['pete', 'slover', 'reported', 'laredo', 'gromer', 'jeffers', 'albuquerque']",1.25
+"['num', 'percent', 'increase', 'would', 'raise', 'undergraduate', 'tuition', 'num', 'annually', 'including', 'miscellaneous', 'campusbased', 'fees']","['num', 'percent', 'hike', 'takes', 'annual', 'uc', 'undergraduate', 'tuition', 'num', 'graduate', 'fees', 'num']",2.5
+"['authorities', 'said', 'scientist', 'properly', 'quarantined', 'home', 'developed', 'sars', 'symptoms', 'dec', 'num']","['scientist', 'also', 'quarantined', 'home', 'soon', 'developed', 'sars', 'symptoms', 'officials', 'said']",4.2
+"['support', 'come', 'free', 'software', 'upgrade', 'called', 'webvpn', 'current', 'customers', 'support', 'contracts']","['upgrade', 'available', 'free', 'download', 'current', 'customers', 'smarnet', 'support', 'january', 'num']",2.6
+"['hilsenrath', 'klarman', 'indicted', 'three', 'counts', 'securities', 'fraud']","['klarman', 'charged', 'num', 'counts', 'wire', 'fraud']",1.4
+"['new', 'sensor', 'dubbed', 'canary', 'cellular', 'analysis', 'notification', 'antigen', 'risks', 'yields', 'hijacks', 'natural', 'process', 'two', 'important', 'changes']","['team', 'named', 'sensor', 'canary', 'cellular', 'analysis', 'notification', 'antigen', 'risks', 'yields']",3.6
+"['one', 'fort', 'carsonbased', 'sgt', 'ernest', 'bucklew', 'num', 'way', 'home', 'attend', 'mothers', 'funeral', 'pennsylvania']","['sgt', 'ernest', 'bucklew', 'num', 'coming', 'home', 'iraq', 'bury', 'mother', 'pennsylvania']",3.0
+"['waksal', 'pleaded', 'guilty', 'securities', 'fraud', 'sentenced', 'next', 'week']","['waksal', 'pleaded', 'guilty', 'insider', 'trading', 'charges', 'last', 'year', 'scheduled', 'sentenced', 'june', 'num']",3.5
+"['device', 'plays', 'internet', 'radio', 'streams', 'comes', 'numday', 'trial', 'realnetworks', 'rhapsody', 'music', 'service']","['product', 'also', 'streams', 'internet', 'radio', 'comes', 'numday', 'free', 'trial', 'realnetworks', 'rhapsody', 'digital', 'music', 'subscription', 'service']",5.0
+"['dollar', 'fell', 'low', 'num', 'per', 'euro', 'num', 'friday', 'traded', 'num', 'num', 'london']","['dollar', 'dropped', 'num', 'per', 'euro', 'num', 'london', 'num', 'friday']",3.0
+"['hearing', 'morales', 'expressed', 'sincere', 'regrets', 'remorse', 'actions']","['morales', 'pleaded', 'guilty', 'july', 'expressed', 'sincere', 'regret', 'remorse', 'crimes']",3.8
+"['site', 'finder', 'visited', 'num', 'million', 'times', 'since', 'introduction', 'galvin', 'said']","['sunday', 'sept', 'num', 'site', 'finder', 'visited', 'num', 'million', 'times', 'internet', 'users']",3.8
+"['according', 'sunncomms', 'peter', 'jacobs', 'mediamax', 'performs', 'exactly', 'advertised', 'companies', 'purchased']","['mediamax', 'performs', 'exactly', 'advertised', 'companies', 'purchased', 'jacobs', 'said', 'statement']",4.222
+"['tracked', 'atlanta', 'arrested', 'tuesday', 'night']","['arrested', 'atlanta', 'georgia', 'monday', 'night', 'police', 'acting', 'tipoff']",2.5
+"['bush', 'administration', 'blames', 'hussein', 'loyalists', 'foreign', 'muslim', 'militants', 'entered', 'iraq', 'fight', 'us', 'troops', 'wave', 'bombings', 'guerrilla', 'attacks']","['bush', 'administration', 'blames', 'wave', 'bombings', 'guerrilla', 'attacks', 'saddam', 'loyalists', 'foreign', 'muslim', 'militants', 'entered', 'iraq', 'fight', 'us', 'troops']",5.0
+"['later', 'emerged', 'broken', 'right', 'thigh', 'bones', 'right', 'wrist', 'elbow']","['tour', 'doctors', 'later', 'confirmed', 'broken', 'right', 'leg', 'near', 'hip', 'also', 'sustained', 'wrist', 'elbow', 'fractures']",4.0
+"['senate', 'agreed', 'tuesday', 'lift', 'numyearold', 'ban', 'research', 'development', 'lowyield', 'nuclear', 'weapons']","['house', 'senate', 'bills', 'would', 'end', 'ban', 'research', 'development', 'lowyield', 'nuclear', 'weapons']",3.6
+"['num', 'million', 'americans', 'half', 'households', 'invest', 'mutual', 'funds']","['half', 'us', 'households', 'money', 'mutual', 'funds']",4.2
+"['house', 'passed', 'prescriptiondrug', 'legislation', 'last', 'two', 'sessions', 'senate', 'failed']","['house', 'passed', 'bills', 'past', 'two', 'congresses', 'senate']",3.4
+"['elderly', 'weakened', 'immune', 'systems', 'also', 'urged', 'protect', 'mosquito', 'bites']","['elderly', 'weakened', 'immune', 'systems', 'fatal']",2.6
+"['ms', 'laffertys', 'lawyer', 'thomas', 'ezzell', 'told', 'kentucky', 'newspaper', 'understanding', 'lower', 'percentage', 'successful', 'impregnations', 'frozen']","['understanding', 'lower', 'percentage', 'successful', 'impregnations', 'frozen', 'ezzell', 'said']",3.6
+"['klarman', 'arrested', 'fbi', 'agents', 'hamptons', 'exclusive', 'summer', 'resort', 'enclave', 'east', 'new', 'york', 'city']","['klarman', 'arrested', 'fbi', 'agents', 'monday', 'morning', 'home', 'new', 'york']",4.0
+"['bishop', 'told', 'police', 'thought', 'hit', 'dog', 'cat', 'someone', 'thrown', 'rock', 'vehicle']","['bishop', 'obrien', 'aged', 'num', 'told', 'police', 'thought', 'hit', 'dog', 'cat']",3.5
+"['promotional', 'poster', 'complete', 'countdown', 'dial', 'reminds', 'readers', 'upcoming', 'release', 'harry', 'potter', 'order', 'phoenix']","['crates', 'full', 'hardback', 'copies', 'harry', 'potter', 'order', 'phoenix']",1.5
+"['testing', 'still', 'way', 'stage', 'given', 'early', 'detection', 'outlook', 'instances', 'would', 'positive', 'specialist', 'said', 'yesterday']","['stage', 'given', 'early', 'detection', 'outlook', 'instances', 'would', 'positive', 'said']",3.5
+"['morning', 'trading', 'dow', 'jones', 'industrial', 'average', 'num', 'num', 'percent', 'num', 'fallen', 'num', 'points', 'monday']","['new', 'york', 'dow', 'jones', 'industrial', 'average', 'gauge', 'num', 'blue', 'chip', 'stocks', 'num', 'points', 'num', 'per', 'cent', 'num']",1.75
+"['rich', 'media', 'doubled', 'share', 'increasing', 'num', 'qnum', 'num', 'num', 'qnum', 'num']","['rich', 'media', 'interactive', 'ad', 'formats', 'doubled', 'share', 'num', 'second', 'quarter', 'num', 'num', 'second', 'quarter', 'num']",3.75
+"['take', 'time', 'oust', 'diehard', 'remnants', 'saddam', 'husseins', 'deposed', 'regime', 'iraq', 'defense', 'secretary', 'donald', 'h', 'rumsfeld', 'said', 'tuesday']","['defense', 'secretary', 'donald', 'h', 'rumsfeld', 'said', 'tuesday', 'take', 'time', 'locate', 'diehard', 'remnants', 'saddam', 'husseins', 'deposed', 'regime', 'iraq']",4.8
+"['sayliyah', 'command', 'base', 'iraq', 'war', 'central', 'command', 'sent', 'hundreds', 'ran', 'war', 'back', 'home', 'tampa', 'florida']","['sayliyah', 'command', 'base', 'iraq', 'war', 'hundreds', 'ran', 'war', 'returned', 'united', 'states']",3.4
+"['sco', 'says', 'pricing', 'terms', 'license', 'announced', 'weeks']","['details', 'pricing', 'announced', 'within', 'weeks', 'mcbride', 'said']",2.6
+"['sources', 'within', 'racing', 'industry', 'told', 'daily', 'bulletin', 'fontana', 'get', 'second', 'nascar', 'race', 'labor', 'day', 'weekend', 'starting', 'next', 'season']","['sources', 'racing', 'industry', 'said', 'fontana', 'get', 'second', 'nascar', 'race', 'labor', 'day', 'weekend', 'starting', 'next', 'season']",4.4
+"['dow', 'jones', 'industrial', 'average', 'dji', 'ended', 'num', 'points', 'num', 'percent', 'num', 'highest', 'level', 'since', 'january', 'num']","['dow', 'jones', 'industrial', 'average', 'dj', 'news', 'chart', 'profile', 'rose', 'num', 'points', 'num', 'percent', 'num']",3.6
+"['dennehy', 'transferred', 'baylor', 'last', 'year', 'getting', 'kicked', 'university', 'new', 'mexico', 'lobos', 'temper', 'tantrums', 'begun', 'read', 'bible', 'daily']","['dennehy', 'transferred', 'baylor', 'last', 'year', 'getting', 'kicked', 'university', 'new', 'mexico', 'lobos', 'temper', 'tantrums', 'became', 'bornagain', 'christian', 'june', 'num']",3.6
+"['bashir', 'felt', 'tried', 'opinion', 'facts', 'mahendradatta', 'told', 'reuters']","['bashir', 'also', 'felt', 'tried', 'opinion', 'rather', 'facts', 'law', 'added']",4.0
+"['schofield', 'got', 'toepfer', 'admit', 'crossexamination', 'ignored', 'many', 'odonnells', 'suggestions', 'projects']","['crossexamination', 'odonnells', 'attorney', 'lorna', 'schofield', 'toepfer', 'conceded', 'ignored', 'many', 'odonnells', 'suggestions', 'projects']",4.5
+"['case', 'court', 'held', 'cincinnati', 'violated', 'first', 'amendment', 'banning', 'advertising', 'pamphlets', 'interest', 'aesthetics']","['case', 'court', 'held', 'city', 'cincinnati', 'violated', 'first', 'amendment', 'banning', 'interest', 'aesthetics', 'advertising', 'pamphlets']",5.0
+"['box', 'cutters', 'used', 'weapon', 'sept', 'num', 'num', 'hijackers', 'since', 'banned', 'carryon', 'items']","['box', 'cutters', 'weapons', 'used', 'num', 'hijackers', 'sept', 'num', 'num', 'attacks']",3.4
+"['july', 'num', 'moore', 'announced', 'would', 'appeal', 'case', 'directly', 'us', 'supreme', 'court']","['moore', 'alabama', 'says', 'appeal', 'case', 'nations', 'highest', 'court']",3.75
+"['southwest', 'said', 'traffic', 'num', 'percent', 'quarter', 'ended', 'quarter', 'num', 'billion', 'cash']","['southwest', 'said', 'traffic', 'num', 'percent', 'quarter', 'capacity', 'increase', 'num', 'percent']",3.176
+"['four', 'versions', 'windows', 'operating', 'systems', 'targeted', 'windows', 'nt', 'windows', 'num', 'windows', 'xp', 'windows', 'server', 'num']","['new', 'worm', 'affects', 'windows', 'systems', 'num', 'xp', 'nt', 'num', 'server', 'num']",3.6
+"['shares', 'mcdonalds', 'corp', 'wendys', 'international', 'inc', 'continued', 'modest', 'runup', 'new', 'york', 'stock', 'exchange', 'monday']","['shares', 'mcdonalds', 'wendys', 'continued', 'recent', 'recovery', 'monday', 'rising', 'num', 'percent', 'new', 'york', 'stock', 'exchange', 'afternoon', 'trade']",3.2
+"['playfully', 'chided', 'senates', 'little', 'bitty', 'tax', 'relief', 'plan']","['dont', 'need', 'little', 'bitty', 'tax', 'relief', 'plan']",3.5
+"['looking', 'buy', 'latest', 'harry', 'potter']","['harry', 'potters', 'latest', 'wizard', 'trick']",1.9
+"['mediaqs', 'customers', 'include', 'major', 'handheld', 'makers', 'mitsubishi', 'siemens', 'palm', 'sharp', 'philips', 'dell', 'sony']","['nvidia', 'take', 'advantage', 'mediaq', 'customers', 'include', 'players', 'siemens', 'ag', 'sharp', 'philips', 'dell', 'mitsubishi', 'sony', 'corp']",3.0
+"['aventis', 'based', 'strasbourg', 'france', 'one', 'handful', 'companies', 'still', 'make', 'flu', 'vaccine']","['aventis', 'based', 'strasbourg', 'france', 'one', 'leading', 'producers', 'vaccine', 'one', 'handful', 'companies', 'still', 'make']",3.6
+"['michael', 'bloomberg', 'nyc', 'mayor', 'im', 'gonna', 'try', 'march', 'number', 'different', 'groups']","['im', 'going', 'try', 'march', 'number', 'different', 'groups', 'bloomberg', 'said']",3.75
+"['attack', 'seemed', 'similar', 'others', 'staged', 'near', 'foreign', 'compounds', 'riyadh', 'may', 'num']","['attack', 'seemed', 'similar', 'attacks', 'staged', 'near', 'foreign', 'compounds', 'riyadh', 'may', 'num', 'officials', 'also', 'blamed', 'alqaida']",3.6
+"['put', 'lot', 'effort', 'energy', 'improving', 'patching', 'process', 'probably', 'later', 'gaining', 'incredible', 'speed']","['weve', 'put', 'lot', 'effort', 'energy', 'improving', 'patching', 'progress', 'probably', 'later']",3.75
+"['boy', 'also', 'sprayed', 'room', 'full', 'retardant', 'fire', 'extinguishers', 'made', 'hard', 'see', 'chief', 'said']","['boy', 'fired', 'wall', 'sprayed', 'room', 'fire', 'extinguishers', 'making', 'hard', 'see', 'chief', 'said']",3.333
+"['hrt', 'used', 'prevent', 'heart', 'disease', 'chronic', 'condition']","['clear', 'message', 'used', 'prevent', 'cardiovascular', 'disease', 'manson', 'said']",2.6
+"['meat', 'poultry', 'butter', 'cheese', 'nuts', 'impounded', 'year', 'ago', 'lagrou', 'cold', 'storage', 'warehouse', 'chicago']","['meat', 'poultry', 'butter', 'cheese', 'nuts', 'stored', 'num', 'wholesalers', 'chicago']",1.8
+"['bluecorenummultimedia', 'includes', 'numbit', 'stereo', 'audio', 'codec', 'dual', 'adc', 'dac', 'stereo', 'audio']","['bluecorenummultimedia', 'contains', 'open', 'platform', 'dsp', 'coprocessor', 'also', 'includes', 'numbit', 'stereo', 'audio', 'codec', 'dual', 'adc', 'dac', 'stereo', 'audio']",3.6
+"['agencys', 'last', 'three', 'shuttles', 'grounded', 'wake', 'columbia', 'disaster', 'wait', 'could', 'even', 'longer']","['remaining', 'three', 'shuttles', 'grounded', 'wake', 'columbia', 'accident', 'rookies', 'wait', 'even', 'longer']",4.4
+"['bremer', 'num', 'onetime', 'assistant', 'former', 'secretaries', 'state', 'william', 'p', 'rogers', 'henry', 'kissinger', 'ambassadoratlarge', 'counterterrorism', 'num', 'num']","['bremer', 'num', 'former', 'assistant', 'former', 'secretaries', 'state', 'william', 'p', 'rogers', 'henry', 'kissinger']",3.0
+"['conversations', 'taken', 'place', 'tuesday', 'night', 'according', 'oracle', 'spokeswoman']","['talks', 'taken', 'place', 'according', 'oracle', 'spokeswoman']",4.0
+"['taiwan', 'attempted', 'gain', 'observer', 'status', 'united', 'nationsaffiliated', 'seven', 'years', 'rebuffed', 'march', 'num', 'annual', 'conference', 'geneva']","['sought', 'observer', 'status', 'seven', 'years', 'rebuffed', 'may', 'num', 'annual', 'conference', 'geneva']",3.25
+"['washington', 'county', 'man', 'may', 'countys', 'first', 'human', 'case', 'west', 'nile', 'virus', 'health', 'department', 'said', 'friday']","['countys', 'first', 'human', 'case', 'west', 'nile', 'year', 'confirmed', 'health', 'officials', 'sept', 'num']",3.0
+"['national', 'breast', 'cancer', 'centre', 'chief', 'executive', 'professor', 'christine', 'ewan', 'said', 'early', 'quantify', 'risk', 'women']","['national', 'breast', 'cancer', 'centre', 'head', 'professor', 'christine', 'ewan', 'said', 'need', 'panic']",2.6
+"['brendsel', 'chief', 'financial', 'officer', 'vaughn', 'clarke', 'resigned', 'june', 'num']","['companys', 'chief', 'executive', 'retired', 'chief', 'financial', 'officer', 'resigned']",2.6
+"['health', 'care', 'ndp', 'says', 'privatization', 'healthcare', 'premiums']","['new', 'democrats', 'also', 'renewed', 'commitment', 'healthcare', 'privatization', 'premiums']",4.6
+"['new', 'companies', 'begin', 'trading', 'nasdaq', 'today', 'ticker', 'symbols', 'plmo', 'psrc']","['also', 'part', 'deal', 'palmsource', 'stock', 'begin', 'trading', 'nasdaq', 'stock', 'market', 'wednesday', 'ticker', 'symbol', 'psrc']",2.75
+"['kids', 'adults', 'booksellers', 'postal', 'workers', 'preparing', 'harry', 'potter', 'order', 'phoenix']","['crates', 'full', 'hardback', 'copies', 'harry', 'potter', 'order', 'phoenix']",2.2
+"['government', 'identify', 'taikonauts', 'term', 'coined', 'taikong', 'chinese', 'word', 'space', 'would', 'travel', 'second', 'mission']","['government', 'identify', 'taikonauts', 'term', 'coined', 'taikong', 'chinese', 'word', 'space']",3.333
+"['think', 'made', 'right', 'case', 'right', 'thing']","['mr', 'blair', 'went', 'think', 'right', 'thing', 'relation', 'iraq']",2.769
+"['kollarkotelly', 'scheduled', 'another', 'antitrust', 'settlement', 'compliance', 'hearing', 'january']","['judge', 'scheduled', 'another', 'oversight', 'hearing', 'late', 'january']",2.8
+"['tomorrow', 'mission', 'inn', 'opportunity', 'congratulate', 'governorelect', 'great', 'state', 'california']","['opportunity', 'congratulate', 'governorelect', 'great', 'state', 'california', 'im', 'looking', 'forward']",4.0
+"['expect', 'japan', 'keep', 'conducting', 'intervention', 'volume', 'likely', 'fall', 'sharply', 'said', 'junya', 'tanase', 'forex', 'strategist', 'jp', 'morgan', 'chase']","['junya', 'tanase', 'forex', 'strategist', 'jp', 'morgan', 'chase', 'said', 'expect', 'japan', 'keep', 'conducting', 'intervention', 'volume', 'likely', 'fall', 'sharply']",4.733
+"['sunshine', 'group', 'ltd', 'represented', 'developers', 'related', 'companies', 'apollo', 'real', 'estate', 'advisors', 'lp', 'deal']","['developers', 'related', 'cos', 'apollo', 'real', 'estate', 'advisors', 'hope', 'sales', 'top', 'num', 'billion']",1.6
+"['third', 'owe', 'world', 'told', 'reporters']","['aint', 'coming', 'third', 'owe', 'world']",3.75
+"['techlaced', 'nasdaq', 'composite', 'index', 'gained', 'num', 'points', 'num', 'percent', 'num']","['num', 'pm', 'edt', 'canadas', 'benchmark', 'sptsx', 'composite', 'index', 'num', 'points', 'num', 'per', 'cent', 'num']",0.5
+"['benchmark', 'numyear', 'treasury', 'note', 'yield', 'usnumytrr', 'dipped', 'num', 'percent', 'tuesday']","['prices', 'treasury', 'securities', 'also', 'rose', 'yield', 'benchmark', 'numyear', 'note', 'falling', 'num', 'percent']",3.25
+"['edie', 'falco', 'critically', 'praised', 'costar', 'frankie', 'johnny']","['edie', 'falco', 'nominated', 'frankie', 'johnny']",2.4
+"['saddam', 'gone', 'want', 'us', 'occupation', 'end', 'said', 'hit', 'resident', 'abu', 'qasim']","['saddam', 'gone', 'want', 'us', 'occupation', 'end']",3.2
+"['joe', 'kernan', 'lieutenant', 'governor', 'past', 'seven', 'years', 'sworn', 'governor', 'obannon', 'died', 'saturday']","['kernan', 'obannons', 'lieutenant', 'governor', 'friend', 'political', 'partner', 'sworn', 'six', 'hours', 'obannon', 'died', 'saturday']",3.75
+"['advanced', 'micro', 'devices', 'said', 'fujitsu', 'siemens', 'computers', 'offering', 'highend', 'workstation', 'based', 'amds', 'opteron', 'num', 'series']","['fujitsu', 'siemens', 'computers', 'tuesday', 'made', 'good', 'promise', 'offer', 'workstation', 'based', 'advanced', 'micro', 'devices', 'opteron', 'processor']",3.25
+"['kodak', 'expects', 'earnings', 'num', 'cents', 'num', 'cents', 'share', 'quarter']","['analysts', 'surveyed', 'thomson', 'first', 'call', 'expected', 'kodak', 'earn', 'num', 'cents', 'share', 'quarter']",2.4
+"['shares', 'corixa', 'fell', 'num', 'cents', 'num', 'nasdaq', 'stock', 'market']","['corixas', 'stock', 'barely', 'flinched', 'news', 'dipping', 'num', 'cents', 'close', 'num']",4.5
+"['referring', 'john', 'reed', 'former', 'citicorp', 'chief', 'executive', 'became', 'interim', 'chairman', 'chief', 'executive', 'exchange', 'last', 'sunday']","['next', 'week', 'john', 'reed', 'former', 'citicorp', 'chief', 'executive', 'sunday', 'became', 'interim', 'chairman', 'chief', 'executive', 'exchange', 'take', 'position']",4.0
+"['refused', 'reveal', 'percentage', 'flights', 'carried', 'sky', 'marshals', 'whether', 'would', 'increased']","['refused', 'say', 'percentage', 'domestic', 'flights', 'security', 'officers', 'board']",3.8
+"['nasdaq', 'composite', 'index', 'rose', 'num', 'num', 'percent', 'num', 'highest', 'since', 'june', 'num']","['sp', 'num', 'climbed', 'num', 'percent', 'since', 'march', 'low', 'yesterday', 'closed', 'highest', 'since', 'dec', 'num']",0.8
+"['said', 'concluded', 'film', 'failed', 'present', 'balanced', 'portrayal', 'reagans']","['cbs', 'said', 'show', 'present', 'balanced', 'portrayal', 'reagans', 'cbs', 'audience']",3.0
+"['state', 'health', 'officials', 'said', 'today', 'young', 'northeast', 'kansas', 'woman', 'likely', 'states', 'first', 'case', 'monkeypox', 'among', 'humans', 'animals']","['health', 'officials', 'confirmed', 'today', 'northeast', 'kansas', 'woman', 'states', 'first', 'case', 'monkeypox', 'first', 'case', 'west', 'mississippi', 'river']",3.5
+"['navistar', 'shares', 'num', 'cents', 'num', 'percent', 'num', 'new', 'york', 'stock', 'exchange', 'falling', 'low', 'num']","['navistar', 'shares', 'rose', 'penny', 'num', 'late', 'afternoon', 'new', 'york', 'stock', 'exchange', 'earlier', 'falling', 'low', 'num']",2.0
+"['intel', 'corps', 'num', 'percent', 'yield', 'lower']","['intel', 'corp', 'lower', 'dividend', 'yield']",2.8
+"['mgm', 'nbc', 'liberty', 'executives', 'immediately', 'available', 'comment']","['microsoft', 'spokesman', 'immediately', 'available', 'comment']",2.0
+"['new', 'analysis', 'found', 'num', 'num', 'participants', 'developed', 'ovarian', 'cancer', 'num', 'years', 'followup']","['new', 'analysis', 'found', 'num', 'num', 'participants', 'developed', 'ovarian', 'cancer', 'num', 'num', 'years', 'followup', 'including', 'num', 'women', 'taking', 'hormones']",3.0
+"['veteran', 'stage', 'screen', 'actor', 'hume', 'cronyn', 'died', 'cancer', 'sunday']","['character', 'actor', 'hume', 'cronyn', 'num', 'died', 'sunday', 'home', 'connecticut']",3.5
+"['deirdre', 'hisler', 'government', 'canyons', 'manager', 'said', 'state', 'long', 'eye', 'piece', 'property', 'eager', 'complete', 'deal', 'obtain']","['deirdre', 'hisler', 'government', 'canyons', 'manager', 'said', 'state', 'long', 'coveted', 'piece', 'property', 'eager', 'complete', 'deal']",5.0
+"['reuters', 'witnesses', 'said', 'many', 'houses', 'flattened', 'city', 'squares', 'packed', 'crying', 'children', 'homeless', 'huddled', 'blankets', 'protect', 'cold']","['reuters', 'witnesses', 'said', 'public', 'squares', 'packed', 'crying', 'children', 'people', 'left', 'homeless', 'huddled', 'blankets', 'protect', 'cold']",3.25
+"['three', 'grocery', 'chains', 'relying', 'store', 'managers', 'replacement', 'workers', 'keep', 'stores', 'open']","['supermarket', 'chains', 'used', 'managers', 'replacement', 'workers', 'keep', 'stores', 'open', 'often', 'reduced', 'hours']",3.4
+"['security', 'officials', 'backup', 'couldnt', 'fill', 'active', 'military', 'duty', 'strutt', 'said']","['security', 'officials', 'backup', 'active', 'duty', 'lottery', 'association', 'didnt', 'replacement', 'new', 'jersey', 'strutt', 'said']",3.4
+"['researchers', 'found', 'fossils', 'semidesert', 'area', 'venezuela', 'num', 'miles', 'west', 'caracas']","['phoberomys', 'skeleton', 'unearthed', 'num', 'miles', 'west', 'caracas', 'venezuela']",3.75
+"['mr', 'mcdonnell', 'leading', 'grant', 'thornton', 'internationals', 'inquiry', 'italian', 'business']","['mr', 'mcdonnell', 'wants', 'establish', 'italian', 'business', 'followed', 'grant', 'thorntons', 'audit', 'procedures']",2.75
+"['industrys', 'largest', 'association', 'urging', 'members', 'call', 'num', 'million', 'home', 'cellular', 'numbers', 'list']","['meantime', 'direct', 'marketing', 'association', 'said', 'members', 'call', 'nearly', 'num', 'million', 'numbers', 'list']",3.2
+"['workers', 'accuse', 'general', 'dynamics', 'reverse', 'age', 'discrimination', 'change', 'retirement', 'benefits', 'num']","['general', 'dynamics', 'sued', 'changed', 'retirement', 'benefits', 'num']",2.6
+"['techlaced', 'nasdaq', 'composite', 'index', 'ixic', 'eased', 'num', 'points', 'num', 'percent', 'num', 'breaking', 'sixday', 'string', 'gains']","['techheavy', 'nasdaq', 'composite', 'index', 'ixic', 'num', 'percent', 'num', 'points', 'num']",1.6
+"['space', 'infrared', 'telescope', 'facilitys', 'mission', 'search', 'beginnings', 'universe']","['nasa', 'scheduled', 'launch', 'space', 'infrared', 'telescope', 'facility', 'monday', 'morning']",2.5
+"['respected', 'medical', 'journal', 'lancet', 'called', 'complete', 'ban', 'tobacco', 'united', 'kingdom']","['leading', 'uk', 'medical', 'journal', 'called', 'friday', 'complete', 'ban', 'tobacco', 'prompting', 'outrage', 'smokers', 'groups']",3.4
+"['driver', 'truck', 'escaped', 'sought', 'police', 'supoyo', 'said']","['police', 'say', 'driver', 'truck', 'found', 'wanted', 'questioning']",4.0
+"['many', 'different', 'ways', 'artistry', 'black', 'musicians', 'conveyed', 'experience', 'black', 'americans', 'throughout', 'history', 'bush', 'said']","['surrounded', 'singers', 'harlem', 'bush', 'said', 'artistry', 'black', 'musicians', 'conveyed', 'experience', 'black', 'americans', 'throughout', 'history']",4.25
+"['geraldine', 'andrews', 'pastors', 'daughterinlaw', 'said', 'robinson', 'recently', 'took', 'daughter', 'mental', 'health', 'facility']","['geraldine', 'andrews', 'reynolds', 'daughterinlaw', 'friend', 'wilsons', 'family', 'said', 'robinson', 'recently', 'taken', 'wilson', 'mental', 'health', 'facility']",4.0
+"['thursdays', 'matinee', 'baker', 'called', 'clubhouse', 'meeting', 'concerned', 'controversy', 'distracted', 'cubs']","['baker', 'called', 'pregame', 'meeting', 'believing', 'corkedbat', 'episode', 'distracted', 'team']",3.4
+"['taken', 'ambulance', 'charing', 'cross', 'hospital', 'hammersmith']","['taken', 'charing', 'cross', 'hospital', 'remained', 'critically', 'ill', 'last', 'night']",2.8
+"['shortly', 'opening', 'bell', 'dow', 'jones', 'industrial', 'average', 'num', 'num', 'sp', 'num', 'index', 'gained', 'num', 'num']","['weak', 'start', 'dow', 'jones', 'industrial', 'average', 'ended', 'day', 'num', 'num', 'sp', 'num', 'index', 'rose', 'num', 'num']",1.6
+"['addition', 'primary', 'care', 'trusts', 'pcts', 'given', 'star', 'ratings', 'first', 'time', 'year']","['primary', 'care', 'trusts', 'mental', 'health', 'trusts', 'also', 'formally', 'rated', 'first', 'time', 'year']",3.8
+"['expending', 'available', 'resources', 'toward', 'investigation', 'said', 'assistant', 'us', 'attorney', 'todd', 'greenberg', 'counterterrorism', 'prosecutor', 'seattle']","['aware', 'situation', 'said', 'assistant', 'us', 'attorney', 'todd', 'greenberg', 'counterterrorism', 'prosecutor', 'seattle']",2.667
+"['technologylaced', 'nasdaq', 'composite', 'index', 'ixic', 'shed', 'num', 'points', 'num', 'percent', 'num']","['broader', 'standard', 'poors', 'num', 'index', 'spx', 'edged', 'num', 'points', 'num', 'percent', 'num']",1.2
+"['research', 'firm', 'earlier', 'forecast', 'increase', 'num', 'percent']","['firm', 'predicted', 'earlier', 'year', 'num', 'percent', 'increase']",4.8
+"['peoplesoft', 'commit', 'num', 'million', 'cash', 'issue', 'num', 'million', 'new', 'shares', 'companies', 'said']","['new', 'deal', 'would', 'valued', 'num', 'billion', 'including', 'num', 'million', 'cash', 'num', 'million', 'peoplesoft', 'shares']",3.0
+"['state', 'union', 'address', 'january', 'bush', 'declared', 'british', 'government', 'learned', 'saddam', 'hussein', 'recently', 'sought', 'significant', 'quantities', 'uranium', 'africa']","['jan', 'num', 'state', 'union', 'message', 'bush', 'said', 'british', 'government', 'learned', 'saddam', 'hussein', 'recently', 'sought', 'significant', 'quantities', 'uranium', 'africa']",4.0
+"['num', 'members', 'split', 'representatives', 'securities', 'industry', 'socalled', 'public', 'board', 'members']","['num', 'directors', 'exchange', 'executives', 'half', 'representatives', 'securities', 'industry', 'half', 'designated', 'public', 'members']",4.0
+"['episcopal', 'diocese', 'central', 'florida', 'became', 'one', 'first', 'nation', 'saturday', 'officially', 'reject', 'national', 'denominations', 'policies', 'homosexuality']","['episcopal', 'diocese', 'central', 'florida', 'voted', 'saturday', 'repudiate', 'decision', 'denominations', 'national', 'convention', 'confirm', 'gay', 'man', 'bishop']",2.75
+"['mcgill', 'also', 'detailed', 'hole', 'cut', 'caprices', 'trunk']","['mcgill', 'also', 'said', 'dark', 'glove', 'stuffed', 'hole', 'cut', 'caprices', 'trunk']",2.25
+"['compared', 'yearearlier', 'profit', 'num', 'million', 'num', 'cents', 'share']","['double', 'num', 'million', 'num', 'cents', 'share', 'yearearlier', 'quarter']",3.2
+"['economy', 'nonetheless', 'yet', 'exhibit', 'sustainable', 'growth']","['economy', 'hasnt', 'shown', 'signs', 'sustainable', 'growth']",4.75
+"['commission', 'estimated', 'california', 'lost', 'num', 'million', 'corporate', 'tax', 'shelters', 'num']","['californias', 'lost', 'tax', 'revenue', 'mostly', 'due', 'international', 'corporate', 'tax', 'shelters']",2.8
+"['markets', 'us', 'treasuries', 'started', 'monday', 'weaker', 'stocks', 'rose', 'early']","['markets', 'us', 'treasuries', 'inched', 'higher', 'declining', 'stocks', 'raised', 'appeal', 'safehaven', 'debt']",1.4
+"['technologylaced', 'nasdaq', 'composite', 'index', 'ixic', 'num', 'points', 'num', 'percent', 'num']","['broader', 'standard', 'poors', 'num', 'index', 'spx', 'gave', 'num', 'points', 'num', 'percent', 'num']",0.75
+"['pentagon', 'hoped', 'retain', 'control', 'postwar', 'effort', 'decision', 'victory', 'secretary', 'state', 'colin', 'l', 'powell']","['pentagon', 'hoped', 'retain', 'control', 'postwar', 'effort', 'decision', 'seen', 'insiders', 'victory', 'powell', 'state', 'department']",3.667
+"['prof', 'sally', 'baldwin', 'num', 'york', 'fell', 'cavity', 'opened', 'structure', 'collapsed', 'tiburtina', 'station', 'italian', 'railway', 'officials', 'said']","['sally', 'baldwin', 'york', 'killed', 'instantly', 'walkway', 'collapsed', 'fell', 'machinery', 'tiburtina', 'station']",3.4
+"['calls', 'agency', 'plan', 'independent', 'safety', 'engineering', 'organization']","['agency', 'yet', 'fully', 'formulate', 'strategy', 'creation', 'independent', 'engineering', 'technical', 'authority']",3.4
+"['worldcoms', 'accounting', 'problems', 'came', 'light', 'early', 'last', 'year', 'company', 'filed', 'bankruptcy', 'july', 'num', 'citing', 'massive', 'accounting', 'irregularities']","['worldcoms', 'financial', 'troubles', 'came', 'light', 'last', 'year', 'company', 'subsequently', 'filed', 'bankruptcy', 'july', 'num']",3.857
+"['study', 'also', 'found', 'consumer', 'goods', 'advertisers', 'continued', 'spend', 'dollars', 'online', 'representing', 'num', 'web', 'advertising']","['second', 'quarter', 'consumer', 'advertisers', 'continued', 'spend', 'online', 'slightly', 'increasing', 'share']",3.0
+"['kiernan', 'testified', 'seifert', 'received', 'gunshot', 'wound', 'back']","['seifert', 'testified', 'gunshot', 'wound', 'back']",3.5
+"['priced', 'num', 'unlimited', 'number', 'users', 'tapping', 'single', 'processor', 'num', 'per', 'user', 'minimum', 'five', 'users']","['priced', 'num', 'num', 'per', 'user', 'licensing', 'plan', 'minimum', 'five', 'users']",3.25
+"['tropical', 'storm', 'heads', 'pass', 'along', 'honduras', 'coast']","['tropical', 'storm', 'warnings', 'southeast', 'coast']",1.4
+"['suicide', 'bomber', 'kills', 'num', 'nigeria', 'church']","['suicide', 'bomber', 'kills', 'num', 'nw', 'pakistan']",0.75
+"['us', 'says', 'ready', 'help', 'blind', 'chinese', 'activist']","['us', 'ready', 'help', 'chinese', 'activist', 'official']",3.4
+"['gazans', 'fire', 'num', 'rockets', 'israel', 'injuries']","['num', 'gaza', 'rockets', 'hit', 'israel', 'injuries']",4.8
+"['berri', 'says', 'ready', 'help', 'launch', 'national', 'unity', 'government']","['perception', 'spain', 'changed', 'dramatically', 'government']",0.4
+"['num', 'dead', 'iraq', 'bomb', 'attacks']","['num', 'killed', 'north', 'iraq', 'attacks']",1.8
+"['hurricane', 'isaac', 'moves', 'inland', 'landfall']","['hurricane', 'isaac', 'batters', 'us', 'coast', 'near', 'new', 'orleans']",2.4
+"['nigeria', 'mourns', 'num', 'people', 'killed', 'plane', 'crash']","['nigeria', 'opens', 'probe', 'deadly', 'air', 'crash']",1.6
+"['icc', 'jails', 'congolese', 'warlord', 'num', 'years', 'child', 'soldiers']","['congolese', 'warlord', 'sentenced', 'num', 'years', 'landmark', 'case', 'video']",3.2
+"['num', 'soldiers', 'killed', 'num', 'injured', 'pkk', 'attack', 'eastern', 'turkey']","['num', 'killed', 'num', 'injured', 'attacks', 'iraq']",0.4
+"['schiphol', 'airport', 'partly', 'evacuated', 'bomb', 'threat']","['schiphol', 'airport', 'evacuated', 'due', 'bomb', 'threat']",4.0
+"['mier', 'ups', 'num', 'growth', 'forecast', 'numpc']","['cmie', 'cuts', 'num', 'growth', 'forecast', 'num']",0.8
+"['activists', 'syrian', 'troops', 'storm', 'damascus', 'suburb']","['activist', 'says', 'syrian', 'citizen', 'cameraman', 'killed', 'homs']",1.4
+"['tehran', 'eu', 'sanctions', 'wont', 'force', 'iran', 'nuclear', 'talks']","['low', 'expectations', 'iran', 'nuclear', 'talks']",1.8
+"['portugal', 'drownings', 'uk', 'girl', 'grandad', 'named']","['british', 'girl', 'grandad', 'drown', 'portugal']",2.2
+"['iran', 'powers', 'set', 'highstakes', 'nuclear', 'talks']","['us', 'iran', 'prepare', 'istanbul', 'nuclear', 'talks']",3.2
+"['syrian', 'forces', 'kill', 'teen', 'aleppo', 'protests']","['syrian', 'forces', 'kill', 'num', 'protesters', 'damascusactivists']",1.2
+"['jaguar', 'create', 'num', 'jobs', 'uk']","['royal', 'mail', 'create', 'num', 'jobs']",1.25
+"['iraq', 'searches', 'syria', 'bound', 'iran', 'plane', 'officials']","['iraq', 'searches', 'syrianbound', 'iranian', 'plane']",4.2
+"['syria', 'fighting', 'rages', 'russia', 'urges', 'western', 'rethink']","['syria', 'fighting', 'rages', 'capital', 'russia', 'pressed']",2.6
+"['erdogans', 'party', 'submits', 'plan', 'turkish', 'presidency']","['erdogans', 'party', 'aims', 'turkish', 'presidency']",3.6
+"['publisher', 'acquitted', 'privacy', 'case']","['pbs', 'publishes', 'new', 'guidelines', 'impartiality']",0.4
+"['samsung', 'overtakes', 'nokia', 'phones']","['charges', 'dog', 'attack', 'police']",0.0
+"['gu', 'kailai', 'murder', 'trial', 'ends', 'china']","['gu', 'kailais', 'murder', 'trial', 'ends', 'china']",5.0
+"['hiding', 'ball', 'russia', 'obama']","['obama', 'says', 'hes', 'hiding', 'ball', 'russia']",4.4
+"['england', 'captain', 'andrew', 'strauss', 'retires', 'professional', 'cricket']","['england', 'captain', 'strauss', 'retires', 'cricket']",4.8
+"['china', 'backs', 'sri', 'lanka', 'un', 'resolution']","['war', 'crimes', 'china', 'backs', 'lanka', 'un', 'resolution']",3.6
+"['ton', 'tendulkar', 'reaches', 'numth', 'international', 'hundred']","['sachin', 'tendulkars', 'reaches', 'num', 'centuries', 'pictures']",3.8
+"['conspiracy', 'lance']","['day', 'begins', 'amid', 'panic']",0.2
+"['mursi', 'takes', 'oath', 'office', 'becomes', 'egyptian', 'president']","['morsi', 'take', 'oath', 'first', 'egypt', 'civilian', 'president']",3.8
+"['syrian', 'opposition', 'pleads', 'criminal', 'court', 'action']","['syrian', 'opposition', 'leader', 'criticizes', 'us']",2.2
+"['sunderland', 'num', 'bolton', 'davies', 'double', 'gets', 'trotters', 'point', 'stay', 'bottom', 'three']","['sunderland', 'num', 'bolton', 'davies', 'double']",4.0
+"['syrian', 'forces', 'shell', 'towns', 'clash', 'rebels']","['syrian', 'forces', 'rebels', 'clash', 'coastal', 'province']",2.6
+"['bahraini', 'protesters', 'police', 'clash', 'funeral']","['greek', 'protesters', 'police', 'clash', 'bailout', 'deal', 'limbo']",0.6000000000000001
+"['apple', 'buying', 'security', 'firm', 'authentec', 'num', 'million']","['news', 'summary', 'apple', 'buying', 'authentec', 'numm']",4.4
+"['trade', 'newspaper', 'variety', 'sale']","['hollywood', 'trade', 'publication', 'variety', 'put', 'sale']",4.0
+"['australians', 'flee', 'homes', 'amid', 'floods']","['australian', 'speaker', 'steps', 'aside']",0.8
+"['germany', 'dodges', 'recession', 'growth', 'first', 'quarter']","['eurozone', 'avoids', 'recession', 'qnum', 'thanks', 'germany']",2.0
+"['asian', 'stocks', 'rise', 'greek', 'vote', 'eases', 'fears']","['oil', 'rises', 'greek', 'election', 'result']",1.4
+"['british', 'soldier', 'killed', 'southern', 'afghanistan']","['two', 'british', 'soldiers', 'killed', 'afghanistan']",3.0
+"['obama', 'silent', 'china', 'dissident']","['obama', 'visit', 'korean', 'dmz']",0.6000000000000001
+"['suicide', 'bomber', 'kills', 'num', 'afghan', 'capital']","['suicide', 'bomber', 'kills', 'num', 'mosque', 'afghanistan']",2.0
+"['denver', 'shooting', 'police', 'detonate', 'devices', 'suspects', 'home']","['police', 'detonate', 'devices', 'colorado', 'shooting', 'suspects', 'home']",4.6
+"['syria', 'hands', 'bodies', 'journalists']","['syria', 'tv', 'says', 'govt', 'troops', 'free', 'captive', 'journalists']",1.4
+"['coroner', 'whitney', 'houston', 'died', 'bathtub']","['coroner', 'confirms', 'whitney', 'houston', 'found', 'bathtub']",4.5
+"['japan', 'suffers', 'severe', 'flooding', 'pictures']","['oklahoma', 'wildfires', 'destroy', 'homes', 'pictures']",0.8
+"['japan', 'deport', 'chinese', 'held', 'island', 'landing']","['german', 'court', 'weighs', 'delay', 'euro', 'fund', 'ruling']",0.0
+"['syria', 'violence', 'amounts', 'civil', 'warred', 'cross']","['syria', 'violence', 'qualifies', 'civil', 'war', 'red', 'cross']",4.4
+"['romney', 'wins', 'nevada', 'caucus']","['romney', 'shifts', 'focus', 'santorum', 'ahead', 'caucuses']",1.0
+"['apple', 'ipad', 'mini', 'makes', 'debut']","['apple', 'ipad', 'mini', 'makes', 'debut', 'asia']",3.4
+"['hamas', 'hangs', 'three', 'gaza', 'prisoners']","['myanmar', 'announces', 'release', 'prisoners']",0.6000000000000001
+"['east', 'timor', 'votes', 'presidential', 'election']","['venezuelans', 'urged', 'vote', 'presidential', 'election']",1.0
+"['sunday', 'times', 'journalist', 'marie', 'colvin', 'killed', 'syria']","['sunday', 'times', 'journalist', 'french', 'photographer', 'killed', 'syria']",2.8
+"['kl', 'shares', 'higher', 'midafternoon']","['kl', 'shares', 'lower', 'midmorning']",1.6
+"['chicago', 'teachers', 'strike', 'bitter', 'contract', 'dispute']","['chicago', 'teachers', 'union', 'delegates', 'could', 'end', 'strike']",2.4
+"['israel', 'free', 'palestinian', 'hunger', 'striker']","['israel', 'asks', 'us', 'arms', 'could', 'aid', 'iran', 'strike']",0.8
+"['good', 'beginning', 'hollandes', 'plane', 'hit', 'lightning', 'en', 'route', 'berlin']","['french', 'president', 'francois', 'hollandes', 'plane', 'hit', 'lightning', 'en', 'route', 'berlin']",4.4
+"['afghan', 'parliament', 'votes', 'oust', 'key', 'ministers']","['afghan', 'parliament', 'votes', 'remove', 'key', 'ministers']",4.8
+"['attacker', 'afghan', 'uniform', 'kills', 'num', 'nato', 'troops']","['man', 'afghan', 'army', 'uniform', 'kills', 'nato', 'soldier']",3.4
+"['cheap', 'generics', 'panacea', 'indias', 'poorest']","['cheap', 'cancer', 'drugs', 'cure', 'indias', 'poorest']",3.8
+"['arrest', 'warrant', 'maldives', 'expresident']","['maldives', 'court', 'issues', 'arrest', 'warrant', 'former', 'president']",4.5
+"['hrw', 'jordan', 'turning', 'away', 'palestinian', 'refugees', 'syria']","['report', 'jordan', 'biased', 'palestinians', 'syria']",2.2
+"['syrian', 'forces', 'overrun', 'rebel', 'stronghold']","['syria', 'army', 'takes', 'northern', 'rebel', 'stronghold']",4.0
+"['chinese', 'stocks', 'close', 'higher', 'midday', 'friday']","['chinese', 'stocks', 'open', 'lower', 'friday']",1.0
+"['sandy', 'slams', 'northeast', 'least', 'num', 'dead', 'numm', 'without', 'power']","['eastern', 'us', 'storms', 'leave', 'num', 'dead', 'va', 'num', 'million', 'without', 'power']",2.6
+"['putin', 'declares', 'victory', 'russia', 'presidential', 'vote']","['complaints', 'russian', 'election', 'mount']",1.0
+"['supreme', 'court', 'hear', 'voting', 'rights', 'act', 'case']","['supreme', 'court', 'hear', 'corporate', 'human', 'rights', 'case']",1.4
+"['libya', 'postpones', 'assembly', 'election', 'july', 'num']","['libya', 'postpones', 'landmark', 'election', 'july', 'num']",4.0
+"['london', 'num', 'olympics', 'opening', 'ceremony', 'feature', 'green', 'pleasant', 'land']","['london', 'num', 'olympics', 'opening', 'ceremony', 'green', 'pleasant', 'land', 'says', 'danny', 'boyle']",4.2
+"['pakistan', 'blocks', 'twitter', 'antiislamic', 'material']","['pakistan', 'blocks', 'twitter', 'blasphemy']",3.8
+"['annan', 'visit', 'syrian', 'refugees', 'turkey', 'tuesday']","['annan', 'visit', 'syrian', 'refugees', 'turkey', 'iran']",3.8
+"['pakistani', 'pm', 'shocked', 'avalanche', 'trapping', 'army', 'personnel']","['pakistan', 'avalanche', 'rescuers', 'search', 'buried', 'soldiers']",2.4
+"['opposition', 'leaders', 'emerge', 'commemorate', 'cambodian', 'workers', 'deaths']","['cambodia', 'opposition', 'leaders', 'summoned', 'court']",0.4
+"['mali', 'due', 'vote', 'president']","['mali', 'counts', 'votes', 'presidential', 'runoff']",2.2
+"['pussy', 'riot', 'member', 'alyokhina', 'released', 'jail', 'russia']","['pussy', 'riot', 'member', 'maria', 'alyokhina', 'freed', 'jail']",4.4
+"['asiana', 'jet', 'crash', 'lands', 'san', 'francisco', 'airport']","['plane', 'crash', 'lands', 'san', 'francisco', 'airport']",3.6
+"['blizzard', 'hammers', 'us', 'northeast', 'five', 'dead', 'num', 'lose', 'power']","['blizzard', 'wallops', 'us', 'northeast', 'closes', 'roads']",2.2
+"['num', 'french', 'journalists', 'killed', 'mali']","['two', 'french', 'journalists', 'killed', 'mali']",5.0
+"['vehicles', 'ablaze', 'collapsed', 'japan', 'tunnel']","['vehicles', 'left', 'burning', 'smoke', 'emits', 'japan', 'tunnel']",4.2
+"['china', 'stocks', 'close', 'lower', 'friday']","['china', 'stocks', 'close', 'higher', 'wednesday']",1.8
+"['mayor', 'says', 'num', 'dead', 'texas', 'fertilizer', 'plant', 'blast']","['rescuers', 'search', 'survivors', 'texas', 'fertiliser', 'plant', 'blast']",1.4
+"['cbn', 'reiterates', 'plan', 'phase', 'polymer', 'notes']","['nigeria', 'announces', 'plans', 'change', 'polymer', 'naira', 'notes']",2.2
+"['us', 'files', 'espionage', 'charges', 'agains', 'nsa', 'leaker']","['us', 'files', 'espionage', 'charges', 'snowden', 'leaks']",3.8
+"['chinese', 'generals', 'son', 'gets', 'num', 'years', 'jail', 'rape']","['chinese', 'generals', 'son', 'gets', 'num', 'years', 'jail', 'gangrape']",4.2
+"['wheres', 'rusty', 'red', 'panda', 'vanishes', 'national', 'zoo']","['missing', 'red', 'panda', 'returned', 'safely', 'national', 'zoo']",2.0
+"['queen', 'beatrix', 'netherlands', 'abdicate', 'son']","['queen', 'beatrix', 'netherlands', 'abdicates', 'favour', 'son']",5.0
+"['us', 'dumps', 'bombs', 'great', 'barrier', 'reef']","['us', 'military', 'jettisons', 'bombs', 'near', 'australias', 'great', 'barrier', 'reef']",3.8
+"['num', 'taliban', 'militants', 'killed', 'afghanistan']","['taliban', 'attacks', 'us', 'base', 'afghanistan']",1.2
+"['powerful', 'typhoon', 'num', 'hits', 'philippines']","['num', 'missing', 'typhoon', 'utor', 'hits', 'philippines']",2.2
+"['calls', 'egypt', 'protests']","['death', 'toll', 'egypt', 'protests', 'rises', 'num']",1.4
+"['us', 'government', 'edge', 'shutdown']","['obama', 'rejects', 'gop', 'offer', 'ease', 'shutdown']",2.4
+"['num', 'killed', 'fighting', 'northern', 'syria']","['many', 'killed', 'syrian', 'air', 'strike']",3.0
+"['critics', 'say', 'putins', 'security', 'restrictions', 'violate', 'rights']","['putins', 'security', 'decree', 'sochi', 'draws', 'ire', 'critics']",3.2
+"['egypt', 'braces', 'protests', 'prays', 'calm']","['egypt', 'braces', 'protests', 'morsi', 'prays', 'calm']",3.8
+"['morsi', 'supporters', 'protest', 'egypt']","['morsi', 'backers', 'defiant', 'face', 'egypt', 'govt', 'threat']",3.0
+"['stocks', 'rise', 'early', 'trading']","['us', 'stocks', 'ease', 'choppy', 'trading']",2.0
+"['bangladesh', 'building', 'collapse', 'death', 'toll', 'hits', 'num', 'army']","['bangladesh', 'buildingcollapse', 'toll', 'tops', 'num']",2.8
+"['defiant', 'mugabe', 'sworn', 'seventh', 'term', 'blasts', 'vile', 'west']","['mugabe', 'sworn', 'another', 'term']",4.0
+"['nelson', 'mandela', 'hospital', 'tests']","['south', 'africa', 'mandela', 'hospital', 'tests']",4.6
+"['iran', 'six', 'global', 'powers', 'sign', 'landmark', 'nuclear', 'deal']","['iran', 'world', 'powers', 'agree', 'nuclear', 'deal']",4.0
+"['algeria', 'mounts', 'military', 'operation', 'rescue', 'al', 'qaeda', 'hostages']","['algeria', 'mulls', 'international', 'force', 'hostages']",2.2
+"['delhi', 'gang', 'rape', 'victim', 'dies', 'singapore', 'hospital']","['delhi', 'gang', 'rape', 'victim', 'flown', 'singapore', 'hospital']",3.4
+"['birth', 'control', 'linked', 'higher', 'glaucoma', 'risk']","['contraceptive', 'pill', 'doubles', 'glaucoma', 'risk']",3.4
+"['malaysia', 'sets', 'may', 'num', 'date', 'closely', 'contested', 'election']","['malaysia', 'sets', 'date', 'landmark', 'elections']",3.4
+"['dhawan', 'smashes', 'india', 'big', 'win', 'south', 'africa']","['dhawan', 'ton', 'sets', 'india', 'trophy', 'win', 'south', 'africa']",4.2
+"['n', 'korea', 'postpones', 'family', 'reunions']","['north', 'korea', 'postpones', 'wartorn', 'family', 'unions']",3.8
+"['syria', 'rejects', 'us', 'uk', 'chemical', 'arms', 'claims']","['us', 'suspects', 'syria', 'used', 'chemical', 'weapons']",2.6
+"['egypt', 'arrests', 'muslim', 'brotherhood', 'supreme', 'guide']","['egypt', 'bans', 'muslim', 'brotherhood', 'group']",2.2
+"['gunmen', 'kill', 'nine', 'people', 'northwest', 'pakistan']","['gunmen', 'kill', 'num', 'policemen', 'iraq']",0.4
+"['news', 'summary', 'march', 'num']","['news', 'summary', 'january', 'num']",1.8
+"['hawaii', 'passes', 'gay', 'marriage', 'bill']","['us', 'senate', 'passes', 'gay', 'workers', 'bill']",1.0
+"['syrian', 'opposition', 'urges', 'eu', 'send', 'arms', 'rebels']","['syrian', 'opposition', 'meets', 'choose', 'interim', 'pm']",1.6
+"['funeral', 'oscar', 'pistorius', 'girlfriend', 'reeva', 'steenkamp', 'takes', 'place']","['oscar', 'pistorius', 'shot', 'steenkamp', 'bathroom']",1.6
+"['two', 'firefighters', 'killed', 'new', 'york', 'ambush']","['two', 'new', 'york', 'firefighters', 'guarded', 'condition', 'deadly', 'ambush']",2.6
+"['ten', 'rescued', 'waterford', 'dublin', 'coasts']","['six', 'rescued', 'boat', 'capsizes', 'dublin', 'bay']",2.6
+"['mars', 'rover', 'collects', 'first', 'bedrock', 'sample']","['wawrinka', 'reaches', 'first', 'grand', 'slam', 'final']",0.0
+"['ankeet', 'chavan', 'granted', 'conditional', 'bail', 'marriage']","['ankeet', 'chavan', 'granted', 'bail', 'get', 'married']",4.4
+"['man', 'battled', 'fukushima', 'disaster', 'dies', 'cancer']","['former', 'plant', 'chief', 'battled', 'fukushima', 'disaster', 'dies', 'cancer']",3.4
+"['iran', 'says', 'nuclear', 'talks', 'resume', 'next', 'month']","['iran', 'says', 'capable', 'jamming', 'foes', 'communication', 'systems']",0.6000000000000001
+"['us', 'authorities', 'charge', 'man', 'ricin', 'probe']","['south', 'african', 'police', 'arrest', 'num', 'farm', 'protest']",0.0
+"['num', 'bodies', 'found', 'raided', 'algerian', 'gas', 'plant']","['num', 'bodies', 'found', 'algerian', 'gas', 'plant']",4.4
+"['ferrer', 'cruises', 'australian', 'open', 'quarterfinals']","['ferrer', 'beats', 'nishikori', 'advance', 'australian', 'open', 'quarterfinals']",3.6
+"['ubs', 'settles', 'us', 'mortgage', 'lawsuit']","['ubs', 'settles', 'us', 'mortgage', 'lawsuit', 'takes', 'numm', 'charge']",3.0
+"['north', 'south', 'korea', 'agree', 'talks']","['north', 'south', 'korea', 'hold', 'rare', 'talks']",3.8
+"['gunmen', 'kill', 'female', 'politician', 'pakistan']","['gunmen', 'kill', 'num', 'female', 'teachers', 'pakistan']",2.2
+"['kardashian', 'divorce', 'ready', 'trial']","['hardhit', 'hotels', 'ready', 'price', 'war']",0.0
+"['new', 'zealand', 'set', 'legalise', 'gay', 'marriage']","['new', 'zealand', 'votes', 'legalise', 'samesex', 'marriage']",4.6
+"['syria', 'regime', 'claims', 'evacuation', 'num', 'near', 'damascus']","['syria', 'army', 'continues', 'mopup', 'operations', 'near', 'damascus']",1.6
+"['nobel', 'prize', 'winning', 'author', 'doris', 'lessing', 'dies']","['nobel', 'laureate', 'doris', 'lessing', 'dies', 'num']",4.6
+"['internet', 'phone', 'service', 'restored', 'syrian', 'capital']","['internet', 'service', 'resumes', 'syria']",4.2
+"['syrian', 'pm', 'survives', 'bomb', 'attack']","['syrian', 'pm', 'survives', 'bomb', 'attack', 'capital']",3.8
+"['us', 'stock', 'futures', 'edge', 'ahead', 'jobs', 'report']","['stock', 'futures', 'edge', 'higher', 'eyes', 'fed']",3.0
+"['bomb', 'blast', 'kills', 'num', 'southwest', 'pakistan']","['major', 'quake', 'kills', 'num', 'pakistan']",1.0
+"['david', 'cameron', 'puts', 'sri', 'lanka', 'notice', 'war', 'crime', 'allegations']","['sri', 'lanka', 'warned', 'war', 'crime', 'allegations']",3.6
+"['morsi', 'supporters', 'clash', 'riot', 'police', 'cairo']","['protesters', 'clash', 'riot', 'police', 'kiev']",0.8
+"['afghan', 'police', 'kill', 'num', 'taliban', 'fighters']","['num', 'taliban', 'num', 'afghan', 'police', 'killed', 'ambushes']",2.2
+"['gunmen', 'kidnap', 'airline', 'pilots', 'lebanon']","['gunmen', 'kidnap', 'num', 'turkish', 'airlines', 'pilots', 'lebanon']",4.2
+"['kurdish', 'rebels', 'withdraw', 'turkey', 'march', 'report']","['kurdish', 'rebels', 'withdraw', 'turkey']",4.2
+"['japan', 'revises', 'gdp', 'growth', 'annual', 'num', 'pct', 'qnum']","['japans', 'gdp', 'growth', 'downgraded', 'annual', 'num']",3.4
+"['foundations', 'south', 'africa', 'built', 'nelson', 'mandelas', 'memory']","['australian', 'politicians', 'lament', 'nelson', 'mandelas', 'death']",1.3
+"['ukraine', 'protest', 'leaders', 'name', 'ministers', 'russian', 'troops', 'alert']","['ukraine', 'refuses', 'act', 'russian', 'provocation']",1.2
+"['malala', 'snowden', 'belarusians', 'shortlisted', 'sakharov', 'prize']","['fugitive', 'snowden', 'shortlisted', 'european', 'rights', 'prize']",3.6
+"['elbaradei', 'become', 'egyptian', 'pm']","['liberal', 'elbaradei', 'named', 'egypt', 'pm', 'islamists', 'cry', 'foul']",3.2
+"['taiwans', 'economy', 'grows', 'num', 'apriljune', 'quarter']","['chinas', 'economic', 'growth', 'rebounds', 'num', 'latest', 'quarter']",1.0
+"['tamerlan', 'tsarnaev', 'buried', 'virginia']","['boston', 'bomb', 'suspect', 'buried', 'virginia', 'cemetery']",3.0
+"['state', 'dept', 'issues', 'wide', 'travel', 'alert', 'says', 'terror', 'attack', 'possible']","['us', 'issues', 'global', 'travel', 'alert', 'cites', 'alqaida', 'threat']",3.8
+"['singapore', 'stocks', 'end', 'num', 'pct']","['singapore', 'stocks', 'end', 'num']",1.6
+"['russia', 'warns', 'ukraine', 'eu', 'deal']","['rebels', 'ukraine', 'helicopters']",1.2
+"['hernandez', 'double', 'gives', 'mexico', 'victory']","['hernandez', 'double', 'gives', 'mexico', 'victory', 'japan']",3.4
+"['china', 'sacks', 'top', 'economic', 'official']","['china', 'fm', 'hosts', 'senior', 'asean', 'officials']",0.4
+"['canada', 'approves', 'oil', 'pipeline', 'pacific', 'coast']","['canadian', 'government', 'approves', 'controversial', 'oil', 'pipeline', 'pacific']",4.8
+"['storm', 'buries', 'northeast', 'num', 'inches', 'snow', 'nj']","['forum', 'urges', 'stable', 'relations', 'china', 'japan']",0.0
+"['jamaican', 'connection', 'liverpools', 'win']","['japan', 'election', 'shinzo', 'abe', 'hails', 'landslide', 'win']",0.4
+"['international', 'weapons', 'experts', 'leave', 'syria', 'obama', 'make', 'statement']","['weapons', 'experts', 'leave', 'syria', 'us', 'prepares', 'attack']",2.8
+"['southwest', 'jet', 'hit', 'nose', 'first']","['southwest', 'jets', 'nose', 'gear', 'landed', 'first']",3.6
+"['twelve', 'killed', 'bomb', 'blast', 'pakistani', 'train']","['gunmen', 'kill', 'nine', 'southwest', 'pakistan', 'police']",2.0
+"['powerful', 'quake', 'strikes', 'eastern', 'indonesia']","['nummag', 'quake', 'strikes', 'eastern', 'indonesia']",4.0
+"['obama', 'lashes', 'north', 'korea', 'pariah', 'state']","['obama', 'lashes', 'north', 'korea', 'weak', 'äėpariah', 'stateäô']",3.8
+"['colombia', 'strike', 'three', 'times']","['colombia', 'slick', 'greece']",1.8
+"['lord', 'palumbo', 'offers', 'hope', 'relationship', 'son', 'james']","['oscar', 'pistorius', 'sent', 'mental', 'evaluation', 'mean']",0.2
+"['deputy', 'speaker', 'faces', 'new', 'sex', 'claims']","['deputy', 'speaker', 'nigel', 'evans', 'rearrested']",2.0
+"['cia', 'chief', 'visits', 'israel', 'syria', 'talks']","['cia', 'chief', 'israel', 'discuss', 'situation', 'syria']",5.0
+"['suicide', 'bomb', 'kills', 'num', 'injures', 'num', 'pakistan']","['twitter', 'blocks', 'content', 'pakistan']",0.0
+"['ukraine', 'rebels', 'flee', 'eastern', 'stronghold']","['ukraine', 'claims', 'rebels', 'flushed', 'main', 'stronghold']",3.6
+"['num', 'foreigners', 'among', 'num', 'killed', 'kabul', 'hotel', 'attack']","['foreigners', 'among', 'dead', 'kabul', 'hotel', 'attack']",3.6
+"['firefighters', 'battle', 'forest', 'fire', 'sw', 'china']","['firefighters', 'battling', 'scrub', 'fire', 'hokianga']",3.4
+"['hassan', 'rouhani', 'wins', 'irans', 'presidential', 'election']","['maduro', 'wins', 'venezuelan', 'presidential', 'vote']",0.2
+"['woman', 'remanded', 'childs', 'death', 'woman', 'remanded', 'custody', 'charged', 'murder', 'eightyearold', 'girl', 'found', 'dead', 'block', 'flats']","['mother', 'held', 'daughters', 'death', 'mother', 'remanded', 'custody', 'charged', 'murder', 'eightyearold', 'daughter', 'found', 'dead', 'block', 'flats']",4.4
+"['redshirt', 'leader', 'calls', 'oppose', 'army']","['oil', 'rig', 'spat', 'beijing', 'send', 'army']",0.6000000000000001
+"['russia', 'praises', 'idea', 'render', 'rights', 'assistance', 'ukraine']","['russia', 'detains', 'suspected', 'islamist', 'militants', 'moscow', 'raid']",0.4
+"['georgian', 'pms', 'ally', 'become', 'president', 'exit', 'poll']","['ally', 'georgias', 'billionaire', 'pm', 'president', 'exit', 'polls']",4.6
+"['car', 'bombs', 'kill', 'least', 'num', 'iraqi', 'capital']","['car', 'bombs', 'kill', 'least', 'num', 'baghdad', 'area']",2.6
+"['saudi', 'arabia', 'gets', 'seat', 'un', 'security', 'council']","['saudi', 'arabia', 'rejects', 'seat', 'un', 'security', 'council']",2.8
+"['us', 'drone', 'strike', 'kills', 'num', 'pakistan']","['us', 'drone', 'kills', 'num', 'pakistan']",3.2
+"['num', 'killed', 'bomb', 'attack', 'pakistani', 'base']","['num', 'soldiers', 'killed', 'bomb', 'attack', 'nw', 'pakistan']",2.0
+"['shenzhen', 'stock', 'indices', 'close', 'higher', 'monday']","['shenzhen', 'stock', 'indices', 'close', 'lower', 'oct', 'num']",1.8
+"['prince', 'harry', 'pays', 'tribute', 'us', 'war', 'dead']","['us', 'presidents', 'pay', 'tribute', 'mandela']",0.4
+"['num', 'dead', 'iraq', 'attacks', 'bomb', 'football', 'pitch']","['num', 'dead', 'iraq', 'attack', 'blitz']",1.4
+"['myanmar', 'arrests', 'num', 'sectarian', 'violence']","['ban', 'warns', 'syria', 'strikes', 'could', 'worsen', 'sectarian', 'violence']",1.2
+"['iran', 'official', 'us', 'visa', 'denial', 'iranian', 'envoy', 'affect', 'nuke', 'talks']","['iranian', 'negotiator', 'upbeat', 'latest', 'nuclear', 'talks']",2.6
+"['govts', 'groups', 'pledge', 'millions', 'typhoon', 'relief']","['canada', 'promises', 'nummillion', 'typhoon', 'relief']",2.4
+"['greece', 'suspends', 'state', 'broadcaster']","['greece', 'close', 'state', 'broadcaster', 'save', 'money']",4.2
+"['guatemalan', 'court', 'finds', 'former', 'dictator', 'guilty', 'genocide']","['guatemalas', 'former', 'leader', 'found', 'guilty', 'genocide']",5.0
+"['beaten', 'florida', 'teen', 'released', 'israel']","['palestinian', 'teen', 'dies', 'wounds', 'sustained', 'israeli', 'shooting']",0.4
+"['iran', 'sextet', 'resume', 'expert', 'talks']","['iran', 'upbeat', 'useful', 'expertlevel', 'nuke', 'talks']",1.6
+"['bangladesh', 'collapse', 'search', 'death', 'toll', 'num']","['bangladesh', 'collapse', 'deaths', 'top', 'num']",3.2
+"['neymar', 'powers', 'brazil', 'last', 'num']","['neymar', 'powers', 'brazil', 'world', 'cup', 'last', 'num']",4.4
+"['ukraine', 'implement', 'unilateral', 'ceasefire']","['ukraine', 'offers', 'unilateral', 'ceasefire']",4.8
+"['stones', 'add', 'second', 'hyde', 'park', 'concert']","['rolling', 'stones', 'add', 'second', 'hyde', 'park', 'date']",5.0
+"['papers', 'say', 'aug', 'num', 'num']","['papers', 'say', 'dec', 'num', 'num']",2.67
+"['num', 'nations', 'meet', 'haze']","['putins', 'marriage', 'end']",0.0
+"['car', 'bomb', 'swedish', 'consulate', 'libyas', 'benghazi', 'casualties']","['car', 'bomb', 'hits', 'swedish', 'consulate', 'benghazi', 'none', 'hurt']",5.0
+"['bomber', 'strikes', 'near', 'pakistan', 'army', 'hq']","['bombing', 'outside', 'restaurant', 'pakistan', 'wounds', 'num']",3.0
+"['croatia', 'begins', 'countdown', 'historic', 'eu', 'entry']","['croatia', 'countdowns', 'joining', 'eu']",4.8
+"['suicide', 'attack', 'kills', 'eight', 'baghdad']","['suicide', 'attacks', 'kill', 'num', 'people', 'baghdad']",2.4
+"['war', 'criminals', 'heroes', 'whitewashing', 'ariel', 'sharon', 'ŕä']","['war', 'criminals', 'heroes', 'whitewashing', 'ariel', 'sharon']",5.0
+"['rogers', 'videotron', 'extend', 'reach', 'networksharing', 'deal']","['rogers', 'videotron', 'reach', 'networksharing', 'spectrum', 'deal']",4.8
+"['prominent', 'aids', 'researchers', 'killed', 'malaysian', 'plane', 'crash']","['top', 'aids', 'researcher', 'killed', 'malaysia', 'plane', 'crash']",5.0
+"['israel', 'forces', 'kill', 'num', 'palestinian', 'militants']","['israeli', 'army', 'kills', 'palestinian', 'militant', 'raid']",3.2
+"['death', 'toll', 'rises', 'num', 'typhoon', 'strikes', 'japan']","['death', 'toll', 'rises', 'num', 'pakistan', 'floods']",1.2
+"['protests', 'continue', 'tense', 'ukraine', 'capital']","['protests', 'continue', 'ukraines', 'capital']",5.0
+"['two', 'french', 'journalists', 'killed', 'mali', 'kidnapping']","['two', 'french', 'journalists', 'abducted', 'killed', 'northern', 'mali']",4.6
+"['headlines', 'major', 'iranian', 'newspapers', 'dec', 'num']","['headlines', 'major', 'iranian', 'newspapers', 'july', 'num']",2.0
+"['iran', 'warns', 'spillover', 'possible', 'war', 'syria']","['iranian', 'delegation', 'heads', 'lebanon', 'syria']",1.8
+"['former', 'pakistan', 'president', 'pervez', 'musharraf', 'arrested']","['former', 'pakistan', 'military', 'ruler', 'pervez', 'musharraf', 'granted', 'bail']",3.0
+"['us', 'drone', 'strike', 'kills', 'num', 'militants', 'pakistan']","['us', 'drone', 'strike', 'kills', 'num', 'pakistan']",3.8
+"['uks', 'expremier', 'margaret', 'thatcher', 'dies', 'num']","['former', 'british', 'pm', 'margaret', 'thatcher', 'dies']",4.0
+"['polar', 'bear', 'dna', 'may', 'help', 'fight', 'obesity']","['polar', 'bear', 'study', 'may', 'boost', 'fight', 'obesity']",4.8
+"['fast', 'amp', 'furious', 'star', 'paul', 'walker', 'dies', 'car', 'crash']","['paul', 'walker', 'dead', 'fast', 'furious', 'star', 'num', 'killed', 'car', 'crash']",4.8
+"['air', 'strike', 'kills', 'one', 'man', 'syrias', 'hama']","['us', 'drone', 'strike', 'kills', 'eleven', 'pakistan']",2.8
+"['turkish', 'pm', 'president', 'clash', 'reply', 'protests']","['turkish', 'president', 'calls', 'calm', 'amid', 'nationwide', 'protests']",2.6
+"['strong', 'new', 'quake', 'hits', 'shattered', 'pak', 'region']","['num', 'quake', 'shattered', 'pakistan', 'region']",4.4
+"['floods', 'central', 'europe', 'continue', 'create', 'havoc']","['europe', 'floods', 'continue', 'create', 'havoc']",4.6
+"['luxembourg', 'pm', 'quits', 'amid', 'spying', 'scandal']","['luxembourg', 'votes', 'spying', 'row']",2.2
+"['num', 'dead', 'num', 'missing', 'central', 'china', 'construction', 'accident']","['one', 'dead', 'num', 'missing', 'vietnam', 'boat', 'accident']",0.4
+"['us', 'china', 'fail', 'paper', 'cracks', 'ties']","['china', 'relief', 'focus', 'hope', 'missing', 'fades']",0.4
+"['world', 'cup', 'live', 'france', 'num', 'germany']","['world', 'cup', 'live', 'germany', 'num', 'ghana']",1.4
+"['tokyo', 'host', 'num', 'games']","['tokyo', 'wins', 'race', 'host', 'num', 'olympic', 'games']",4.8
+"['france', 'warns', 'extremists', 'benefiting', 'egypt', 'violence']","['france', 'fears', 'extremists', 'benefit', 'egypt', 'violence']",4.4
+"['british', 'teenager', 'killed', 'fall', 'magaluf', 'hotel']","['british', 'teenager', 'killed', 'magaluf', 'hotel', 'fall']",5.0
+"['us', 'drone', 'strike', 'kills', 'eight', 'waziristan']","['us', 'drone', 'strike', 'kills', 'num', 'pakistan']",2.0
+"['russian', 'opposition', 'leader', 'house', 'arrest']","['russian', 'opposition', 'leader', 'placed', 'house', 'arrest']",5.0
+"['senate', 'confirms', 'janet', 'yellen', 'chair', 'us', 'federal', 'reserve']","['senate', 'confirms', 'janet', 'yellen', 'next', 'federal', 'reserve', 'chair']",5.0
+"['israel', 'confirms', 'strike', 'syria', 'targeted', 'weapons']","['israel', 'officials', 'strike', 'syria', 'targeted', 'weapons']",5.0
+"['jurors', 'find', 'jodi', 'arias', 'eligible', 'death', 'penalty']","['jodi', 'arias', 'eligible', 'death', 'penalty', 'jury', 'says']",5.0
+"['twitter', 'reports', 'blocking', 'venezuela']","['twitter', 'says', 'images', 'blocked', 'venezuela']",4.0
+"['goa', 'building', 'collapse', 'death', 'toll', 'touches', 'num']","['indian', 'building', 'collapse', 'deaths', 'rise', 'num']",3.0
+"['pak', 'religious', 'body', 'endorses', 'underage', 'marriage']","['cii', 'endorses', 'underage', 'marriage']",3.0
+"['mt', 'gox', 'reveals', 'num', 'forgotten', 'bitcoin', 'haul']","['mt', 'gox', 'finds', 'num', 'forgotten', 'bitcoins']",5.0
+"['num', 'injured', 'texas', 'plant', 'blast']","['hundreds', 'believed', 'injured', 'texas', 'fertiliser', 'plant', 'blast']",4.0
+"['redford', 'touts', 'alberta', 'economy', 'ahead', 'vote', 'leadership']","['redford', 'addresses', 'pc', 'convention', 'ahead', 'leadership', 'review']",2.0
+"['obama', 'holds', 'syria', 'strikes']","['uk', 'urges', 'countries', 'syria', 'aid']",1.0
+"['south', 'korean', 'soldier', 'reportedly', 'flees', 'killing', 'num', 'comrades', 'border', 'north', 'korea']","['south', 'korean', 'soldier', 'kills', 'comrades', 'flees']",4.0
+"['tycoon', 'claims', 'win', 'ukraine', 'promises', 'seek', 'future', 'eu']","['polling', 'stations', 'open', 'ukrainian', 'presidential', 'election']",0.0
+"['syria', 'agrees', 'surrender', 'chemical', 'weapons']","['uks', 'cameron', 'syria', 'russia', 'must', 'show', 'chemical', 'arms', 'proposal', 'genuine']",2.0
+"['abbvie', 'sours', 'numb', 'shire', 'deal', 'tax', 'changes']","['abbvie', 'cools', 'numbn', 'shire', 'deal', 'us', 'tax', 'changes']",5.0
+"['militant', 'attack', 'afghanistan', 'kills', 'four', 'upper', 'dir']","['militant', 'attack', 'afghanistan', 'kills', 'fc', 'soldier', 'balochistan']",3.0
+"['num', 'killed', 'afgan', 'terror', 'attack']","['num', 'killed', 'afghan', 'capital', 'mosque', 'attack']",2.0
+"['revs', 'early', 'reads', 'march', 'num']","['revs', 'early', 'reads', 'sept', 'numrd', 'num']",2.0
+"['pope', 'canonizes', 'num', 'palestinians']","['sweden', 'recognizes', 'palestinian', 'state']",0.0
+"['funeral', 'ian', 'paisley', 'take', 'place', 'belfast']","['funeral', 'mhnum', 'victim', 'liam', 'sweeney', 'takes', 'place', 'newcastle']",0.0
+"['waba', 'emerges', 'new', 'nlc', 'president']","['waiting', 'next', 'president']",1.0
+"['num', 'us', 'airstrikes', 'target', 'islamic', 'state', 'fighters']","['kurds', 'see', 'turkey', 'impeding', 'islamic', 'state', 'fight']",1.0
+"['us', 'senate', 'votes', 'advance', 'iran', 'nuclear', 'review', 'bill']","['us', 'scientists', 'praise', 'iran', 'nuclear', 'deal']",1.0
+"['editors', 'around', 'world', 'urge', 'turkey', 'protect', 'media']","['media', 'freedom', 'stake', 'turkey', 'fights', 'rebels']",2.0
+"['philippines', 'canada', 'pledge', 'boost', 'relations']","['philippines', 'saves', 'num', 'ferry', 'sinks']",0.0
+"['israel', 'bars', 'palestinians', 'jerusalems', 'old', 'city']","['twostate', 'solution', 'palestinians', 'israel', 'pie', 'sky']",1.0
+"['much', 'know', 'secret', 'service']","['lawmakers', 'sides', 'express', 'outrage', 'secret', 'service']",1.0
+"['obama', 'struggles', 'soothe', 'saudi', 'fears', 'iran', 'talks', 'resume']","['myanmar', 'struggles', 'finalize', 'voter', 'lists', 'sunday', 'polls']",0.0
+"['south', 'korea', 'declares', 'end', 'mers', 'outbreak']","['north', 'korea', 'delegation', 'meets', 'south', 'korean', 'officials']",0.0
