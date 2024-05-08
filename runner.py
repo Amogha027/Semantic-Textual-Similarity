@@ -29,7 +29,7 @@ class STS_Score:
     def __init__(self):
         self.lemmatizer = WordNetLemmatizer()
         self.ps = PorterStemmer()
-        self.word_dict = load_file("word_dict.pickle")
+        self.word_dict = load_file("data/word_dict.pickle")
         model_path = "data/GoogleNews-vectors-negative300.bin"
         self.model = KeyedVectors.load_word2vec_format(model_path, binary=True)
 
@@ -95,8 +95,8 @@ class STS_Score:
 
 
 if __name__ == "__main__":
-    input1 = input("Enter your first sentence:\t")
-    input2 = input("Enter your second sentence:\t")
+    input1 = input("Enter your first sentence: ")
+    input2 = input("Enter your second sentence: ")
 
     print("Generating the similarity score......")
     sts = STS_Score()
